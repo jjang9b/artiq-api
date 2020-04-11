@@ -839,25 +839,6 @@ let post = [
     date: '2017. 6. 30'
   },
   {
-    image: 'https://www.lukasgraham.com/sites/g/files/g2000005361/f/201604/12918613_1034019863339241_982674834_n.jpg%3Fig_cache_key%3DMTIyMzI5MjE4MTA5NDk1MDc0Nw%253D%253D.2',
-    imageText: 'Lukas Graham - Drunk In The Morning [Official Music Video ]',
-    backBtnType: 'w',
-    content: [
-      {
-        type: 'youtube',
-        data: "-yvHqenLpUU",
-        desc: ''
-      },
-      {
-        type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=-yvHqenLpUU',
-        desc: ''
-      },
-    ],
-    origin: 'youtube',
-    date: '2017. 3. 16'
-  },
-  {
     image: 'https://i.ytimg.com/vi/EtogCD8T83M/maxresdefault.jpg',
     imageText: "죠지 - 바라봐줘요",
     backBtnType: 'w',
@@ -1293,7 +1274,45 @@ let post = [
     ],
     origin: 'youtube',
     date: '2020. 2. 22'
-  },      
+  },
+  {
+    image: 'https://i.ytimg.com/vi/5orrZxSjLQA/hqdefault.jpg',
+    imageText: 'Charlie Puth - The Way I Am',
+    backBtnType: 'w',
+    content: [
+      {
+        type: 'youtube',
+        data: "EQnk-h-LCpQ",
+        desc: ''
+      },
+      {
+        type: 'text',
+        data: '출처 https://www.youtube.com/watch?v=EQnk-h-LCpQ',
+        desc: ''
+      },
+    ],
+    origin: 'youtube',
+    date: '2018. 7. 9'
+  },
+  {
+    image: 'https://scontent-yyz1-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/72725666_935390136860474_2810627684568422566_n.jpg?_nc_ht=scontent-yyz1-1.cdninstagram.com&_nc_cat=102&_nc_ohc=Gzuvy42PURoAX-qkCnH&oh=c1dd8368f578f5310c8b69d38e8c0c86&oe=5EBF97A2',
+    imageText: '박정현 - 까만 일기장 (비긴어게인3)',
+    backBtnType: 'w',
+    content: [
+      {
+        type: 'youtube',
+        data: "rlU7CMsglvY",
+        desc: ''
+      },
+      {
+        type: 'text',
+        data: '출처 https://www.youtube.com/watch?v=rlU7CMsglvY',
+        desc: ''
+      },
+    ],
+    origin: 'youtube',
+    date: '2020. 3. 23'
+  },
 ];
 
 exports.post = post;

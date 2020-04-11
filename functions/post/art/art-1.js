@@ -345,134 +345,6 @@ let post = [
     date: '2015. 11'
   },
   {
-    image: 'https://i.pinimg.com/564x/e6/fe/98/e6fe9828d40ae19a323f353970b3bb81.jpg',
-    imageText: 'Artist app design',
-    backBtnType: 'w',
-    content: [
-      {
-        type: 'image',
-        data: "https://i.pinimg.com/564x/4b/df/fd/4bdffdbfeda710c23b3df3c0efb8d4ca.jpg",
-        desc: ''
-      },
-      {
-        type: 'image',
-        data: "https://i.pinimg.com/564x/08/80/5e/08805edf4d051ffb5f1450cfa68b8b3d.jpg",
-        desc: ''
-      },
-      {
-        type: 'image',
-        data: "https://i.pinimg.com/564x/34/de/c5/34dec5d97beb0b26f1296c9afdf663cd.jpg",
-        desc: ''
-      },
-      {
-        type: 'image',
-        data: "https://i.pinimg.com/564x/cc/43/c3/cc43c37d43184a5802c07896b201e48d.jpg",
-        desc: ''
-      },
-      {
-        type: 'image',
-        data: "https://i.pinimg.com/564x/c6/83/c1/c683c1cfc6c2ee253a1b8e7199bd542d.jpg",
-        desc: ''
-      },
-      {
-        type: 'image',
-        data: "https://i.pinimg.com/564x/5a/47/f2/5a47f2852e26273d1b6171cf23e11a6a.jpg",
-        desc: ''
-      },
-      {
-        type: 'image',
-        data: "https://i.pinimg.com/originals/08/b5/cf/08b5cff814890a3d2daa9cbce9d92cdc.gif",
-        desc: ''
-      },
-      {
-        type: 'image',
-        data: "https://cdn.dribbble.com/users/2345673/screenshots/6513532/marcel-shot2_4x.jpg?compress=1&resize=800x600",
-        desc: ''
-      },
-      {
-        type: 'text',
-        data: '출처 pinterest.co.kr',
-        desc: ''
-      },
-    ],
-    origin: 'pinterest',
-    date: '2000. 1'
-  },
-  {
-    image: 'https://i.pinimg.com/564x/01/ed/0d/01ed0dd7c60122c8938eee96a22675cf.jpg',
-    imageText: 'Print Art',
-    backBtnType: 'w',
-    content: [
-      {
-        type: 'image',
-        data: "https://i.pinimg.com/564x/2a/1e/d0/2a1ed079102e7d332798dffb674f81d4.jpg",
-        desc: ''
-      },
-      {
-        type: 'image',
-        data: "https://i.pinimg.com/564x/16/cc/48/16cc48999b575b8c43ca500390d16492.jpg",
-        desc: ''
-      },
-      {
-        type: 'image',
-        data: "https://i.pinimg.com/564x/98/d0/b3/98d0b32dd1bf8873d17994c3990eaa87.jpg",
-        desc: ''
-      },
-      {
-        type: 'image',
-        data: "https://i.pinimg.com/564x/04/86/ad/0486ad39bdd41b9fe075891d4686a837.jpg",
-        desc: ''
-      },
-      {
-        type: 'image',
-        data: "https://i.pinimg.com/564x/a4/fd/92/a4fd92bc9fd8e0da90b1be388e0460a2.jpg",
-        desc: ''
-      },
-      {
-        type: 'image',
-        data: "https://i.pinimg.com/564x/f3/81/75/f3817560acc6071d5e52e94767c3c81e.jpg",
-        desc: ''
-      },
-      {
-        type: 'image',
-        data: "https://i.pinimg.com/564x/2f/e7/a8/2fe7a8a79fae726afe228233bcb5f296.jpg",
-        desc: ''
-      },
-      {
-        type: 'image',
-        data: "https://i.pinimg.com/564x/f0/a4/0c/f0a40cae1fddb7d2e6d847a54c2aaf6a.jpg",
-        desc: ''
-      },
-      {
-        type: 'image',
-        data: "https://i.pinimg.com/564x/44/87/00/448700228360eb723858d47ac351582e.jpg",
-        desc: ''
-      },
-      {
-        type: 'image',
-        data: "https://i.pinimg.com/564x/1d/42/82/1d4282de39ffc3641e50dd038c0c72b6.jpg",
-        desc: ''
-      },
-      {
-        type: 'image',
-        data: "https://i.pinimg.com/564x/d3/67/09/d3670910344ba172b4c0d660bc7af9db.jpg",
-        desc: ''
-      },
-      {
-        type: 'image',
-        data: "https://i.pinimg.com/564x/f0/a4/0c/f0a40cae1fddb7d2e6d847a54c2aaf6a.jpg",
-        desc: ''
-      },
-      {
-        type: 'text',
-        data: '출처 pinterest.co.kr',
-        desc: ''
-      },
-    ],
-    origin: 'pinterest',
-    date: '2000. 1'
-  },
-  {
     image: 'https://i.pinimg.com/564x/5a/69/4f/5a694f8b25a0da6dc4974fbc24fd8ed8.jpg',
     imageText: "SciFi Art",
     backBtnType: 'w',
@@ -821,7 +693,7 @@ let post = [
     ],
     origin: 'pinterest',
     date: '2000. 1'
-  },    
+  },
 ];
 
 exports.post = post;
