@@ -84,7 +84,7 @@ let post = [
     date: '2019. 2. 6'
   },
   {
-    image: 'https://pictures.brafton.com/x_0_0_0_14119523_800.jpg',
+    image: 'https://i.pinimg.com/564x/5d/a5/6c/5da56cd1e61c2241520ac619edcb92b4.jpg',
     imageText: 'Mullally - Sweet Coffee',
     backBtnType: 'b',
     content: [
@@ -1352,7 +1352,7 @@ let post = [
     date: '2009. 9. 20'
   },
   {
-    image: 'https://lh3.googleusercontent.com/proxy/NwgKDQ8Y4K856_L06x3b57O1EDoX_-c1g9rx1mr4I2jFbpqVulfuklFLDAuhHe7OaPuZEsVfCGGz8s9f06tDWxUV5vXdCByU4j8uXSty_janqn37Zkd3cTITyTcBwX2RlcwIqSBUm--qOD2G4PneZcnZUsKc4F_I037vspJYkiwmncvrn_BX0UqZmtThJjL73uWQ4Bzil4VT0NO4Z99wVRzhPwYThJqyH1782vdeRhlkKvYBN9zdgG2ZlOD1Wdvjt-5VNa7Wj-uVUpcI5RnaeHv3D-8ietviqrXM6T05dR3Rte7tfdY-2H4BKuN3XeKInef3dUJRA1o54S8',
+    image: 'https://live.staticflickr.com/2851/9432195460_bb614634df_b.jpg',
     imageText: "Bruno mars - Treasure",
     backBtnType: 'w',
     content: [
@@ -1369,6 +1369,101 @@ let post = [
     ],
     origin: 'youtube',
     date: '2015. 4. 4'
+  },
+  {
+    image: 'https://upload.wikimedia.org/wikipedia/en/thumb/5/5f/Show_And_Tell_-_Al_Wilson.jpg/220px-Show_And_Tell_-_Al_Wilson.jpg',
+    imageText: "Al Wilson - Show And Tell",
+    backBtnType: 'w',
+    content: [
+      {
+        type: 'youtube',
+        data: "ItgAlRuafaU",
+        desc: ''
+      },
+      {
+        type: 'text',
+        data: '출처 https://www.youtube.com/watch?v=ItgAlRuafaU',
+        desc: ''
+      },
+    ],
+    origin: 'youtube',
+    date: '2010. 4. 3'
+  },
+  {
+    image: 'https://i.pinimg.com/564x/15/73/4b/15734b795ad98ce48d9985ad21e539da.jpg',
+    imageText: "In Performance at The White House | Justin Timberlake | (Sittin' On) The Dock Of The Bay",
+    backBtnType: 'w',
+    content: [
+      {
+        type: 'youtube',
+        data: "tIx6_Z5v88k",
+        desc: ''
+      },
+      {
+        type: 'text',
+        data: '출처 https://www.youtube.com/watch?v=tIx6_Z5v88k',
+        desc: ''
+      },
+    ],
+    origin: 'youtube',
+    date: '2013. 4. 17'
+  },
+  {
+    image: 'https://i.ytimg.com/vi/4pZlFDQ1N2E/hqdefault.jpg',
+    imageText: "Jamie Foxx - I Got a Woman (The Jonathan Ross Show)",
+    backBtnType: 'w',
+    content: [
+      {
+        type: 'youtube',
+        data: "4pZlFDQ1N2E",
+        desc: ''
+      },
+      {
+        type: 'text',
+        data: '출처 https://www.youtube.com/watch?v=4pZlFDQ1N2E',
+        desc: ''
+      },
+    ],
+    origin: 'youtube',
+    date: '2013. 1. 13'
+  },
+  {
+    image: 'https://img.discogs.com/Lf84DdWwdU_LOtKMXVbl7fiwfL8=/fit-in/568x574/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1918469-1252398548.jpeg.jpg',
+    imageText: "Ray Charles - Georgia On My Mind (Live)",
+    backBtnType: 'w',
+    content: [
+      {
+        type: 'youtube',
+        data: "qIp9TwSEgFg",
+        desc: ''
+      },
+      {
+        type: 'text',
+        data: '출처 https://www.youtube.com/watch?v=qIp9TwSEgFg',
+        desc: ''
+      },
+    ],
+    origin: 'youtube',
+    date: '2016. 11. 8'
+  },
+  {
+    image: 'https://i.ytimg.com/vi/CzAkTrDiXxg/maxresdefault.jpg',
+    imageText: "Ray Charles - Song For You (Live at Montreux 1997)",
+    backBtnType: 'w',
+    content: [
+      {
+        type: 'youtube',
+        data: "CzAkTrDiXxg",
+        desc: ''
+      },
+      {
+        type: 'text',
+        data: '출처 https://www.youtube.com/watch?v=CzAkTrDiXxg',
+        desc: ''
+      },
+    ],
+    origin: 'youtube',
+    date: '2017. 7. 13'
   },
 ];
 

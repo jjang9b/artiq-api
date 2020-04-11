@@ -18,7 +18,7 @@ let getData = (type) => {
       break;
     case 'music':
       let musicPost = musicList.sort(() => 0.5-Math.random());
-      return musicPost[0].sort(() => 0.5-Math.random()).slice(0, 14);
+      return musicPost[0].sort(() => 0.5-Math.random()).slice(0, 15);
         break;
     default:
   }
