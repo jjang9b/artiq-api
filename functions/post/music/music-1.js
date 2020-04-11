@@ -1313,6 +1313,63 @@ let post = [
     origin: 'youtube',
     date: '2020. 3. 23'
   },
+  {
+    image: 'https://i.ytimg.com/vi/XXx6RDzR6eM/maxresdefault.jpg',
+    imageText: "Al Green - Let's Stay Together",
+    backBtnType: 'w',
+    content: [
+      {
+        type: 'youtube',
+        data: "COiIC3A0ROM",
+        desc: ''
+      },
+      {
+        type: 'text',
+        data: '출처 https://www.youtube.com/watch?v=COiIC3A0ROM',
+        desc: ''
+      },
+    ],
+    origin: 'youtube',
+    date: '2009. 9. 20'
+  },
+  {
+    image: 'https://i.ytimg.com/vi/bEeaS6fuUoA/maxresdefault.jpg',
+    imageText: "Bill Withers - Lovely Day",
+    backBtnType: 'w',
+    content: [
+      {
+        type: 'youtube',
+        data: "COiIC3A0ROM",
+        desc: ''
+      },
+      {
+        type: 'text',
+        data: '출처 https://www.youtube.com/watch?v=COiIC3A0ROM',
+        desc: ''
+      },
+    ],
+    origin: 'youtube',
+    date: '2009. 9. 20'
+  },
+  {
+    image: 'https://lh3.googleusercontent.com/proxy/NwgKDQ8Y4K856_L06x3b57O1EDoX_-c1g9rx1mr4I2jFbpqVulfuklFLDAuhHe7OaPuZEsVfCGGz8s9f06tDWxUV5vXdCByU4j8uXSty_janqn37Zkd3cTITyTcBwX2RlcwIqSBUm--qOD2G4PneZcnZUsKc4F_I037vspJYkiwmncvrn_BX0UqZmtThJjL73uWQ4Bzil4VT0NO4Z99wVRzhPwYThJqyH1782vdeRhlkKvYBN9zdgG2ZlOD1Wdvjt-5VNa7Wj-uVUpcI5RnaeHv3D-8ietviqrXM6T05dR3Rte7tfdY-2H4BKuN3XeKInef3dUJRA1o54S8',
+    imageText: "Bruno mars - Treasure",
+    backBtnType: 'w',
+    content: [
+      {
+        type: 'youtube',
+        data: "jz7C2W4m26U",
+        desc: ''
+      },
+      {
+        type: 'text',
+        data: '출처 https://www.youtube.com/watch?v=jz7C2W4m26U',
+        desc: ''
+      },
+    ],
+    origin: 'youtube',
+    date: '2015. 4. 4'
+  },
 ];
 
 exports.post = post;
