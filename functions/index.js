@@ -1,7 +1,7 @@
 const functions = require('firebase-functions');
 
 let musicList = [];
-for (let i = 1; i <= 1; i++) {
+for (let i = 1; i <= 2; i++) {
   musicList.push(require(`./post/music/music-${i}`)['post']);
 }
 
@@ -39,7 +39,7 @@ exports.guide = functions.region('asia-northeast1').https.onRequest((req, res) =
     {
       image: 'https://i.pinimg.com/564x/2a/6d/aa/2a6daa2a9c14e54c2337e9e20d88c9a9.jpg',
       title: 'MUSIC',
-      text: '좋은 음악 같이 즐기러 가요. 접속시마다 다른 엄선된 음악들을 추천드립니다.\n\n"더 보기 > MUSIC 탭 > 다음 포스트 자동 재생" 설정도 잊지 마세요.'
+      text: '좋은 음악 같이 즐기러 가요. 매번 엄선된 음악들을 추천합니다.\n\nMUSIC 포스트 - 하나 재생, 연속 재생, 랜덤 재생도 잊지 마세요!'
     },
   ]);
 });
