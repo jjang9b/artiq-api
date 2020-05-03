@@ -1,7 +1,7 @@
 const functions = require('firebase-functions');
 
 let musicList = [];
-for (let i = 1; i <= 2; i++) {
+for (let i = 1; i <= 1; i++) {
   musicList.push(require(`./post/music/music-${i}`)['post']);
 }
 
@@ -27,14 +27,14 @@ let getData = (type) => {
 exports.guide = functions.region('asia-northeast1').https.onRequest((req, res) => {
   res.status(200).send([
     {
-      image: 'https://i.pinimg.com/564x/fa/67/d2/fa67d2c85c7213f6172ec602acd46b31.jpg',
+      image: 'https://i.pinimg.com/564x/b1/8a/f7/b18af7736419d55d6d555eb042bd9a77.jpg',
       title: '음악, 미술 포스트 ArtiQ',
       text: 'Music makes us happy ♪'
     },
     {
-      image: 'https://i.pinimg.com/564x/d9/d1/38/d9d138acafa9c7975f0ca0e8e92c8cdc.jpg',
+      image: 'https://i.pinimg.com/564x/4d/6a/d6/4d6ad60c5fe202b33b02f64c4d81f7a8.jpg',
       title: 'ART',
-      text: '너무 멋지다, 이런 감각적인 그림을 볼때면'
+      text: 'Sensuous and wonderful paintings'
     },
     {
       image: 'https://i.pinimg.com/564x/2a/6d/aa/2a6daa2a9c14e54c2337e9e20d88c9a9.jpg',
