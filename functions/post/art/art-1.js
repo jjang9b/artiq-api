@@ -219,7 +219,7 @@ let post = [
   {
     image: 'https://i.pinimg.com/564x/62/a6/3b/62a63b3b4e16bbe4ad8758ce807f87eb.jpg',
     imageText: "newenglandwoodstock Tumblr",
-    backBtnType: 'w',
+    backBtnType: 'b',
     content: [
       {
         type: 'image',

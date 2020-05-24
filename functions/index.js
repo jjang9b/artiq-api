@@ -18,7 +18,7 @@ let getData = (type) => {
       break;
     case 'music':
       let musicPost = musicList.sort(() => 0.5-Math.random());
-      return musicPost[0].sort(() => 0.5-Math.random()).slice(0, 15);
+      return musicPost[0].sort(() => 0.5-Math.random()).slice(0, 20);
         break;
     default:
   }
@@ -27,19 +27,19 @@ let getData = (type) => {
 exports.guide = functions.region('asia-northeast1').https.onRequest((req, res) => {
   res.status(200).send([
     {
-      image: 'https://i.pinimg.com/564x/b1/8a/f7/b18af7736419d55d6d555eb042bd9a77.jpg',
+      image: 'https://i.pinimg.com/564x/d5/b6/71/d5b6717d8d08943450e2ca664e93cd27.jpg',
       title: '음악, 미술 포스트 ArtiQ',
       text: 'Music makes us happy ♪'
     },
     {
-      image: 'https://i.pinimg.com/564x/4d/6a/d6/4d6ad60c5fe202b33b02f64c4d81f7a8.jpg',
+      image: 'https://i.pinimg.com/564x/9e/20/59/9e20594b101e33b4ee80d7fd61600c77.jpg',
       title: 'ART',
       text: 'Sensuous and wonderful paintings'
     },
     {
-      image: 'https://i.pinimg.com/564x/2a/6d/aa/2a6daa2a9c14e54c2337e9e20d88c9a9.jpg',
+      image: 'https://i.pinimg.com/564x/0c/2d/55/0c2d5501d080cd29f73c6aab6e5682fd.jpg',
       title: 'MUSIC',
-      text: '좋은 음악 같이 즐기러 가요. 매번 엄선된 음악들을 추천합니다.\n\nMUSIC 포스트 - 하나 재생, 연속 재생, 랜덤 재생도 잊지 마세요!'
+      text: '좋은 음악 같이 즐기러 가요. 매번 엄선된 음악들을 추천합니다.\n\nMUSIC - 하나 재생, 연속 재생, 랜덤 재생도 잊지 마세요!'
     },
   ]);
 });
