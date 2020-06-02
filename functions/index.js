@@ -1,7 +1,7 @@
 const functions = require('firebase-functions');
 
 let musicList = [];
-for (let i = 1; i <= 1; i++) {
+for (let i = 1; i <= 2; i++) {
   musicList.push(require(`./post/music/music-${i}`)['post']);
 }
 
@@ -18,7 +18,7 @@ let getData = (type) => {
       break;
     case 'music':
       let musicPost = musicList.sort(() => 0.5-Math.random());
-      return musicPost[0].sort(() => 0.5-Math.random()).slice(0, 20);
+      return musicPost[0].sort(() => 0.5-Math.random()).slice(0, 25);
         break;
     default:
   }
@@ -27,19 +27,19 @@ let getData = (type) => {
 exports.guide = functions.region('asia-northeast1').https.onRequest((req, res) => {
   res.status(200).send([
     {
-      image: 'https://i.pinimg.com/564x/d5/b6/71/d5b6717d8d08943450e2ca664e93cd27.jpg',
-      title: '음악, 미술 포스트 ArtiQ',
+      image: 'https://i.pinimg.com/564x/8a/f3/34/8af3348b4d4f6db82f0a322b8aefa7f0.jpg',
+      title: '감각적 음악 창고 ArtiQ',
       text: 'Music makes us happy ♪'
     },
     {
-      image: 'https://i.pinimg.com/564x/9e/20/59/9e20594b101e33b4ee80d7fd61600c77.jpg',
-      title: 'ART',
-      text: 'Sensuous and wonderful paintings'
+      image: 'https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fk.kakaocdn.net%2Fdn%2FyGUcd%2FbtqEv7UBZmj%2F0cvmEQhP4kusm7XXiBBEiK%2Fimg.png',
+      title: 'MUSIC',
+      text: '듣고 싶은 음악을 눌러 주세요\n또 새로운 음악을 감상하고 싶을 땐 갱신 버튼을\n눌러보세요'
     },
     {
-      image: 'https://i.pinimg.com/564x/0c/2d/55/0c2d5501d080cd29f73c6aab6e5682fd.jpg',
+      image: 'https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fk.kakaocdn.net%2Fdn%2FbrIz7v%2FbtqEo71lGVT%2FIGitLx4uoDOpZvkeTJ1b2K%2Fimg.png',
       title: 'MUSIC',
-      text: '좋은 음악 같이 즐기러 가요. 매번 엄선된 음악들을 추천합니다.\n\nMUSIC - 하나 재생, 연속 재생, 랜덤 재생도 잊지 마세요!'
+      text: '하나, 연속, 랜덤 자동 재생이 가능합니다\n\n그럼 좋은 음악과 그림들 같이 즐기러 가요 ♭'
     },
   ]);
 });

@@ -694,6 +694,70 @@ let post = [
     origin: 'pinterest',
     date: '2000. 1'
   },
+  {
+    image: 'https://i.pinimg.com/564x/70/eb/60/70eb60538cb1e0badb024b09de5bd1ed.jpg',
+    imageText: '텍스트 디자인',
+    backBtnType: 'w',
+    content: [
+      {
+        type: 'image',
+        data: "https://i.pinimg.com/564x/4e/a3/bc/4ea3bc1baedcc2d7c7eca71747fb2174.jpg",
+        desc: ''
+      },
+      {
+        type: 'image',
+        data: "https://i.pinimg.com/564x/9f/80/b2/9f80b22c80101cb741b318e844737181.jpg",
+        desc: ''
+      },
+      {
+        type: 'image',
+        data: "https://i.pinimg.com/564x/3b/91/53/3b9153a09f7c4c1aa9cf910c307b756d.jpg",
+        desc: ''
+      },
+      {
+        type: 'image',
+        data: "https://i.pinimg.com/564x/42/91/4b/42914b7e4df34f05aa8d0931a8cd05fe.jpg",
+        desc: ''
+      },
+      {
+        type: 'image',
+        data: "https://i.pinimg.com/564x/7e/3d/c5/7e3dc54bc86b8aa36fa9aac0dcc2e0cc.jpg",
+        desc: ''
+      },
+      {
+        type: 'image',
+        data: "https://i.pinimg.com/564x/6b/a8/d6/6ba8d6051be2d9281e4248f3e368ee42.jpg",
+        desc: ''
+      },
+      {
+        type: 'image',
+        data: "https://i.pinimg.com/564x/bf/2e/7e/bf2e7e91092aea6da46b5919d0236e09.jpg",
+        desc: ''
+      },
+      {
+        type: 'image',
+        data: "https://i.pinimg.com/564x/aa/83/b5/aa83b5059107e625770d5269d9443476.jpg",
+        desc: ''
+      },
+      {
+        type: 'image',
+        data: "https://i.pinimg.com/236x/9f/3e/15/9f3e15cf7da884b2f7e7943de304c3bf.jpg",
+        desc: ''
+      },
+      {
+        type: 'image',
+        data: "https://i.pinimg.com/564x/56/cf/e8/56cfe8b666a33a4fe327051bd550548b.jpg",
+        desc: ''
+      },
+      {
+        type: 'image',
+        data: "https://i.pinimg.com/564x/c9/78/ca/c978ca1d242f11808d1d27efc0e38341.jpg",
+        desc: ''
+      },
+    ],
+    origin: 'pinterest',
+    date: '2000. 1'
+  },
 ];
 
 exports.post = post;
