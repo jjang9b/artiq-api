@@ -2145,7 +2145,7 @@ let post = [
     ],
     origin: 'youtube',
     date: '2017. 8. 10'
-  },
+  },  
 ];
 
 exports.post = post;

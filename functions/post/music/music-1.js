@@ -3,6 +3,7 @@ let post = [
     image: 'https://s.mxmcdn.net/images-storage/albums4/9/9/8/2/5/1/35152899_800_800.jpg',
     imageText: 'Mullally - Wonderful',
     backBtnType: 'w',
+    genre: 'foreign-rnb',
     content: [
       {
         type: 'youtube',
@@ -22,6 +23,7 @@ let post = [
     image: 'https://images.genius.com/cbf4cda8ca81f86c154d3f917eb23d5a.320x320x1.jpg',
     imageText: 'Johnny Balik - Honey (Official Audio)',
     backBtnType: 'b',
+    genre: 'foreign-rnb',
     content: [
       {
         type: 'text',
@@ -47,6 +49,7 @@ let post = [
     image: 'https://i.scdn.co/image/ab67616d0000b273432b785048e2a41ace93e3f1',
     imageText: 'Johnny Stimson - Gimme Gimme',
     backBtnType: 'w',
+    genre: 'foreign-rnb',
     content: [
       {
         type: 'youtube',
@@ -66,6 +69,7 @@ let post = [
     image: 'https://i.pinimg.com/564x/5d/a5/6c/5da56cd1e61c2241520ac619edcb92b4.jpg',
     imageText: 'Mullally - Sweet Coffee',
     backBtnType: 'b',
+    genre: 'foreign-rnb',
     content: [
       {
         type: 'youtube',
@@ -84,6 +88,7 @@ let post = [
     image: 'https://e-news.us/wp-content/uploads/2019/04/tr-jpg-92.jpg',
     imageText: 'Johnny Stimson - Flower',
     backBtnType: 'w',
+    genre: 'foreign-rnb',
     content: [
       {
         type: 'youtube',
@@ -103,6 +108,7 @@ let post = [
     image: 'https://i.ytimg.com/vi/CDBL_JjoC1M/maxresdefault.jpg',
     imageText: 'RINI - Oceane ft. Olivia Escuyos',
     backBtnType: 'w',
+    genre: 'foreign-rnb',
     content: [
       {
         type: 'text',
@@ -127,6 +133,7 @@ let post = [
     image: 'https://phinf.pstatic.net/tvcast/20200314_277/i0M9g_1584115908973rkDYr_JPEG/B120196068_EPI0003_31_B.jpg',
     imageText: '45RPM - YOU & ME Feat. gong (공)',
     backBtnType: 'w',
+    genre: 'korea-hiphop',
     content: [
       {
         type: 'youtube',
@@ -146,6 +153,7 @@ let post = [
     image: 'https://i.ytimg.com/vi/MY7CFJuBrIs/0.jpg?imageType=video',
     imageText: 'Easy Life - Dead Celebrities',
     backBtnType: 'w',
+    genre: 'foreign-rnb',
     content: [
       {
         type: 'youtube',
@@ -165,6 +173,7 @@ let post = [
     image: 'https://t2.daumcdn.net/thumb/R720x0/?fname=http://t1.daumcdn.net/brunch/service/user/27PV/image/B2SaAFuPl0vT-4UReK5s1TLTupU.jpg',
     imageText: 'HONNE - Day 1',
     backBtnType: 'w',
+    genre: 'foreign-rnb',
     content: [
       {
         type: 'youtube',
@@ -184,6 +193,7 @@ let post = [
     image: 'https://i.ytimg.com/vi/SB4Jra4zR80/maxresdefault.jpg',
     imageText: 'HONNE - Me & You',
     backBtnType: 'w',
+    genre: 'foreign-rnb',
     content: [
       {
         type: 'youtube',
@@ -203,6 +213,7 @@ let post = [
     image: 'https://t1.daumcdn.net/cfile/tistory/2502D1405833797716',
     imageText: "Ella Mai - She Don't Ft. TyDolla$ign [Official Video]",
     backBtnType: 'w',
+    genre: 'black',
     content: [
       {
         type: 'youtube',
@@ -221,6 +232,7 @@ let post = [
   {
     image: 'https://www.rollingstone.com/wp-content/uploads/2018/06/watch-ella-mai-music-video-for-bood-up-1-1a5ad85f-75e5-4b9e-9dff-2a0757cbd17b.jpg?resize=1800,1200&w=1800',
     imageText: "Ella Mai - Boo'd Up",
+    genre: 'foreign-rnb',
     backBtnType: 'w',
     content: [
       {
@@ -241,6 +253,7 @@ let post = [
     image: 'https://i1.sndcdn.com/artworks-000416094345-srl41o-t500x500.jpg',
     imageText: 'Finding Hope - JDS (Fantasy)',
     backBtnType: 'w',
+    genre: 'foreign-medium',
     content: [
       {
         type: 'youtube',
@@ -260,6 +273,7 @@ let post = [
     image: 'https://i.ytimg.com/vi/W7O03rIvP3w/maxresdefault.jpg',
     imageText: 'Christian Kuria - Too Good [Official Audio]',
     backBtnType: 'w',
+    genre: 'foreign-medium',
     content: [
       {
         type: 'youtube',
@@ -279,6 +293,7 @@ let post = [
     image: 'https://i.ytimg.com/vi/RfgL_OaTomc/maxresdefault.jpg',
     imageText: 'Samm Henshaw - Doubt (Official Video) ft. Wretch 32',
     backBtnType: 'w',
+    genre: 'foreign-rnb',
     content: [
       {
         type: 'youtube',
@@ -298,6 +313,7 @@ let post = [
     image: 'https://i.ytimg.com/vi/M_N2TA6Xjdo/maxresdefault.jpg',
     imageText: 'Etham - 12:45',
     backBtnType: 'w',
+    genre: 'foreign-medium',
     content: [
       {
         type: 'youtube',
@@ -355,6 +371,7 @@ let post = [
     image: 'https://i.ytimg.com/vi/5Z-CKNYzV6g/maxresdefault.jpg',
     imageText: 'Lauv - Paris in the Rain [Official Video]',
     backBtnType: 'b',
+    genre: 'foreign-medium',
     content: [
       {
         type: 'youtube',
@@ -374,6 +391,7 @@ let post = [
     image: 'https://i.ytimg.com/vi/b_jd9l91KdM/maxresdefault.jpg',
     imageText: 'Emily King - Distance',
     backBtnType: 'w',
+    genre: 'foreign-medium',
     content: [
       {
         type: 'youtube',
@@ -393,6 +411,7 @@ let post = [
     image: 'https://i.ytimg.com/vi/rtlq3yiFw6Y/hqdefault.jpg',
     imageText: "죠지 (George) - Let's Go Picnic",
     backBtnType: 'w',
+    genre: 'korea-medium',
     content: [
       {
         type: 'youtube',
@@ -412,6 +431,7 @@ let post = [
     image: 'https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/304/052/81304052_1573174242526_1_600x600.JPG',
     imageText: 'Pink Sweat$ - Honesty (Official Music Video)',
     backBtnType: 'w',
+    genre: 'foreign-rnb',
     content: [
       {
         type: 'youtube',
@@ -431,6 +451,7 @@ let post = [
     image: 'https://i.ytimg.com/vi/kwnUj8iSrA8/maxresdefault.jpg',
     imageText: 'jeebanoff(지바노프) - We (OUI) (feat. sogumm)',
     backBtnType: 'w',
+    genre: 'korea-rnb',
     content: [
       {
         type: 'youtube',
@@ -450,6 +471,7 @@ let post = [
     image: 'https://images.genius.com/e9bc185c154aa5abbf64fb320a8c8c09.600x600x1.jpg',
     imageText: 'Schwey - Elasto',
     backBtnType: 'w',
+    genre: 'foreign-medium',
     content: [
       {
         type: 'youtube',
@@ -469,6 +491,7 @@ let post = [
     image: 'https://i.ytimg.com/vi/MINlN-294DU/hqdefault.jpg',
     imageText: 'THAMA - Questions (Feat. 주영 Joo Young)',
     backBtnType: 'w',
+    genre: 'korea-rnb',
     content: [
       {
         type: 'youtube',
@@ -488,6 +511,7 @@ let post = [
     image: 'https://t1.daumcdn.net/cfile/tistory/997AE43B5B37380A33',
     imageText: '백예린- LaLaLa Love Song (With. Retro anime)',
     backBtnType: 'w',
+    genre: 'korea-medium',
     content: [
       {
         type: 'youtube',
@@ -507,6 +531,7 @@ let post = [
     image: 'https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/033/654/81033654_1518513634837_1_600x600.JPG',
     imageText: 'Justine Skye - Know Myself ft.Vory',
     backBtnType: 'w',
+    genre: 'foreign-rnb',
     content: [
       {
         type: 'youtube',
@@ -526,6 +551,7 @@ let post = [
     image: 'https://i.ytimg.com/vi/unxxm3Q6Ob8/maxresdefault.jpg',
     imageText: 'PREP - Line By Line feat. Cory Wong & Paul Jackson jr',
     backBtnType: 'w',
+    genre: 'foreign-rnb',
     content: [
       {
         type: 'youtube',
@@ -545,6 +571,7 @@ let post = [
     image: 'https://i1.sndcdn.com/artworks-000170863668-qhwyds-t500x500.jpg',
     imageText: 'Jeff Bernat - Call You Mine (feat. Geologic Of The Blue Scholars)',
     backBtnType: 'w',
+    genre: 'foreign-rnb',
     content: [
       {
         type: 'youtube',
@@ -564,6 +591,7 @@ let post = [
     image: 'https://i1.sndcdn.com/artworks-000572954039-jia89r-t500x500.jpg',
     imageText: "Jeremy Passion & Melissa Polinar & Gabe Bondoc - Lemonade",
     backBtnType: 'w',
+    genre: 'foreign-medium',
     content: [
       {
         type: 'youtube',
@@ -583,6 +611,7 @@ let post = [
     image: 'https://i.ytimg.com/vi/607ENLoiRf0/hqdefault.jpg',
     imageText: 'Hamzaa - Sunday Morning (Official Music Video)',
     backBtnType: 'w',
+    genre: 'foreign-rnb',
     content: [
       {
         type: 'youtube',
@@ -602,6 +631,7 @@ let post = [
     image: 'https://i.ytimg.com/vi/jFBBCofvg8c/maxresdefault.jpg',
     imageText: 'Jeremy Passion - 32',
     backBtnType: 'w',
+    genre: 'foreign-medium',
     content: [
       {
         type: 'youtube',
@@ -621,6 +651,7 @@ let post = [
     image: 'https://image.bugsm.co.kr/album/images/500/4946/494629.jpg',
     imageText: '이문세 - 봄바람 (feat. 나얼)',
     backBtnType: 'b',
+    genre: 'korea-rnb',
     content: [
       {
         type: 'youtube',
@@ -640,6 +671,7 @@ let post = [
     image: 'https://www.lukasgraham.com/sites/g/files/g2000005361/f/201604/12918613_1034019863339241_982674834_n.jpg%3Fig_cache_key%3DMTIyMzI5MjE4MTA5NDk1MDc0Nw%253D%253D.2',
     imageText: 'Lukas Graham - Drunk In The Morning [Official Music Video ]',
     backBtnType: 'w',
+    genre: 'foreign-rnb',
     content: [
       {
         type: 'youtube',
@@ -659,6 +691,7 @@ let post = [
     image: 'https://upload.wikimedia.org/wikipedia/en/6/6c/Lukas_Graham_Youre_Not_There.jpg',
     imageText: "Lukas Graham - You're Not There [OFFICIAL MUSIC VIDEO]",
     backBtnType: 'w',
+    genre: 'foreign-medium',
     content: [
       {
         type: 'youtube',
@@ -678,6 +711,7 @@ let post = [
     image: 'https://i.pinimg.com/564x/72/8a/b7/728ab735f3f7b7877927503d9e231fa5.jpg',
     imageText: '죠지 - aura (feat. Sam Kim)',
     backBtnType: 'b',
+    genre: 'korea-medium',
     content: [
       {
         type: 'youtube',
@@ -697,6 +731,7 @@ let post = [
     image: 'https://i.ytimg.com/vi/Pzq_-YNCPNQ/maxresdefault.jpg',
     imageText: 'JAE JIN - Running (Acoustic) (Official Audio)',
     backBtnType: 'w',
+    genre: 'foreign-medium',
     content: [
       {
         type: 'youtube',
@@ -716,6 +751,7 @@ let post = [
     image: 'https://i.ytimg.com/vi/hlsqsIW6gx8/maxresdefault.jpg',
     imageText: "Adikara Fardy – Just The Two of Us (cover)",
     backBtnType: 'w',
+    genre: 'foreign-rnb',
     content: [
       {
         type: 'youtube',
@@ -735,6 +771,7 @@ let post = [
     image: 'https://i.ytimg.com/vi/EcF237i-0U0/maxresdefault.jpg',
     imageText: "Brother Stone & The Get Down - 'How Deep Is Your Love' - Bee Gees (Cover)",
     backBtnType: 'w',
+    genre: 'foreign-rnb',
     content: [
       {
         type: 'youtube',
@@ -754,6 +791,7 @@ let post = [
     image: 'https://i.ytimg.com/vi/URTtLCNoHXU/maxresdefault.jpg',
     imageText: 'Justin Timberlake - Midnight Summer Jam',
     backBtnType: 'w',
+    genre: 'foreign-rnb',
     content: [
       {
         type: 'youtube',
@@ -773,6 +811,7 @@ let post = [
     image: 'https://i1.sndcdn.com/artworks-000045460673-qz6mua-t500x500.jpg',
     imageText: 'Justin Timberlake - Let the Groove Get In',
     backBtnType: 'b',
+    genre: 'foreign-rnb',
     content: [
       {
         type: 'youtube',
@@ -792,6 +831,7 @@ let post = [
     image: 'https://d2tml28x3t0b85.cloudfront.net/tracks/audio/original_artwork/566aa680160f11e7a9cda7ecdff376cb/579f07d0160f11e7b604d74dfdc458fe.jpg',
     imageText: 'Calvin Harris - Heatstroke (Audio) ft. Young Thug, Ariana Grande, Pharrell Williams',
     backBtnType: 'b',
+    genre: 'foreign-rnb',
     content: [
       {
         type: 'youtube',
@@ -811,6 +851,7 @@ let post = [
     image: 'https://i.ytimg.com/vi/EtogCD8T83M/maxresdefault.jpg',
     imageText: "죠지 - 바라봐줘요",
     backBtnType: 'w',
+    genre: 'korea-medium',
     content: [
       {
         type: 'youtube',
@@ -830,6 +871,7 @@ let post = [
     image: 'https://i.ytimg.com/vi/3z9sq9e5iu4/maxresdefault.jpg',
     imageText: 'BIBI(비비) _ BINU(비누)',
     backBtnType: 'w',
+    genre: 'korea-rnb',
     content: [
       {
         type: 'youtube',
@@ -849,6 +891,7 @@ let post = [
     image: 'https://i.ytimg.com/vi/WSg9TPYIuxU/hqdefault.jpg',
     imageText: '40(포티) - 이불',
     backBtnType: 'w',
+    genre: 'korea-rnb',
     content: [
       {
         type: 'youtube',
@@ -868,6 +911,7 @@ let post = [
     image: 'https://i.ytimg.com/vi/1t6uA9Hvu40/maxresdefault.jpg',
     imageText: "Gabe Bondoc – 'Gentlemen Don't",
     backBtnType: 'w',
+    genre: 'foreign-medium',
     content: [
       {
         type: 'youtube',
@@ -887,6 +931,7 @@ let post = [
     image: 'https://www.maifm.co.nz/home/hip-hop-hollywood/2016/08/lauryn-hill-covers-jammin----master-blaster/_jcr_content/image.dynimg.1280.q75.jpg/v1470720122161/lauryn-hill.jpg',
     imageText: "Ms. Lauryn Hill 'Jammin/Master Blaster'",
     backBtnType: 'w',
+    genre: 'black',
     content: [
       {
         type: 'youtube',
@@ -906,6 +951,7 @@ let post = [
     image: 'https://www.rap-up.com/app/uploads/2011/06/hill-fallon-1280x720.jpg',
     imageText: 'Lauryn Hill "Doo Wop (That Thing)"',
     backBtnType: 'w',
+    genre: 'black',
     content: [
       {
         type: 'youtube',
@@ -925,6 +971,7 @@ let post = [
     image: 'https://i.ytimg.com/vi/sY1-OPsqJj0/maxresdefault.jpg',
     imageText: '박정현(Lena Park) - 오랜만에(Acoustic Ver)',
     backBtnType: 'w',
+    genre: 'korea-rnb',
     content: [
       {
         type: 'youtube',
@@ -944,6 +991,7 @@ let post = [
     image: 'https://i.ytimg.com/vi/m87vQBwgGo8/maxresdefault.jpg',
     imageText: 'Sam Smith - Baby, You Make Me Crazy (Acoustic)',
     backBtnType: 'b',
+    genre: 'foreign-medium',
     content: [
       {
         type: 'youtube',
@@ -963,6 +1011,7 @@ let post = [
     image: 'https://i.ytimg.com/vi/1LStVaYdK4M/maxresdefault.jpg',
     imageText: 'Sam Smith - Too Good At Goodbyes (Official Video)',
     backBtnType: 'w',
+    genre: 'foreign-medium',
     content: [
       {
         type: 'youtube',
@@ -982,6 +1031,7 @@ let post = [
     image: 'https://img.discogs.com/FGvbx4VHCdwHIMX1I7Is4p4vWSM=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8747173-1471189526-1755.jpeg.jpg',
     imageText: 'Michael Jackson - Rock With You (The Reflex Revision)',
     backBtnType: 'b',
+    genre: 'foreign-rnb',
     content: [
       {
         type: 'youtube',
@@ -1001,6 +1051,7 @@ let post = [
     image: 'https://i.ytimg.com/vi/3zrSoHgAAWo/hqdefault.jpg',
     imageText: 'Chet Baker - I fall in love too easily',
     backBtnType: 'w',
+    genre: 'foreign-medium',
     content: [
       {
         type: 'youtube',
@@ -1020,6 +1071,7 @@ let post = [
     image: 'https://i.ytimg.com/vi/PcmfjqzJVQ0/hqdefault.jpg',
     imageText: "Billy griffin - hold me tighter in the rain",
     backBtnType: 'w',
+    genre: 'black',
     content: [
       {
         type: 'youtube',
@@ -1039,6 +1091,7 @@ let post = [
     image: 'https://i.ytimg.com/vi/AUnypjWNa7Q/maxresdefault.jpg',
     imageText: "Justin Bieber - Changes (Nature Visual)",
     backBtnType: 'w',
+    genre: 'foreign-rnb',
     content: [
       {
         type: 'youtube',
@@ -1058,6 +1111,7 @@ let post = [
     image: 'https://i.pinimg.com/originals/47/42/0e/47420e9b8af16a732ab5ba8a08c9f28b.jpg',
     imageText: "Earth, Wind & Fire ft The Emotions ~ Boogie Wonderland 1979 Disco Purrfection Version",
     backBtnType: 'w',
+    genre: 'black',
     content: [
       {
         type: 'youtube',
@@ -1077,6 +1131,7 @@ let post = [
     image: 'https://upload.wikimedia.org/wikipedia/en/b/b1/Lovemachine.jpg',
     imageText: 'the miracles - Love machine',
     backBtnType: 'w',
+    genre: 'black',
     content: [
       {
         type: 'youtube',
@@ -1096,6 +1151,7 @@ let post = [
     image: 'https://i.ytimg.com/vi/jcuIJ9waAVw/maxresdefault.jpg',
     imageText: "샘김 - That Summer Night (그 여름밤)",
     backBtnType: 'w',
+    genre: 'korea-medium',
     content: [
       {
         type: 'youtube',
@@ -1115,6 +1171,7 @@ let post = [
     image: 'https://i.ytimg.com/vi/KK-1xrOsqXI/maxresdefault.jpg',
     imageText: '한동근 - 미치고 싶다',
     backBtnType: 'w',
+    genre: 'korea-medium',
     content: [
       {
         type: 'youtube',
@@ -1134,6 +1191,7 @@ let post = [
     image: 'https://i.ytimg.com/vi/JkTx6HdZ6eA/maxresdefault.jpg',
     imageText: 'Yoon Mi Rae (윤미래) - Say',
     backBtnType: 'w',
+    genre: 'korea-medium',
     content: [
       {
         type: 'youtube',
@@ -1153,6 +1211,7 @@ let post = [
     image: 'https://i.ytimg.com/vi/5orrZxSjLQA/hqdefault.jpg',
     imageText: 'Charlie Puth - The Way I Am',
     backBtnType: 'w',
+    genre: 'foreign-rnb',
     content: [
       {
         type: 'youtube',
@@ -1172,6 +1231,7 @@ let post = [
     image: 'https://i.ytimg.com/vi/rlU7CMsglvY/maxresdefault.jpg',
     imageText: '박정현 - 까만 일기장 (비긴어게인3)',
     backBtnType: 'w',
+    genre: 'korea-rnb',
     content: [
       {
         type: 'youtube',
@@ -1191,6 +1251,7 @@ let post = [
     image: 'https://i.ytimg.com/vi/XXx6RDzR6eM/maxresdefault.jpg',
     imageText: "Al Green - Let's Stay Together",
     backBtnType: 'w',
+    genre: 'black',
     content: [
       {
         type: 'youtube',
@@ -1210,6 +1271,7 @@ let post = [
     image: 'https://i.ytimg.com/vi/bEeaS6fuUoA/maxresdefault.jpg',
     imageText: "Bill Withers - Lovely Day",
     backBtnType: 'w',
+    genre: 'black',
     content: [
       {
         type: 'youtube',
@@ -1229,6 +1291,7 @@ let post = [
     image: 'https://i.ytimg.com/vi/cyNBNLujyHE/hqdefault.jpg',
     imageText: "Colde - 없어도 돼",
     backBtnType: 'w',
+    genre: 'korea-rnb',
     content: [
       {
         type: 'youtube',
@@ -1248,6 +1311,7 @@ let post = [
     image: 'https://i.ytimg.com/vi/2OEdoFGp140/maxresdefault.jpg',
     imageText: "Crush - Ibiza",
     backBtnType: 'w',
+    genre: 'korea-rnb',
     content: [
       {
         type: 'youtube',
@@ -1267,6 +1331,7 @@ let post = [
     image: 'https://i.ytimg.com/vi/7EDijfvY7do/hqdefault.jpg',
     imageText: "Colde (콜드) - 향",
     backBtnType: 'w',
+    genre: 'korea-rnb',
     content: [
       {
         type: 'youtube',
@@ -1286,6 +1351,7 @@ let post = [
     image: 'https://i.ytimg.com/vi/oCtYekG1qBc/maxresdefault.jpg',
     imageText: "Bruno mars - All i ask (covers Adele's)",
     backBtnType: 'w',
+    genre: 'foreign-rnb',
     content: [
       {
         type: 'youtube',
@@ -1305,6 +1371,7 @@ let post = [
     image: 'https://images.genius.com/0338ebd2e5ddff1c6a801324940e69b9.1000x1000x1.jpg',
     imageText: "Alaina Castillo - just a boy",
     backBtnType: 'w',
+    genre: 'foreign-rnb',
     content: [
       {
         type: 'youtube',
@@ -1324,6 +1391,7 @@ let post = [
     image: 'https://i.vimeocdn.com/video/633858192.webp?mw=900&mh=506',
     imageText: "CIKI – Baby Crush",
     backBtnType: 'w',
+    genre: 'korea-rnb',
     content: [
       {
         type: 'youtube',
@@ -1343,6 +1411,7 @@ let post = [
     image: 'https://i.ytimg.com/vi/pwzyWm_2qg4/maxresdefault.jpg',
     imageText: "Twelve - subway sandwich",
     backBtnType: 'w',
+    genre: 'korea-rnb',
     content: [
       {
         type: 'youtube',
@@ -1362,6 +1431,7 @@ let post = [
     image: 'https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Fcfile%2Ftistory%2F9938D9375C88463926',
     imageText: "Charlie Puth - Done For Me (feat. Kehlani)",
     backBtnType: 'w',
+    genre: 'foreign-rnb',
     content: [
       {
         type: 'youtube',
@@ -1381,6 +1451,7 @@ let post = [
     image: 'https://i.ytimg.com/vi/UsouvLWx9OA/hqdefault.jpg',
     imageText: "OuiOui (위위) - 알잖아 [Official Audio]",
     backBtnType: 'w',
+    genre: 'korea-medium',
     content: [
       {
         type: 'youtube',
@@ -1400,6 +1471,7 @@ let post = [
     image: 'https://i.ytimg.com/vi/Q3XMtomYXac/maxresdefault.jpg',
     imageText: "OuiOui (위위) - 니 생각 (Thinkin' bout you) (Feat. Wilcox)",
     backBtnType: 'w',
+    genre: 'korea-medium',
     content: [
       {
         type: 'youtube',
@@ -1419,6 +1491,7 @@ let post = [
     image: 'https://i.ytimg.com/vi/mHc2A6KtV4o/maxresdefault.jpg',
     imageText: "OuiOui (위위) - 멀어지지 않게 (not too far)",
     backBtnType: 'w',
+    genre: 'korea-medium',
     content: [
       {
         type: 'youtube',
@@ -1438,6 +1511,7 @@ let post = [
     image: 'https://i.ytimg.com/vi/5hYLMnvN-Uc/maxresdefault.jpg',
     imageText: "OuiOui (위위) - Ocean",
     backBtnType: 'w',
+    genre: 'korea-medium',
     content: [
       {
         type: 'youtube',
@@ -1457,6 +1531,7 @@ let post = [
     image: 'https://i.ytimg.com/vi/mHc2A6KtV4o/maxresdefault.jpg',
     imageText: "OuiOui (위위) - Maybe I",
     backBtnType: 'w',
+    genre: 'korea-medium',
     content: [
       {
         type: 'youtube',
@@ -1476,6 +1551,7 @@ let post = [
     image: 'https://i.ytimg.com/vi/JYcSJNkQSDI/maxresdefault.jpg',
     imageText: "다이나믹 듀오(Dynamicduo) - [OFF DUTY] 'Garage Live' 2/4 | Career High",
     backBtnType: 'w',
+    genre: 'korea-hiphop',
     content: [
       {
         type: 'youtube',
@@ -1495,6 +1571,7 @@ let post = [
     image: 'https://t1.daumcdn.net/cfile/tistory/2363153B5433E81509',
     imageText: "2013 월간 윤종신 Repair 5월호 - 너에게 간다 with 김범수",
     backBtnType: 'w',
+    genre: 'korea-medium',
     content: [
       {
         type: 'youtube',
@@ -1514,6 +1591,7 @@ let post = [
     image: 'https://i.ytimg.com/vi/uBzpDhntVPI/maxresdefault.jpg',
     imageText: "2013 월간 윤종신 Repair 7월호 - 고속도로 로맨스",
     backBtnType: 'w',
+    genre: 'korea-medium',
     content: [
       {
         type: 'youtube',
@@ -1533,6 +1611,7 @@ let post = [
     image: 'https://i.ytimg.com/vi/TiONsTzuMBQ/maxresdefault.jpg',
     imageText: "박효신 - 그녀가 처음 울던 날 (김광석 다시부르기)",
     backBtnType: 'w',
+    genre: 'korea-medium',
     content: [
       {
         type: 'youtube',
@@ -1552,6 +1631,7 @@ let post = [
     image: 'https://i.ytimg.com/vi/LYu2jl238Ew/maxresdefault.jpg',
     imageText: "박효신 - 해줄 수 없는 일 + 그곳에 서서 + 좋은 사람 @ 메세나폴리스",
     backBtnType: 'w',
+    genre: 'korea-medium',
     content: [
       {
         type: 'youtube',
@@ -1571,6 +1651,7 @@ let post = [
     image: 'https://i.ytimg.com/vi/Gyoyz08f_O8/maxresdefault.jpg',
     imageText: "박효신 - Beautiful Tomorrow_Official Music Video",
     backBtnType: 'w',
+    genre: 'korea-medium',
     content: [
       {
         type: 'youtube',
@@ -1590,6 +1671,7 @@ let post = [
     image: 'https://i.ytimg.com/vi/oBKpJiVEcnU/maxresdefault.jpg',
     imageText: "박효신 - 숨_Official Music Video",
     backBtnType: 'w',
+    genre: 'korea-medium',
     content: [
       {
         type: 'youtube',
@@ -1609,6 +1691,7 @@ let post = [
     image: 'https://i.ytimg.com/vi/N19FUqZnMxg/hqdefault.jpg',
     imageText: "Jesse Barrera, Johnny Stimson, Jeff Bernat - Casual",
     backBtnType: 'w',
+    genre: 'foreign-rnb',
     content: [
       {
         type: 'youtube',
@@ -1628,6 +1711,7 @@ let post = [
     image: 'https://i.ytimg.com/vi/nXXVMcyy_Ag/maxresdefault.jpg',
     imageText: "Pharrell Williams - Marilyn Monroe (Official Music Video)",
     backBtnType: 'w',
+    genre: 'foreign-rnb',
     content: [
       {
         type: 'youtube',
@@ -1647,6 +1731,7 @@ let post = [
     image: 'https://i.pinimg.com/originals/3d/48/6c/3d486c751c59c3e51eb35d79941af279.jpg',
     imageText: "Justin Timberlake - Man of the Woods (Official Video)",
     backBtnType: 'b',
+    genre: 'foreign-rnb',
     content: [
       {
         type: 'youtube',
@@ -1666,6 +1751,7 @@ let post = [
     image: 'https://i.ytimg.com/vi/DEzREJbln-o/maxresdefault.jpg',
     imageText: "Justin Timberlake - Take Back the Night (Official Music Video)",
     backBtnType: 'w',
+    genre: 'foreign-rnb',
     content: [
       {
         type: 'youtube',
@@ -1685,6 +1771,7 @@ let post = [
     image: 'https://i.ytimg.com/vi/S1ZgtVIfjAo/hqdefault.jpg',
     imageText: "Justin Timberlake - Shake Your Body (Down To The Ground) in the Live Lounge",
     backBtnType: 'w',
+    genre: 'black',
     content: [
       {
         type: 'youtube',
@@ -1704,6 +1791,7 @@ let post = [
     image: 'https://i.ytimg.com/vi/oG08ukJPtR8/maxresdefault.jpg',
     imageText: "Michael Jackson, Justin Timberlake - Love Never Felt So Good (Official Video)",
     backBtnType: 'w',
+    genre: 'foreign-rnb',
     content: [
       {
         type: 'youtube',
@@ -1723,6 +1811,7 @@ let post = [
     image: 'https://i.ytimg.com/vi/FiE3uuVhfnY/maxresdefault.jpg',
     imageText: "Michael Jackson - Loving You",
     backBtnType: 'w',
+    genre: 'foreign-rnb',
     content: [
       {
         type: 'youtube',
@@ -1742,6 +1831,7 @@ let post = [
     image: 'https://i.ytimg.com/vi/G4EVCwT6Z1Q/maxresdefault.jpg',
     imageText: "정키 (Jungkey) - 홀로 (Feat. 김나영)",
     backBtnType: 'w',
+    genre: 'korea-medium',
     content: [
       {
         type: 'youtube',
@@ -1761,6 +1851,7 @@ let post = [
     image: 'https://i.ytimg.com/vi/xuNMsMpVaho/maxresdefault.jpg',
     imageText: "edbl - The Way Things Were (ft. Isaac Waddington)",
     backBtnType: 'w',
+    genre: 'foreign-medium',
     content: [
       {
         type: 'youtube',
@@ -1780,6 +1871,7 @@ let post = [
     image: 'https://i.ytimg.com/vi/fxEYOK7Aqyc/maxresdefault.jpg',
     imageText: "edbl - Table for Two (ft. Tilly Valentine & Bran Mazz)",
     backBtnType: 'w',
+    genre: 'foreign-medium',
     content: [
       {
         type: 'youtube',
@@ -1799,6 +1891,7 @@ let post = [
     image: 'https://i.ytimg.com/vi/MHjAQB4Memg/maxresdefault.jpg',
     imageText: "edbl - Be Who You Are (ft. Jay Alexzander)",
     backBtnType: 'w',
+    genre: 'foreign-medium',
     content: [
       {
         type: 'youtube',
@@ -1818,6 +1911,7 @@ let post = [
     image: 'https://i.ytimg.com/vi/0r-2JL_vXqo/maxresdefault.jpg',
     imageText: "Chris Brown - Undecided (Lyrics)",
     backBtnType: 'w',
+    genre: 'foreign-rnb',
     content: [
       {
         type: 'youtube',
@@ -1837,6 +1931,7 @@ let post = [
     image: 'https://i.ytimg.com/vi/RX3_fM5v9dA/maxresdefault.jpg',
     imageText: "Chris Brown - Gangsta Way (feat. French Montana) Lyrics HD",
     backBtnType: 'w',
+    genre: 'black',
     content: [
       {
         type: 'youtube',
@@ -1856,6 +1951,7 @@ let post = [
     image: 'https://i.ytimg.com/vi/BFfX0HWDQtY/maxresdefault.jpg',
     imageText: "Chris Brown - Seasons Change Lyrics HD",
     backBtnType: 'w',
+    genre: 'foreign-rnb',
     content: [
       {
         type: 'youtube',
@@ -1875,6 +1971,7 @@ let post = [
     image: 'https://i.ytimg.com/vi/tZiQ1MYCWIk/hqdefault.jpg',
     imageText: "Jason Derulo - Kiss The Sky (Lyrics)",
     backBtnType: 'w',
+    genre: 'foreign-rnb',
     content: [
       {
         type: 'youtube',
@@ -1894,6 +1991,7 @@ let post = [
     image: 'https://www.mintpaper.co.kr/wp-content/uploads/2019/02/dosii_album.jpg',
     imageText: "dosii (도시) - lovememore",
     backBtnType: 'w',
+    genre: 'korea-rnb',
     content: [
       {
         type: 'youtube',
@@ -1913,6 +2011,7 @@ let post = [
     image: 'https://i.ytimg.com/vi/IDD5_z3kKCU/maxresdefault.jpg',
     imageText: "[온스테이지2.0]백예린 - 지켜줄게",
     backBtnType: 'w',
+    genre: 'korea-medium',
     content: [
       {
         type: 'youtube',
@@ -1932,6 +2031,7 @@ let post = [
     image: 'https://i.ytimg.com/vi/_EfRa_ywkEw/maxresdefault.jpg',
     imageText: "[온스테이지2.0]백예린 - 그건 아마 우리의 잘못은 아닐 거야",
     backBtnType: 'w',
+    genre: 'korea-medium',
     content: [
       {
         type: 'youtube',
@@ -1951,6 +2051,7 @@ let post = [
     image: 'https://i.ytimg.com/vi/NE14c5mEUdU/maxresdefault.jpg',
     imageText: "[온스테이지] 279. 딘 (DEAN) - D (half moon)",
     backBtnType: 'w',
+    genre: 'korea-rnb',
     content: [
       {
         type: 'youtube',
@@ -1970,6 +2071,7 @@ let post = [
     image: 'https://i.ytimg.com/vi/ru0K8uYEZWw/maxresdefault.jpg',
     imageText: "Justin Timberlake - CAN'T STOP THE FEELING! (From DreamWorks Animation's Trolls) (Official Video)",
     backBtnType: 'w',
+    genre: 'foreign-rnb',
     content: [
       {
         type: 'youtube',
@@ -1989,6 +2091,7 @@ let post = [
     image: 'https://i.ytimg.com/vi/P6smRvfNDL4/maxresdefault.jpg',
     imageText: "[MV] Zion.T(자이언티) _ Zero Gravity(무중력)",
     backBtnType: 'w',
+    genre: 'korea-medium',
     content: [
       {
         type: 'youtube',
@@ -2008,6 +2111,7 @@ let post = [
     image: 'https://i.pinimg.com/236x/56/de/b2/56deb285b36e6d1a8b1d7ca8dfea4d5a.jpg',
     imageText: "Sam Kim - SEATTLE",
     backBtnType: 'w',
+    genre: 'korea-medium',
     content: [
       {
         type: 'youtube',
@@ -2027,6 +2131,7 @@ let post = [
     image: 'https://i.ytimg.com/vi/kJDdaWJWhPQ/maxresdefault.jpg',
     imageText: "[&LIVE] 샘김 SAM KIM - NO눈치 No Sense",
     backBtnType: 'w',
+    genre: 'korea-rnb',
     content: [
       {
         type: 'youtube',
@@ -2046,6 +2151,7 @@ let post = [
     image: 'https://i.ytimg.com/vi/BxSw1vRghh4/maxresdefault.jpg',
     imageText: "More Than 9 To 5 - Kalle Engstrom feat. Jimmy Burney",
     backBtnType: 'w',
+    genre: 'foreign-medium',
     content: [
       {
         type: 'youtube',
@@ -2065,6 +2171,7 @@ let post = [
     image: 'https://i.ytimg.com/vi/iGofZpASaqo/maxresdefault.jpg',
     imageText: "Keep On Doing What You Do - Loving Caliber [2010s Pop]",
     backBtnType: 'w',
+    genre: 'foreign-medium',
     content: [
       {
         type: 'youtube',
@@ -2084,6 +2191,7 @@ let post = [
     image: 'https://i.ytimg.com/vi/A2i5uomBAZQ/maxresdefault.jpg',
     imageText: "Owen Ovadoz (오왼 오바도즈) - 작업 (Feat. Loopy, pH-1)",
     backBtnType: 'w',
+    genre: 'korea-hiphop',
     content: [
       {
         type: 'youtube',
@@ -2098,6 +2206,26 @@ let post = [
     ],
     origin: 'youtube',
     date: '2018. 10. 5'
+  },
+  {
+    image: 'https://i.ytimg.com/vi/yzWIU0FVvg0/maxresdefault.jpg',
+    imageText: "Chase White - What You Got to Lose",
+    backBtnType: 'w',
+    genre: 'foreign-medium',
+    content: [
+      {
+        type: 'youtube',
+        data: "yzWIU0FVvg0",
+        desc: ''
+      },
+      {
+        type: 'text',
+        data: '출처 https://www.youtube.com/watch?v=yzWIU0FVvg0',
+        desc: ''
+      },
+    ],
+    origin: 'youtube',
+    date: '209. 4. 4'
   },
 ];
 

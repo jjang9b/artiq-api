@@ -12,12 +12,17 @@ for (let i = 1; i <= 1; i++) {
   artList.push(require(`./post/art/art-${i}`)['post']);
 }
 
-let getData = (type) => {
+function getMusic () {
+  let musicPost = musicList.sort(() => 0.5-Math.random());
+  return musicPost[0].sort(() => 0.5-Math.random()).slice(0, 25);
+}
+
+let getData = (type, genre) => {
   switch (type) {
-    case 'admusic':
+    case 'ad-music':
       return adsList[0].sort(() => 0.5-Math.random()).slice(0, 1)[0];
       break;
-    case 'adart':
+    case 'ad-art':
       return adsList[0].sort(() => 0.5-Math.random()).slice(0, 1)[0];
       break;
     case 'art':
@@ -25,8 +30,33 @@ let getData = (type) => {
       return artPost[0].sort(() => 0.5-Math.random()).slice(0, 7);
       break;
     case 'music':
-      let musicPost = musicList.sort(() => 0.5-Math.random());
-      return musicPost[0].sort(() => 0.5-Math.random()).slice(0, 25);
+      return getMusic();
+        break;
+    case 'music-like':
+      if (!genre) {
+        return getMusic();
+      }
+
+      let likeList = [];
+      for (let i in musicList) {
+        let genreFilter = musicList[i].filter((m) => m['genre'] == genre);
+
+        if (genreFilter.length > 0) {
+          likeList = likeList.concat(genreFilter);
+        }
+      }
+
+      likeList = likeList.sort(() => 0.5-Math.random()).slice(0, 10);
+      let ranCount = 15;
+
+      if (likeList.length < 10) {
+        ranCount += (10 - likeList.length);
+      }
+
+      let musicRandomPost = musicList.sort(() => 0.5-Math.random());
+      let musicRandomList = musicRandomPost[0].filter((m) => m['genre'] != genre).sort(() => 0.5-Math.random()).slice(0, ranCount);
+
+      return likeList.concat(musicRandomList);
         break;
     default:
   }
@@ -56,15 +86,19 @@ exports.guide = functions.region('asia-northeast1').https.onRequest((req, res) =
 });
 
 exports.admusic = functions.region('asia-northeast1').https.onRequest((req, res) => {
-  res.status(200).send(getData('admusic'));
+  res.status(200).send(getData('ad-music'));
 });
 
 exports.adart = functions.region('asia-northeast1').https.onRequest((req, res) => {
-  res.status(200).send(getData('adart'));
+  res.status(200).send(getData('ad-art'));
 });
 
 exports.music = functions.region('asia-northeast1').https.onRequest((req, res) => {
   res.status(200).send(getData('music'));
+});
+
+exports.musiclike = functions.region('asia-northeast1').https.onRequest((req, res) => {
+  res.status(200).send(getData('music-like', req.query['genre']));
 });
 
 exports.art = functions.region('asia-northeast1').https.onRequest((req, res) => {
