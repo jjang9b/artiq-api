@@ -333,6 +333,7 @@ let post = [
     image: 'https://i.ytimg.com/vi/fHI8X4OXluQ/maxresdefault.jpg',
     imageText: 'The Weeknd - Blinding Lights',
     backBtnType: 'w',
+    genre: 'foreign-medium',
     content: [
       {
         type: 'youtube',
@@ -352,6 +353,7 @@ let post = [
     image: 'https://i.ytimg.com/vi/ghuXuZAocqE/maxresdefault.jpg',
     imageText: 'Tom Misch - Sunshine',
     backBtnType: 'w',
+    genre: 'foreign-medium',
     content: [
       {
         type: 'youtube',
@@ -651,7 +653,7 @@ let post = [
     image: 'https://image.bugsm.co.kr/album/images/500/4946/494629.jpg',
     imageText: '이문세 - 봄바람 (feat. 나얼)',
     backBtnType: 'b',
-    genre: 'korea-rnb',
+    genre: 'korea-ballad',
     content: [
       {
         type: 'youtube',
@@ -971,7 +973,7 @@ let post = [
     image: 'https://i.ytimg.com/vi/sY1-OPsqJj0/maxresdefault.jpg',
     imageText: '박정현(Lena Park) - 오랜만에(Acoustic Ver)',
     backBtnType: 'w',
-    genre: 'korea-rnb',
+    genre: 'korea-ballad',
     content: [
       {
         type: 'youtube',
@@ -1171,7 +1173,7 @@ let post = [
     image: 'https://i.ytimg.com/vi/KK-1xrOsqXI/maxresdefault.jpg',
     imageText: '한동근 - 미치고 싶다',
     backBtnType: 'w',
-    genre: 'korea-medium',
+    genre: 'korea-ballad',
     content: [
       {
         type: 'youtube',
@@ -1191,7 +1193,7 @@ let post = [
     image: 'https://i.ytimg.com/vi/JkTx6HdZ6eA/maxresdefault.jpg',
     imageText: 'Yoon Mi Rae (윤미래) - Say',
     backBtnType: 'w',
-    genre: 'korea-medium',
+    genre: 'korea-ballad',
     content: [
       {
         type: 'youtube',
@@ -1231,7 +1233,7 @@ let post = [
     image: 'https://i.ytimg.com/vi/rlU7CMsglvY/maxresdefault.jpg',
     imageText: '박정현 - 까만 일기장 (비긴어게인3)',
     backBtnType: 'w',
-    genre: 'korea-rnb',
+    genre: 'korea-ballad',
     content: [
       {
         type: 'youtube',
@@ -1571,7 +1573,7 @@ let post = [
     image: 'https://t1.daumcdn.net/cfile/tistory/2363153B5433E81509',
     imageText: "2013 월간 윤종신 Repair 5월호 - 너에게 간다 with 김범수",
     backBtnType: 'w',
-    genre: 'korea-medium',
+    genre: 'korea-ballad',
     content: [
       {
         type: 'youtube',
@@ -1611,7 +1613,7 @@ let post = [
     image: 'https://i.ytimg.com/vi/TiONsTzuMBQ/maxresdefault.jpg',
     imageText: "박효신 - 그녀가 처음 울던 날 (김광석 다시부르기)",
     backBtnType: 'w',
-    genre: 'korea-medium',
+    genre: 'korea-ballad',
     content: [
       {
         type: 'youtube',
@@ -1631,7 +1633,7 @@ let post = [
     image: 'https://i.ytimg.com/vi/LYu2jl238Ew/maxresdefault.jpg',
     imageText: "박효신 - 해줄 수 없는 일 + 그곳에 서서 + 좋은 사람 @ 메세나폴리스",
     backBtnType: 'w',
-    genre: 'korea-medium',
+    genre: 'korea-ballad',
     content: [
       {
         type: 'youtube',
@@ -1651,7 +1653,7 @@ let post = [
     image: 'https://i.ytimg.com/vi/Gyoyz08f_O8/maxresdefault.jpg',
     imageText: "박효신 - Beautiful Tomorrow_Official Music Video",
     backBtnType: 'w',
-    genre: 'korea-medium',
+    genre: 'korea-ballad',
     content: [
       {
         type: 'youtube',
@@ -1671,7 +1673,7 @@ let post = [
     image: 'https://i.ytimg.com/vi/oBKpJiVEcnU/maxresdefault.jpg',
     imageText: "박효신 - 숨_Official Music Video",
     backBtnType: 'w',
-    genre: 'korea-medium',
+    genre: 'korea-ballad',
     content: [
       {
         type: 'youtube',
@@ -1831,7 +1833,7 @@ let post = [
     image: 'https://i.ytimg.com/vi/G4EVCwT6Z1Q/maxresdefault.jpg',
     imageText: "정키 (Jungkey) - 홀로 (Feat. 김나영)",
     backBtnType: 'w',
-    genre: 'korea-medium',
+    genre: 'korea-ballad',
     content: [
       {
         type: 'youtube',
@@ -2225,7 +2227,27 @@ let post = [
       },
     ],
     origin: 'youtube',
-    date: '209. 4. 4'
+    date: '2019. 4. 4'
+  },
+  {
+    image: 'https://i.ytimg.com/vi/1MnzUWjBQog/maxresdefault.jpg',
+    imageText: "IU(아이유) - 푸르던",
+    backBtnType: 'w',
+    genre: 'korea-medium',
+    content: [
+      {
+        type: 'youtube',
+        data: "1MnzUWjBQog",
+        desc: ''
+      },
+      {
+        type: 'text',
+        data: '출처 https://www.youtube.com/watch?v=1MnzUWjBQog',
+        desc: ''
+      },
+    ],
+    origin: 'youtube',
+    date: '2015. 10. 28'
   },
 ];
 
