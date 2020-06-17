@@ -63,10 +63,9 @@ let getData = (type, genre) => {
           likeList = likeList.concat(genreFilter);
         }
       }
-
       likeList = likeList.sort(() => 0.5-Math.random()).slice(0, 10);
-      let ranCount = 15;
 
+      let ranCount = 15;
       if (likeList.length < 10) {
         ranCount += (10 - likeList.length);
       }
@@ -92,17 +91,17 @@ exports.guide = functions.region('asia-northeast1').https.onRequest((req, res) =
       text: 'Music makes us happy ♪'
     },
     {
-      image: 'https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fk.kakaocdn.net%2Fdn%2FyGUcd%2FbtqEv7UBZmj%2F0cvmEQhP4kusm7XXiBBEiK%2Fimg.png',
+      image: 'https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fk.kakaocdn.net%2Fdn%2FSdepx%2FbtqEPlZtJkb%2F2SSxFvWEXqke6KzKdGPkPk%2Fimg.png',
       title: 'MUSIC',
       text: '듣고 싶은 음악을 눌러 주세요\n또 새로운 음악을 감상하고 싶을 땐 갱신 버튼을\n눌러보세요',
     },
     {
-      image: 'https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fk.kakaocdn.net%2Fdn%2FdFqTNE%2FbtqEO0HkacN%2FuhWH0gvUrS6H57GyWy6sCk%2Fimg.png',
+      image: 'https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fk.kakaocdn.net%2Fdn%2Fw0KQ5%2FbtqEOZikNNF%2F7TlunIqU97k5n9gwJNu6c1%2Fimg.png',
       title: 'MUSIC',
       text: '취향 장르 음악을 상위에 먼저 추천해 드려요',
     },
     {
-      image: 'https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fk.kakaocdn.net%2Fdn%2FbrIz7v%2FbtqEo71lGVT%2FIGitLx4uoDOpZvkeTJ1b2K%2Fimg.png',
+      image: 'https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fk.kakaocdn.net%2Fdn%2FcSW7gn%2FbtqEO0nZjqB%2Fc9IIbiCvv5GElfVGmFidh1%2Fimg.png',
       title: 'MUSIC',
       text: '하나, 연속, 랜덤 자동 재생이 가능합니다\n\n그럼 좋은 음악과 그림들 같이 즐기러 가요 ♭'
     },
