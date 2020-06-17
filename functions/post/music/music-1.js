@@ -543,7 +543,7 @@ let post = [
     image: 'https://i.ytimg.com/vi/EtogCD8T83M/maxresdefault.jpg',
     imageText: "죠지 - 바라봐줘요",
     backBtnType: 'w',
-    genre: 'korea-medium',
+    genre: 'korea-city',
     content: [
       {
         type: 'youtube',
@@ -1183,7 +1183,7 @@ let post = [
     image: 'https://i.ytimg.com/vi/mHc2A6KtV4o/maxresdefault.jpg',
     imageText: "OuiOui (위위) - 멀어지지 않게 (not too far)",
     backBtnType: 'w',
-    genre: 'korea-medium',
+    genre: 'korea-city',
     content: [
       {
         type: 'youtube',
@@ -1203,7 +1203,7 @@ let post = [
     image: 'https://i.ytimg.com/vi/5hYLMnvN-Uc/maxresdefault.jpg',
     imageText: "OuiOui (위위) - Ocean",
     backBtnType: 'w',
-    genre: 'korea-medium',
+    genre: 'korea-city',
     content: [
       {
         type: 'youtube',

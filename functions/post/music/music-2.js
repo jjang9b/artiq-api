@@ -1383,7 +1383,7 @@ let post = [
     image: 'https://image.bugsm.co.kr/album/images/500/201152/20115259.jpg',
     imageText: "Hoody (후디) - 한강 (HANGANG)",
     backBtnType: 'w',
-    genre: 'korea-medium',
+    genre: 'korea-city',
     content: [
       {
         type: 'youtube',

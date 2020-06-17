@@ -689,6 +689,126 @@ let post = [
     origin: 'youtube',
     date: '2019. 12. 28'
   },
+  {
+    image: 'https://i.ytimg.com/vi/JoB7KGvTzrk/maxresdefault.jpg',
+    imageText: "OOHYO (우효) - Vineyard (빈야드) 가사",
+    backBtnType: 'w',
+    genre: 'korea-city',
+    content: [
+      {
+        type: 'youtube',
+        data: "JoB7KGvTzrk",
+        desc: ''
+      },
+      {
+        type: 'text',
+        data: '출처 https://www.youtube.com/watch?v=JoB7KGvTzrk',
+        desc: ''
+      },
+    ],
+    origin: 'youtube',
+    date: '2018. 12. 28'
+  },
+  {
+    image: 'https://i.ytimg.com/vi/PTRRobZmn20/hqdefault.jpg',
+    imageText: "Collective Arts (콜렉티브아츠) - Away [With. 김현창]",
+    backBtnType: 'w',
+    genre: 'korea-city',
+    content: [
+      {
+        type: 'youtube',
+        data: "PTRRobZmn20",
+        desc: ''
+      },
+      {
+        type: 'text',
+        data: '출처 https://www.youtube.com/watch?v=PTRRobZmn20',
+        desc: ''
+      },
+    ],
+    origin: 'youtube',
+    date: '2020. 1. 1'
+  },
+  {
+    image: 'https://i.ytimg.com/vi/2bSD5d9W8hI/maxresdefault.jpg',
+    imageText: "어반 자카파 (URBAN ZAKAPA) - 서울 밤 (Seoul Night) Feat. Beenzino (빈지노)",
+    backBtnType: 'w',
+    genre: 'korea-city',
+    content: [
+      {
+        type: 'youtube',
+        data: "2bSD5d9W8hI",
+        desc: ''
+      },
+      {
+        type: 'text',
+        data: '출처 https://www.youtube.com/watch?v=2bSD5d9W8hI',
+        desc: ''
+      },
+    ],
+    origin: 'youtube',
+    date: '2019. 6. 15'
+  },
+  {
+    image: 'https://i.ytimg.com/vi/W3KWUTiiAys/maxresdefault.jpg',
+    imageText: "Collective Arts (콜렉티브아츠), Lobby - Slow",
+    backBtnType: 'w',
+    genre: 'korea-city',
+    content: [
+      {
+        type: 'youtube',
+        data: "W3KWUTiiAys",
+        desc: ''
+      },
+      {
+        type: 'text',
+        data: '출처 https://www.youtube.com/watch?v=W3KWUTiiAys',
+        desc: ''
+      },
+    ],
+    origin: 'youtube',
+    date: '2019. 9. 6'
+  },
+  {
+    image: 'https://i.ytimg.com/vi/a290srGkawg/maxresdefault.jpg',
+    imageText: "김현철 - Drive (feat. George)",
+    backBtnType: 'w',
+    genre: 'korea-city',
+    content: [
+      {
+        type: 'youtube',
+        data: "a290srGkawg",
+        desc: ''
+      },
+      {
+        type: 'text',
+        data: '출처 https://www.youtube.com/watch?v=a290srGkawg',
+        desc: ''
+      },
+    ],
+    origin: 'youtube',
+    date: '2019. 5. 23'
+  },
+  {
+    image: 'https://i.ytimg.com/vi/xmwWUYwVJbE/maxresdefault.jpg',
+    imageText: "죠지 (George) - 보트 (Boat)",
+    backBtnType: 'w',
+    genre: 'korea-city',
+    content: [
+      {
+        type: 'youtube',
+        data: "xmwWUYwVJbE",
+        desc: ''
+      },
+      {
+        type: 'text',
+        data: '출처 https://www.youtube.com/watch?v=xmwWUYwVJbE',
+        desc: ''
+      },
+    ],
+    origin: 'youtube',
+    date: '2019. 11. 4'
+  },
 ];
 
 exports.post = post;

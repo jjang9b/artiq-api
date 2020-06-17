@@ -86,7 +86,7 @@ let getData = (type, genre) => {
 exports.guide = functions.region('asia-northeast1').https.onRequest((req, res) => {
   res.status(200).send([
     {
-      image: 'https://i.pinimg.com/564x/b8/77/c3/b877c39d92e4b5333e7a831d5ac9dfa0.jpg',
+      image: 'https://i.pinimg.com/564x/15/36/84/153684ca5fd53ea37224f2901c495cd9.jpg',
       title: '감각적 음악 창고 ArtiQ',
       text: 'Music makes us happy ♪'
     },
