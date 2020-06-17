@@ -1623,7 +1623,7 @@ let post = [
     image: 'https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/270/156/81270156_1568962160757_1_600x600.JPG',
     imageText: "jeebanoff (지바노프) - 추억속의 그대 (The girl in my memories) Digging Club Seoul Version",
     backBtnType: 'w',
-    genre: 'korea-medium',
+    genre: 'korea-city',
     content: [
       {
         type: 'youtube',
@@ -1780,6 +1780,26 @@ let post = [
     date: '2020. 5. 11'
   },
   {
+    image: 'https://i.ytimg.com/vi/--Vt0MKJHvw/maxresdefault.jpg',
+    imageText: "우주(uju) - 불을 밝혀줘",
+    backBtnType: 'w',
+    genre: 'korea-city',
+    content: [
+      {
+        type: 'youtube',
+        data: "--Vt0MKJHvw",
+        desc: ''
+      },
+      {
+        type: 'text',
+        data: '출처 https://www.youtube.com/watch?v=--Vt0MKJHvw',
+        desc: ''
+      },
+    ],
+    origin: 'youtube',
+    date: '2019. 6. 11'
+  },
+  {
     image: 'https://i.ytimg.com/vi/PsIMSIh_snM/maxresdefault.jpg',
     imageText: "SOLE(쏠) - RIDE (feat. THAMA)",
     backBtnType: 'w',
@@ -1859,6 +1879,26 @@ let post = [
     origin: 'youtube',
     date: '2014. 1. 2'
   },
+  {
+    image: 'https://i.ytimg.com/vi/xmwWUYwVJbE/maxresdefault.jpg',
+    imageText: "죠지 (George) - 보트 (Boat)",
+    backBtnType: 'w',
+    genre: 'korea-city',
+    content: [
+      {
+        type: 'youtube',
+        data: "xmwWUYwVJbE",
+        desc: ''
+      },
+      {
+        type: 'text',
+        data: '출처 https://www.youtube.com/watch?v=xmwWUYwVJbE',
+        desc: ''
+      },
+    ],
+    origin: 'youtube',
+    date: '2019. 11. 4'
+  },  
   {
     image: 'https://i.ytimg.com/vi/B-Ru9FWAecQ/maxresdefault.jpg',
     imageText: "Amy Winehouse - Rehab (Lyric Video)",

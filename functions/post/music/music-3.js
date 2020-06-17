@@ -790,24 +790,24 @@ let post = [
     date: '2019. 5. 23'
   },
   {
-    image: 'https://i.ytimg.com/vi/xmwWUYwVJbE/maxresdefault.jpg',
-    imageText: "죠지 (George) - 보트 (Boat)",
+    image: 'https://i.ytimg.com/vi/xJ70auyLrUM/maxresdefault.jpg',
+    imageText: "죠지 - 오랜만에 (After a long time) 디깅클럽서울 Version",
     backBtnType: 'w',
     genre: 'korea-city',
     content: [
       {
         type: 'youtube',
-        data: "xmwWUYwVJbE",
+        data: "xJ70auyLrUM",
         desc: ''
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=xmwWUYwVJbE',
+        data: '출처 https://www.youtube.com/watch?v=xJ70auyLrUM',
         desc: ''
       },
     ],
     origin: 'youtube',
-    date: '2019. 11. 4'
+    date: '2018. 10. 8'
   },
 ];
 

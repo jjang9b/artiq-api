@@ -203,7 +203,7 @@ let post = [
     image: 'https://t1.daumcdn.net/cfile/tistory/997AE43B5B37380A33',
     imageText: '백예린- LaLaLa Love Song (With. Retro anime)',
     backBtnType: 'w',
-    genre: 'korea-medium',
+    genre: 'korea-city',
     content: [
       {
         type: 'youtube',
@@ -618,6 +618,26 @@ let post = [
     ],
     origin: 'youtube',
     date: '2017. 3. 3'
+  },
+  {
+    image: 'https://i.ytimg.com/vi/S4zjsYPqeWE/maxresdefault.jpg',
+    imageText: "김아름 - 선 (Cross The Line)",
+    backBtnType: 'w',
+    genre: 'korea-city',
+    content: [
+      {
+        type: 'youtube',
+        data: "S4zjsYPqeWE",
+        desc: ''
+      },
+      {
+        type: 'text',
+        data: '출처 https://www.youtube.com/watch?v=S4zjsYPqeWE',
+        desc: ''
+      },
+    ],
+    origin: 'youtube',
+    date: '2018. 8. 29'
   },
   {
     image: 'https://www.maifm.co.nz/home/hip-hop-hollywood/2016/08/lauryn-hill-covers-jammin----master-blaster/_jcr_content/image.dynimg.1280.q75.jpg/v1470720122161/lauryn-hill.jpg',
