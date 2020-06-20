@@ -382,7 +382,7 @@ let post = [
   {
     image: 'https://upload.wikimedia.org/wikipedia/en/6/6c/Lukas_Graham_Youre_Not_There.jpg',
     imageText: "Lukas Graham - You're Not There [OFFICIAL MUSIC VIDEO]",
-    backBtnType: 'w',
+    backBtnType: 'b',
     genre: 'foreign-medium',
     content: [
       {

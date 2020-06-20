@@ -60,9 +60,9 @@ let post = [
     date: '2019. 7. 11'
   },
   {
-    image: 'https://i.ytimg.com/vi/87qN3r0UgXM/maxresdefault.jpg',
+    image: 'https://i.ytimg.com/vi/XrzbXItgbyk/maxresdefault.jpg',
     imageText: "Gabe Bondoc - The One",
-    backBtnType: 'w',
+    backBtnType: 'b',
     genre: 'foreign-medium',
     content: [
       {
@@ -1898,7 +1898,7 @@ let post = [
     ],
     origin: 'youtube',
     date: '2019. 11. 4'
-  },  
+  },
   {
     image: 'https://i.ytimg.com/vi/B-Ru9FWAecQ/maxresdefault.jpg',
     imageText: "Amy Winehouse - Rehab (Lyric Video)",

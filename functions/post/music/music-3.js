@@ -690,6 +690,26 @@ let post = [
     date: '2019. 12. 28'
   },
   {
+    image: 'https://i.ytimg.com/vi/eoiWhRo3A7w/hqdefault.jpg',
+    imageText: "Billie Eilish - bad guy",
+    backBtnType: 'w',
+    genre: 'foreign-rnb',
+    content: [
+      {
+        type: 'youtube',
+        data: "DyDfgMOUjCI",
+        desc: ''
+      },
+      {
+        type: 'text',
+        data: '출처 https://www.youtube.com/watch?v=DyDfgMOUjCI',
+        desc: ''
+      },
+    ],
+    origin: 'youtube',
+    date: '2019. 3. 30'
+  },
+  {
     image: 'https://i.ytimg.com/vi/JoB7KGvTzrk/maxresdefault.jpg',
     imageText: "OOHYO (우효) - Vineyard (빈야드) 가사",
     backBtnType: 'w',
@@ -710,6 +730,106 @@ let post = [
     date: '2018. 12. 28'
   },
   {
+    image: 'https://i.ytimg.com/vi/4py36QBs5oQ/maxresdefault.jpg',
+    imageText: "김필 - 사랑 하나",
+    backBtnType: 'w',
+    genre: 'korea-ballad',
+    content: [
+      {
+        type: 'youtube',
+        data: "4py36QBs5oQ",
+        desc: ''
+      },
+      {
+        type: 'text',
+        data: '출처 https://www.youtube.com/watch?v=4py36QBs5oQ',
+        desc: ''
+      },
+    ],
+    origin: 'youtube',
+    date: '2016. 12. 9'
+  },
+  {
+    image: 'https://i.ytimg.com/vi/mZz9uYdj_v4/maxresdefault.jpg',
+    imageText: "악동뮤지션(AKMU) - 어떻게 이별까지 사랑하겠어, 널 사랑하는 거지",
+    backBtnType: 'w',
+    genre: 'korea-ballad',
+    content: [
+      {
+        type: 'youtube',
+        data: "mZz9uYdj_v4",
+        desc: ''
+      },
+      {
+        type: 'text',
+        data: '출처 https://www.youtube.com/watch?v=mZz9uYdj_v4',
+        desc: ''
+      },
+    ],
+    origin: 'youtube',
+    date: '2019. 9. 25'
+  },
+  {
+    image: 'https://i.ytimg.com/vi/8Oz7DG76ibY/maxresdefault.jpg',
+    imageText: "악동뮤지션(AKMU) - DINOSAUR M/V",
+    backBtnType: 'w',
+    genre: 'korea-rnb',
+    content: [
+      {
+        type: 'youtube',
+        data: "8Oz7DG76ibY",
+        desc: ''
+      },
+      {
+        type: 'text',
+        data: '출처 https://www.youtube.com/watch?v=8Oz7DG76ibY',
+        desc: ''
+      },
+    ],
+    origin: 'youtube',
+    date: '2017. 7. 21'
+  },
+  {
+    image: 'https://i.ytimg.com/vi/ST8O-AeY3Uo/maxresdefault.jpg',
+    imageText: "악동뮤지션(AKMU) - RE-BYE M/V",
+    backBtnType: 'w',
+    genre: 'korea-rnb',
+    content: [
+      {
+        type: 'youtube',
+        data: "ST8O-AeY3Uo",
+        desc: ''
+      },
+      {
+        type: 'text',
+        data: '출처 https://www.youtube.com/watch?v=ST8O-AeY3Uo',
+        desc: ''
+      },
+    ],
+    origin: 'youtube',
+    date: '2016. 5. 4'
+  },
+  {
+    image: 'https://i.ytimg.com/vi/voMjzHJr-5Y/hqdefault.jpg',
+    imageText: "이수현 - L-O-V-E lyrics",
+    backBtnType: 'w',
+    genre: 'korea-medium',
+    content: [
+      {
+        type: 'youtube',
+        data: "voMjzHJr-5Y",
+        desc: ''
+      },
+      {
+        type: 'text',
+        data: '출처 https://www.youtube.com/watch?v=voMjzHJr-5Y',
+        desc: ''
+      },
+    ],
+    origin: 'youtube',
+    date: '2018. 6. 21'
+  },
+  {
     image: 'https://i.ytimg.com/vi/PTRRobZmn20/hqdefault.jpg',
     imageText: "Collective Arts (콜렉티브아츠) - Away [With. 김현창]",
     backBtnType: 'w',
@@ -728,6 +848,46 @@ let post = [
     ],
     origin: 'youtube',
     date: '2020. 1. 1'
+  },
+  {
+    image: 'https://i.ytimg.com/vi/1BN9wlMcdVc/maxresdefault.jpg',
+    imageText: "악동뮤지션(AKMU) - 못생긴 척 (PLAY UGLY)",
+    backBtnType: 'w',
+    genre: 'korea-rnb',
+    content: [
+      {
+        type: 'youtube',
+        data: "1BN9wlMcdVc",
+        desc: ''
+      },
+      {
+        type: 'text',
+        data: '출처 https://www.youtube.com/watch?v=1BN9wlMcdVc',
+        desc: ''
+      },
+    ],
+    origin: 'youtube',
+    date: '2017. 2. 18'
+  },
+  {
+    image: 'https://i.ytimg.com/vi/sUCIzn0mRHc/maxresdefault.jpg',
+    imageText: "악동뮤지션(AKMU) - 얼음들(MELTED) M/V",
+    backBtnType: 'w',
+    genre: 'korea-rnb',
+    content: [
+      {
+        type: 'youtube',
+        data: "sUCIzn0mRHc",
+        desc: ''
+      },
+      {
+        type: 'text',
+        data: '출처 https://www.youtube.com/watch?v=sUCIzn0mRHc',
+        desc: ''
+      },
+    ],
+    origin: 'youtube',
+    date: '2014. 4. 14'
   },
   {
     image: 'https://i.ytimg.com/vi/2bSD5d9W8hI/maxresdefault.jpg',
