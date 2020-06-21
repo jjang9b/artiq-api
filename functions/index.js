@@ -98,12 +98,12 @@ exports.guide = functions.region('asia-northeast1').https.onRequest((req, res) =
     {
       image: 'https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fk.kakaocdn.net%2Fdn%2Fw0KQ5%2FbtqEOZikNNF%2F7TlunIqU97k5n9gwJNu6c1%2Fimg.png',
       title: 'MUSIC',
-      text: '취향 장르 음악을 상위에 먼저 추천해 드려요',
+      text: '많이 들은 취향 장르 음악을 상위에 먼저 추천해 드려요',
     },
     {
       image: 'https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fk.kakaocdn.net%2Fdn%2FbcKzCs%2FbtqE134HTxU%2FImTxh89OzFX69kVTwUVKn0%2Fimg.png',
       title: 'MUSIC',
-      text: '유튜브 백그라운드 재생을 지원합니다.\n심지어 화면 잠금 시에도 재생 가능하니 편리하게 사용해 보세요.\nv1.1.0에 업데이트됩니다 ^^',
+      text: '유튜브 백그라운드 재생을 지원합니다\n화면 잠금 시에도 재생 가능하니 편리하게 사용해 보세요',
     },
     {
       image: 'https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fk.kakaocdn.net%2Fdn%2FcSW7gn%2FbtqEO0nZjqB%2Fc9IIbiCvv5GElfVGmFidh1%2Fimg.png',
