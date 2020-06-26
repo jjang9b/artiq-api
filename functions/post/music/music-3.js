@@ -1031,7 +1031,7 @@ let post = [
   },
   {
     image: 'https://i.ytimg.com/vi/f5wCZ0-3Eos/hqdefault.jpg',
-    imageText: "JANNABI(잔나비) _ Summer [MV]",
+    imageText: "JANNABI(잔나비) - Summer [MV]",
     backBtnType: 'w',
     genre: 'korea-ballad',
     content: [
