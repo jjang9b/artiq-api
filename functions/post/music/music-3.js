@@ -969,6 +969,106 @@ let post = [
     origin: 'youtube',
     date: '2018. 10. 8'
   },
+  {
+    image: 'https://i.ytimg.com/vi/Xp78pd0zkCU/maxresdefault.jpg',
+    imageText: "블루(BLOO) - Downtown Baby",
+    backBtnType: 'w',
+    genre: 'korea-rnb',
+    content: [
+      {
+        type: 'youtube',
+        data: "3yST4DBZ8aE",
+        desc: ''
+      },
+      {
+        type: 'text',
+        data: '출처 https://www.youtube.com/watch?v=3yST4DBZ8aE',
+        desc: ''
+      },
+    ],
+    origin: 'youtube',
+    date: '2020. 6. 16'
+  },
+  {
+    image: 'https://i.ytimg.com/vi/o_El828QJNc/maxresdefault.jpg',
+    imageText: "하림 - 난치병",
+    backBtnType: 'w',
+    genre: 'korea-ballad',
+    content: [
+      {
+        type: 'youtube',
+        data: "o_El828QJNc",
+        desc: ''
+      },
+      {
+        type: 'text',
+        data: '출처 https://www.youtube.com/watch?v=o_El828QJNc',
+        desc: ''
+      },
+    ],
+    origin: 'youtube',
+    date: '2020. 2. 28'
+  },
+  {
+    image: 'https://i.ytimg.com/vi/xg_Y7Or_hWM/maxresdefault.jpg',
+    imageText: "Green day - Last Night On Earth",
+    backBtnType: 'w',
+    genre: 'foreign-medium',
+    content: [
+      {
+        type: 'youtube',
+        data: "xg_Y7Or_hWM",
+        desc: ''
+      },
+      {
+        type: 'text',
+        data: '출처 https://www.youtube.com/watch?v=xg_Y7Or_hWM',
+        desc: ''
+      },
+    ],
+    origin: 'youtube',
+    date: '2014. 11. 20'
+  },
+  {
+    image: 'https://i.ytimg.com/vi/f5wCZ0-3Eos/hqdefault.jpg',
+    imageText: "JANNABI(잔나비) _ Summer [MV]",
+    backBtnType: 'w',
+    genre: 'korea-ballad',
+    content: [
+      {
+        type: 'youtube',
+        data: "f5wCZ0-3Eos",
+        desc: ''
+      },
+      {
+        type: 'text',
+        data: '출처 https://www.youtube.com/watch?v=f5wCZ0-3Eos',
+        desc: ''
+      },
+    ],
+    origin: 'youtube',
+    date: '2016. 8. 4'
+  },
+  {
+    image: 'https://i.ytimg.com/vi/xHDDGPlxZLU/hqdefault.jpg',
+    imageText: "이소라 - 나를 사랑하지 않는 그대에게",
+    backBtnType: 'w',
+    genre: 'korea-ballad',
+    content: [
+      {
+        type: 'youtube',
+        data: "xHDDGPlxZLU",
+        desc: ''
+      },
+      {
+        type: 'text',
+        data: '출처 https://www.youtube.com/watch?v=xHDDGPlxZLU',
+        desc: ''
+      },
+    ],
+    origin: 'youtube',
+    date: '2011. 4. 20'
+  },
 ];
 
 exports.post = post;
