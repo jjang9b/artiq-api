@@ -120,6 +120,26 @@ let post = [
     date: '2020. 1. 1'
   },
   {
+    image: 'https://i.ytimg.com/vi/jtEdXDz4Iw0/hqdefault.jpg',
+    imageText: "애즈 원 (As One) - 너만은 모르길",
+    backBtnType: 'w',
+    genre: 'korea-rnb',
+    content: [
+      {
+        type: 'youtube',
+        data: "jtEdXDz4Iw0",
+        desc: ''
+      },
+      {
+        type: 'text',
+        data: '출처 https://www.youtube.com/watch?v=jtEdXDz4Iw0',
+        desc: ''
+      },
+    ],
+    origin: 'youtube',
+    date: '2012. 7. 13'
+  },
+  {
     image: 'https://i.ytimg.com/vi/MVITXvCuqeU/maxresdefault.jpg',
     imageText: "Shawn Mendes - If I Can't Have You",
     backBtnType: 'w',
@@ -158,46 +178,6 @@ let post = [
     ],
     origin: 'youtube',
     date: '2019. 5. 3'
-  },
-  {
-    image: 'https://i.ytimg.com/vi/1jhfz0yGJ1w/hqdefault.jpg',
-    imageText: "이승철 - 기억 때문에",
-    backBtnType: 'w',
-    genre: 'korea-ballad',
-    content: [
-      {
-        type: 'youtube',
-        data: "1jhfz0yGJ1w",
-        desc: ''
-      },
-      {
-        type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=1jhfz0yGJ1w',
-        desc: ''
-      },
-    ],
-    origin: 'youtube',
-    date: '2011. 6. 3'
-  },
-  {
-    image: 'https://i.ytimg.com/vi/TMMqwySC1nQ/hqdefault.jpg',
-    imageText: "성시경 - 눈부신고백",
-    backBtnType: 'w',
-    genre: 'korea-ballad',
-    content: [
-      {
-        type: 'youtube',
-        data: "TMMqwySC1nQ",
-        desc: ''
-      },
-      {
-        type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=TMMqwySC1nQ',
-        desc: ''
-      },
-    ],
-    origin: 'youtube',
-    date: '2010. 12. 1'
   },
   {
     image: 'https://live.staticflickr.com/2851/9432195460_bb614634df_b.jpg',
@@ -480,24 +460,24 @@ let post = [
     date: '2018. 9. 7'
   },
   {
-    image: 'https://m.media-amazon.com/images/I/71KX4k1HaQL._SS500_.jpg',
-    imageText: "Stevie Wonder - Knocks Me Off My Feet (Live)",
+    image: 'https://i.ytimg.com/vi/gUpvXuMs36o/hqdefault.jpg',
+    imageText: "Stevie Wonder - You Are The Sunshine Of My Life",
     backBtnType: 'w',
-    genre: 'foreign-medium',
+    genre: 'black',
     content: [
       {
         type: 'youtube',
-        data: "ZonpCg3t1zo",
+        data: "gUpvXuMs36o",
         desc: ''
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=ZonpCg3t1zo',
+        data: '출처 https://www.youtube.com/watch?v=gUpvXuMs36o',
         desc: ''
       },
     ],
     origin: 'youtube',
-    date: '2016. 4. 25'
+    date: '2009. 1. 10'
   },
   {
     image: 'https://i.ytimg.com/vi/hNMMN46uFCc/maxresdefault.jpg',

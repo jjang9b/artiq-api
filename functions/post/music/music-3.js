@@ -1050,6 +1050,46 @@ let post = [
     date: '2016. 8. 4'
   },
   {
+    image: 'https://i.ytimg.com/vi/vBZnGk1nAjw/maxresdefault.jpg',
+    imageText: "Billy Joel - Just The Way You Are",
+    backBtnType: 'w',
+    genre: 'soul',
+    content: [
+      {
+        type: 'youtube',
+        data: "vBZnGk1nAjw",
+        desc: ''
+      },
+      {
+        type: 'text',
+        data: '출처 https://www.youtube.com/watch?v=vBZnGk1nAjw',
+        desc: ''
+      },
+    ],
+    origin: 'youtube',
+    date: '2014. 2. 19'
+  },
+  {
+    image: 'https://i.ytimg.com/vi/vBZnGk1nAjw/maxresdefault.jpg',
+    imageText: "임정희 - 나 돌아가",
+    backBtnType: 'w',
+    genre: 'korea-ballad',
+    content: [
+      {
+        type: 'youtube',
+        data: "Er9jLJQ31TY",
+        desc: ''
+      },
+      {
+        type: 'text',
+        data: '출처 https://www.youtube.com/watch?v=Er9jLJQ31TY',
+        desc: ''
+      },
+    ],
+    origin: 'youtube',
+    date: '2016. 6. 10'
+  },
+  {
     image: 'https://i.ytimg.com/vi/xHDDGPlxZLU/hqdefault.jpg',
     imageText: "이소라 - 나를 사랑하지 않는 그대에게",
     backBtnType: 'w',
