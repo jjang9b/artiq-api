@@ -1070,7 +1070,7 @@ let post = [
     date: '2014. 2. 19'
   },
   {
-    image: 'https://i.ytimg.com/vi/vBZnGk1nAjw/maxresdefault.jpg',
+    image: 'https://i.ytimg.com/vi/Er9jLJQ31TY/maxresdefault.jpg',
     imageText: "임정희 - 나 돌아가",
     backBtnType: 'w',
     genre: 'korea-ballad',
@@ -1088,6 +1088,66 @@ let post = [
     ],
     origin: 'youtube',
     date: '2016. 6. 10'
+  },
+  {
+    image: 'https://i.ytimg.com/vi/YzvVCgXB1Ug/maxresdefault.jpg',
+    imageText: "정승환(Jung Seung-hwan) - 내가 너의 곁에 잠시 살았다는 걸",
+    backBtnType: 'w',
+    genre: 'korea-ballad',
+    content: [
+      {
+        type: 'youtube',
+        data: "YzvVCgXB1Ug",
+        desc: ''
+      },
+      {
+        type: 'text',
+        data: '출처 https://www.youtube.com/watch?v=YzvVCgXB1Ug',
+        desc: ''
+      },
+    ],
+    origin: 'youtube',
+    date: '2020. 6. 20'
+  },
+  {
+    image: 'https://i.ytimg.com/vi/8f80-3u0V58/hqdefault.jpg',
+    imageText: "Musiq - Love",
+    backBtnType: 'w',
+    genre: 'soul',
+    content: [
+      {
+        type: 'youtube',
+        data: "8f80-3u0V58",
+        desc: ''
+      },
+      {
+        type: 'text',
+        data: '출처 https://www.youtube.com/watch?v=8f80-3u0V58',
+        desc: ''
+      },
+    ],
+    origin: 'youtube',
+    date: '2007. 7. 27'
+  },
+  {
+    image: 'https://i.ytimg.com/vi/1eZZLm1r6ek/maxresdefault.jpg',
+    imageText: "Tones and I - Dance Monkey (Lyrics)",
+    backBtnType: 'w',
+    genre: 'foreign-rnb',
+    content: [
+      {
+        type: 'youtube',
+        data: "1eZZLm1r6ek",
+        desc: ''
+      },
+      {
+        type: 'text',
+        data: '출처 https://www.youtube.com/watch?v=1eZZLm1r6ek',
+        desc: ''
+      },
+    ],
+    origin: 'youtube',
+    date: '2020. 7. 1'
   },
   {
     image: 'https://i.ytimg.com/vi/xHDDGPlxZLU/hqdefault.jpg',

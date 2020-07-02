@@ -1500,26 +1500,6 @@ let post = [
     date: '2014. 8. 27'
   },
   {
-    image: 'https://i.ytimg.com/vi/Ezqn0DV3dqk/hqdefault.jpg',
-    imageText: "박진영 - 너 뿐이야 M/V",
-    backBtnType: 'w',
-    genre: 'korea-rnb',
-    content: [
-      {
-        type: 'youtube',
-        data: "Ezqn0DV3dqk",
-        desc: ''
-      },
-      {
-        type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=Ezqn0DV3dqk',
-        desc: ''
-      },
-    ],
-    origin: 'youtube',
-    date: '2012. 4. 28'
-  },
-  {
     image: 'https://i.ytimg.com/vi/1q0neAHCRak/maxresdefault.jpg',
     imageText: "박진영 - 살아있네 M/V",
     backBtnType: 'w',
@@ -1538,26 +1518,6 @@ let post = [
     ],
     origin: 'youtube',
     date: '2016. 4. 9'
-  },
-  {
-    image: 'https://ilyricsbuzz.com/wp-content/uploads/2015/04/J.Y.-Park-2434.jpg',
-    imageText: "J.Y.Park(박진영) - Who’s your mama? Soul ver.",
-    backBtnType: 'w',
-    genre: 'korea-rnb',
-    content: [
-      {
-        type: 'youtube',
-        data: "UuHVbJJyxVM",
-        desc: ''
-      },
-      {
-        type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=UuHVbJJyxVM',
-        desc: ''
-      },
-    ],
-    origin: 'youtube',
-    date: '2015. 5. 13'
   },
   {
     image: 'https://i.ytimg.com/vi/XOCNdkuwCVM/maxresdefault.jpg',
