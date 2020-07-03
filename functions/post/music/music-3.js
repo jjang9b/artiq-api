@@ -1169,6 +1169,66 @@ let post = [
     origin: 'youtube',
     date: '2011. 4. 20'
   },
+  {
+    image: 'https://i.ytimg.com/vi/ficEze_Th1s/mqdefault.jpg',
+    imageText: "John Legend - U Move, I Move (Official Audio) ft. Jhené Aiko",
+    backBtnType: 'w',
+    genre: 'foreign-rnb',
+    content: [
+      {
+        type: 'youtube',
+        data: "ficEze_Th1s",
+        desc: ''
+      },
+      {
+        type: 'text',
+        data: '출처 https://www.youtube.com/watch?v=ficEze_Th1s',
+        desc: ''
+      },
+    ],
+    origin: 'youtube',
+    date: '2020. 6. 19'
+  },
+  {
+    image: 'https://i.ytimg.com/vi/cytXqxHqvLY/hqdefault.jpg',
+    imageText: "John Legend - I Do (Official Audio)",
+    backBtnType: 'w',
+    genre: 'black',
+    content: [
+      {
+        type: 'youtube',
+        data: "cytXqxHqvLY",
+        desc: ''
+      },
+      {
+        type: 'text',
+        data: '출처 https://www.youtube.com/watch?v=cytXqxHqvLY',
+        desc: ''
+      },
+    ],
+    origin: 'youtube',
+    date: '2020. 6. 19'
+  },
+  {
+    image: 'https://i.ytimg.com/vi/jBAdBd_hd-8/maxresdefault.jpg',
+    imageText: "오반(OVAN) - 어떻게 지내",
+    backBtnType: 'w',
+    genre: 'korea-medium',
+    content: [
+      {
+        type: 'youtube',
+        data: "jBAdBd_hd-8",
+        desc: ''
+      },
+      {
+        type: 'text',
+        data: '출처 https://www.youtube.com/watch?v=jBAdBd_hd-8',
+        desc: ''
+      },
+    ],
+    origin: 'youtube',
+    date: '2020. 3. 15'
+  },
 ];
 
 exports.post = post;
