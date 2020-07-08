@@ -1229,6 +1229,26 @@ let post = [
     origin: 'youtube',
     date: '2020. 3. 15'
   },
+  {
+    image: 'https://i.ytimg.com/vi/Gm0ODfzVoQU/maxresdefault.jpg',
+    imageText: "[M2 LIVE] 지코(ZICO) - Summer Hate (Feat. 비(RAIN))",
+    backBtnType: 'w',
+    genre: 'korea-medium',
+    content: [
+      {
+        type: 'youtube',
+        data: "Gm0ODfzVoQU",
+        desc: ''
+      },
+      {
+        type: 'text',
+        data: '출처 https://www.youtube.com/watch?v=Gm0ODfzVoQU',
+        desc: ''
+      },
+    ],
+    origin: 'youtube',
+    date: '2020. 7. 1'
+  },
 ];
 
 exports.post = post;
