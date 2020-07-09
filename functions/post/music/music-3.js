@@ -1150,6 +1150,86 @@ let post = [
     date: '2020. 7. 1'
   },
   {
+    image: 'https://i.ytimg.com/vi/IWv9WeuJVMk/maxresdefault.jpg',
+    imageText: "에픽하이 (Epik High) - 노땡큐 (Feat. MINO, 사이먼 도미닉, 더콰이엇) [WE'VE DONE SOMETHING WONDERFUL]",
+    backBtnType: 'w',
+    genre: 'korea-hiphop',
+    content: [
+      {
+        type: 'youtube',
+        data: "IWv9WeuJVMk",
+        desc: ''
+      },
+      {
+        type: 'text',
+        data: '출처 https://www.youtube.com/watch?v=IWv9WeuJVMk',
+        desc: ''
+      },
+    ],
+    origin: 'youtube',
+    date: '2017. 10. 23'
+  },
+  {
+    image: 'https://i.ytimg.com/vi/kYeCE1XNXe0/hqdefault.jpg',
+    imageText: "YDG - 선문답 (Feat. Sean2slow)",
+    backBtnType: 'w',
+    genre: 'korea-hiphop',
+    content: [
+      {
+        type: 'youtube',
+        data: "kYeCE1XNXe0",
+        desc: ''
+      },
+      {
+        type: 'text',
+        data: '출처 https://www.youtube.com/watch?v=kYeCE1XNXe0',
+        desc: ''
+      },
+    ],
+    origin: 'youtube',
+    date: '2009. 2. 8'
+  },
+  {
+    image: 'https://i.ytimg.com/vi/94bQ4ni6h80/maxresdefault.jpg',
+    imageText: "마이크로닷 (Microdot) - Hallelujah (Feat. YDG)",
+    backBtnType: 'w',
+    genre: 'korea-hiphop',
+    content: [
+      {
+        type: 'youtube',
+        data: "94bQ4ni6h80",
+        desc: ''
+      },
+      {
+        type: 'text',
+        data: '출처 https://www.youtube.com/watch?v=94bQ4ni6h80',
+        desc: ''
+      },
+    ],
+    origin: 'youtube',
+    date: '2017. 12. 14'
+  },
+  {
+    image: 'https://i.ytimg.com/vi/IyJg7DJvGXU/maxresdefault.jpg',
+    imageText: "YDG(양동근) _ JAJAJA(자자자) (Feat. Dynamic Duo(다이나믹듀오), Crush(크러쉬))",
+    backBtnType: 'w',
+    genre: 'korea-hiphop',
+    content: [
+      {
+        type: 'youtube',
+        data: "IyJg7DJvGXU",
+        desc: ''
+      },
+      {
+        type: 'text',
+        data: '출처 https://www.youtube.com/watch?v=IyJg7DJvGXU',
+        desc: ''
+      },
+    ],
+    origin: 'youtube',
+    date: '2014. 2. 25'
+  },
+  {
     image: 'https://i.ytimg.com/vi/xHDDGPlxZLU/hqdefault.jpg',
     imageText: "이소라 - 나를 사랑하지 않는 그대에게",
     backBtnType: 'w',
