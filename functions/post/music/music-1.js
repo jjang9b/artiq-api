@@ -12,7 +12,7 @@ let post = [
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=vD6-JQtsmas',
+        data: '출처 \nyoutube.com/watch?v=vD6-JQtsmas',
         desc: ''
       },
     ],
@@ -32,7 +32,7 @@ let post = [
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=4NRXx6U8ABQ',
+        data: '출처 \nyoutube.com/watch?v=4NRXx6U8ABQ',
         desc: ''
       },
     ],
@@ -52,7 +52,7 @@ let post = [
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=ghuXuZAocqE',
+        data: '출처 \nyoutube.com/watch?v=ghuXuZAocqE',
         desc: ''
       },
     ],
@@ -72,7 +72,7 @@ let post = [
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=kOCkne-Bku4',
+        data: '출처 \nyoutube.com/watch?v=kOCkne-Bku4',
         desc: ''
       },
     ],
@@ -92,7 +92,7 @@ let post = [
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=DjxvOfn7rLc',
+        data: '출처 \nyoutube.com/watch?v=DjxvOfn7rLc',
         desc: ''
       },
     ],
@@ -112,7 +112,7 @@ let post = [
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=k3XhvM5OcYQ',
+        data: '출처 \nyoutube.com/watch?v=k3XhvM5OcYQ',
         desc: ''
       },
     ],
@@ -132,7 +132,7 @@ let post = [
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=-Y9VtoPvtuM',
+        data: '출처 \nyoutube.com/watch?v=-Y9VtoPvtuM',
         desc: ''
       },
     ],
@@ -152,7 +152,7 @@ let post = [
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=q-X67J8I8Ik',
+        data: '출처 \nyoutube.com/watch?v=q-X67J8I8Ik',
         desc: ''
       },
     ],
@@ -172,7 +172,7 @@ let post = [
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=cMH3jz8RefE',
+        data: '출처 \nyoutube.com/watch?v=cMH3jz8RefE',
         desc: ''
       },
     ],
@@ -192,7 +192,7 @@ let post = [
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=MINlN-294DU',
+        data: '출처 \nyoutube.com/watch?v=MINlN-294DU',
         desc: ''
       },
     ],
@@ -212,7 +212,7 @@ let post = [
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=l61rMqqFU3g',
+        data: '출처 \nyoutube.com/watch?v=l61rMqqFU3g',
         desc: ''
       },
     ],
@@ -232,7 +232,7 @@ let post = [
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=pnpa4cyy6iE',
+        data: '출처 \nyoutube.com/watch?v=pnpa4cyy6iE',
         desc: ''
       },
     ],
@@ -252,7 +252,7 @@ let post = [
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=unxxm3Q6Ob8',
+        data: '출처 \nyoutube.com/watch?v=unxxm3Q6Ob8',
         desc: ''
       },
     ],
@@ -272,7 +272,7 @@ let post = [
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=mKy2LUvdE5w',
+        data: '출처 \nyoutube.com/watch?v=mKy2LUvdE5w',
         desc: ''
       },
     ],
@@ -292,7 +292,7 @@ let post = [
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=KwrCpfD-Cwo',
+        data: '출처 \nyoutube.com/watch?v=KwrCpfD-Cwo',
         desc: ''
       },
     ],
@@ -312,7 +312,7 @@ let post = [
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=YXcKDbSe80w',
+        data: '출처 \nyoutube.com/watch?v=YXcKDbSe80w',
         desc: ''
       },
     ],
@@ -332,7 +332,7 @@ let post = [
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=jFBBCofvg8c',
+        data: '출처 \nyoutube.com/watch?v=jFBBCofvg8c',
         desc: ''
       },
     ],
@@ -352,7 +352,7 @@ let post = [
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=smVvQVCtka4',
+        data: '출처 \nyoutube.com/watch?v=smVvQVCtka4',
         desc: ''
       },
     ],
@@ -372,7 +372,7 @@ let post = [
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=-yvHqenLpUU',
+        data: '출처 \nyoutube.com/watch?v=-yvHqenLpUU',
         desc: ''
       },
     ],
@@ -392,7 +392,7 @@ let post = [
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=IC-bSbXZBcU',
+        data: '출처 \nyoutube.com/watch?v=IC-bSbXZBcU',
         desc: ''
       },
     ],
@@ -412,7 +412,7 @@ let post = [
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=Sli1g5zlYIE',
+        data: '출처 \nyoutube.com/watch?v=Sli1g5zlYIE',
         desc: ''
       },
     ],
@@ -432,7 +432,7 @@ let post = [
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=Pzq_-YNCPNQ',
+        data: '출처 \nyoutube.com/watch?v=Pzq_-YNCPNQ',
         desc: ''
       },
     ],
@@ -452,7 +452,7 @@ let post = [
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=hlsqsIW6gx8',
+        data: '출처 \nyoutube.com/watch?v=hlsqsIW6gx8',
         desc: ''
       },
     ],
@@ -472,7 +472,7 @@ let post = [
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=EcF237i-0U0',
+        data: '출처 \nyoutube.com/watch?v=EcF237i-0U0',
         desc: ''
       },
     ],
@@ -492,7 +492,7 @@ let post = [
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=URTtLCNoHXU',
+        data: '출처 \nyoutube.com/watch?v=URTtLCNoHXU',
         desc: ''
       },
     ],
@@ -512,7 +512,7 @@ let post = [
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=K8JyRko65L8',
+        data: '출처 \nyoutube.com/watch?v=K8JyRko65L8',
         desc: ''
       },
     ],
@@ -532,7 +532,7 @@ let post = [
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=ME9x1mSNv-w',
+        data: '출처 \nyoutube.com/watch?v=ME9x1mSNv-w',
         desc: ''
       },
     ],
@@ -552,7 +552,7 @@ let post = [
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=U8XHwiMOyWQ',
+        data: '출처 \nyoutube.com/watch?v=U8XHwiMOyWQ',
         desc: ''
       },
     ],
@@ -572,7 +572,7 @@ let post = [
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=3z9sq9e5iu4',
+        data: '출처 \nyoutube.com/watch?v=3z9sq9e5iu4',
         desc: ''
       },
     ],
@@ -592,7 +592,7 @@ let post = [
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=4YTKUZHJEhI',
+        data: '출처 \nyoutube.com/watch?v=4YTKUZHJEhI',
         desc: ''
       },
     ],
@@ -612,7 +612,7 @@ let post = [
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=1t6uA9Hvu40',
+        data: '출처 \nyoutube.com/watch?v=1t6uA9Hvu40',
         desc: ''
       },
     ],
@@ -632,7 +632,7 @@ let post = [
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=S4zjsYPqeWE',
+        data: '출처 \nyoutube.com/watch?v=S4zjsYPqeWE',
         desc: ''
       },
     ],
@@ -652,7 +652,7 @@ let post = [
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=Yh5usm9WfJw',
+        data: '출처 \nyoutube.com/watch?v=Yh5usm9WfJw',
         desc: ''
       },
     ],
@@ -672,7 +672,7 @@ let post = [
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=4B4qEjqVM7o',
+        data: '출처 \nyoutube.com/watch?v=4B4qEjqVM7o',
         desc: ''
       },
     ],
@@ -692,7 +692,7 @@ let post = [
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=sY1-OPsqJj0',
+        data: '출처 \nyoutube.com/watch?v=sY1-OPsqJj0',
         desc: ''
       },
     ],
@@ -712,7 +712,7 @@ let post = [
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=m87vQBwgGo8',
+        data: '출처 \nyoutube.com/watch?v=m87vQBwgGo8',
         desc: ''
       },
     ],
@@ -732,7 +732,7 @@ let post = [
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=J_ub7Etch2U',
+        data: '출처 \nyoutube.com/watch?v=J_ub7Etch2U',
         desc: ''
       },
     ],
@@ -752,7 +752,7 @@ let post = [
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=TWes186orLA',
+        data: '출처 \nyoutube.com/watch?v=TWes186orLA',
         desc: ''
       },
     ],
@@ -772,7 +772,7 @@ let post = [
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=3zrSoHgAAWo',
+        data: '출처 \nyoutube.com/watch?v=3zrSoHgAAWo',
         desc: ''
       },
     ],
@@ -792,7 +792,7 @@ let post = [
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=nRXV7dHRWIU',
+        data: '출처 \nyoutube.com/watch?v=nRXV7dHRWIU',
         desc: ''
       },
     ],
@@ -812,7 +812,7 @@ let post = [
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=AUnypjWNa7Q',
+        data: '출처 \nyoutube.com/watch?v=AUnypjWNa7Q',
         desc: ''
       },
     ],
@@ -832,7 +832,7 @@ let post = [
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=xGfoY4nno3A',
+        data: '출처 \nyoutube.com/watch?v=xGfoY4nno3A',
         desc: ''
       },
     ],
@@ -852,7 +852,7 @@ let post = [
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=qQi_9PmhNW0',
+        data: '출처 \nyoutube.com/watch?v=qQi_9PmhNW0',
         desc: ''
       },
     ],
@@ -872,7 +872,7 @@ let post = [
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=cI6stNrIRzE',
+        data: '출처 \nyoutube.com/watch?v=cI6stNrIRzE',
         desc: ''
       },
     ],
@@ -892,7 +892,7 @@ let post = [
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=KK-1xrOsqXI',
+        data: '출처 \nyoutube.com/watch?v=KK-1xrOsqXI',
         desc: ''
       },
     ],
@@ -912,7 +912,7 @@ let post = [
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=uO_j23R18cM',
+        data: '출처 \nyoutube.com/watch?v=uO_j23R18cM',
         desc: ''
       },
     ],
@@ -932,7 +932,7 @@ let post = [
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=EQnk-h-LCpQ',
+        data: '출처 \nyoutube.com/watch?v=EQnk-h-LCpQ',
         desc: ''
       },
     ],
@@ -952,7 +952,7 @@ let post = [
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=rlU7CMsglvY',
+        data: '출처 \nyoutube.com/watch?v=rlU7CMsglvY',
         desc: ''
       },
     ],
@@ -972,7 +972,7 @@ let post = [
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=COiIC3A0ROM',
+        data: '출처 \nyoutube.com/watch?v=COiIC3A0ROM',
         desc: ''
       },
     ],
@@ -992,7 +992,7 @@ let post = [
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=COiIC3A0ROM',
+        data: '출처 \nyoutube.com/watch?v=COiIC3A0ROM',
         desc: ''
       },
     ],
@@ -1012,7 +1012,7 @@ let post = [
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=cyNBNLujyHE',
+        data: '출처 \nyoutube.com/watch?v=cyNBNLujyHE',
         desc: ''
       },
     ],
@@ -1032,7 +1032,7 @@ let post = [
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=2OEdoFGp140',
+        data: '출처 \nyoutube.com/watch?v=2OEdoFGp140',
         desc: ''
       },
     ],
@@ -1052,7 +1052,7 @@ let post = [
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=7EDijfvY7do',
+        data: '출처 \nyoutube.com/watch?v=7EDijfvY7do',
         desc: ''
       },
     ],
@@ -1072,7 +1072,7 @@ let post = [
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=oCtYekG1qBc',
+        data: '출처 \nyoutube.com/watch?v=oCtYekG1qBc',
         desc: ''
       },
     ],
@@ -1092,7 +1092,7 @@ let post = [
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=of7uskrKijc',
+        data: '출처 \nyoutube.com/watch?v=of7uskrKijc',
         desc: ''
       },
     ],
@@ -1112,7 +1112,7 @@ let post = [
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=FDMxZWbmoIo',
+        data: '출처 \nyoutube.com/watch?v=FDMxZWbmoIo',
         desc: ''
       },
     ],
@@ -1132,7 +1132,7 @@ let post = [
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=pwzyWm_2qg4',
+        data: '출처 \nyoutube.com/watch?v=pwzyWm_2qg4',
         desc: ''
       },
     ],
@@ -1152,7 +1152,7 @@ let post = [
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=TdyllLZeviY',
+        data: '출처 \nyoutube.com/watch?v=TdyllLZeviY',
         desc: ''
       },
     ],
@@ -1172,7 +1172,7 @@ let post = [
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=UsouvLWx9OA',
+        data: '출처 \nyoutube.com/watch?v=UsouvLWx9OA',
         desc: ''
       },
     ],
@@ -1192,7 +1192,7 @@ let post = [
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=2_zhV_9CGik',
+        data: '출처 \nyoutube.com/watch?v=2_zhV_9CGik',
         desc: ''
       },
     ],
@@ -1212,7 +1212,7 @@ let post = [
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=lyF7-GHQIsM',
+        data: '출처 \nyoutube.com/watch?v=lyF7-GHQIsM',
         desc: ''
       },
     ],
@@ -1232,7 +1232,7 @@ let post = [
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=5hYLMnvN-Uc',
+        data: '출처 \nyoutube.com/watch?v=5hYLMnvN-Uc',
         desc: ''
       },
     ],
@@ -1252,7 +1252,7 @@ let post = [
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=mHc2A6KtV4o',
+        data: '출처 \nyoutube.com/watch?v=mHc2A6KtV4o',
         desc: ''
       },
     ],
@@ -1272,7 +1272,7 @@ let post = [
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=JYcSJNkQSDI',
+        data: '출처 \nyoutube.com/watch?v=JYcSJNkQSDI',
         desc: ''
       },
     ],
@@ -1292,7 +1292,7 @@ let post = [
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=p5-xgzibCkg',
+        data: '출처 \nyoutube.com/watch?v=p5-xgzibCkg',
         desc: ''
       },
     ],
@@ -1312,7 +1312,7 @@ let post = [
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=uBzpDhntVPI',
+        data: '출처 \nyoutube.com/watch?v=uBzpDhntVPI',
         desc: ''
       },
     ],
@@ -1332,7 +1332,7 @@ let post = [
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=uC1m3b5KAuQ',
+        data: '출처 \nyoutube.com/watch?v=uC1m3b5KAuQ',
         desc: ''
       },
     ],
@@ -1352,7 +1352,7 @@ let post = [
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=LYu2jl238Ew',
+        data: '출처 \nyoutube.com/watch?v=LYu2jl238Ew',
         desc: ''
       },
     ],
@@ -1372,7 +1372,7 @@ let post = [
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=Gyoyz08f_O8',
+        data: '출처 \nyoutube.com/watch?v=Gyoyz08f_O8',
         desc: ''
       },
     ],
@@ -1392,7 +1392,7 @@ let post = [
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=oBKpJiVEcnU',
+        data: '출처 \nyoutube.com/watch?v=oBKpJiVEcnU',
         desc: ''
       },
     ],
@@ -1412,7 +1412,7 @@ let post = [
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=8TBNWHZD5Io',
+        data: '출처 \nyoutube.com/watch?v=8TBNWHZD5Io',
         desc: ''
       },
     ],
@@ -1432,7 +1432,7 @@ let post = [
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=nXXVMcyy_Ag',
+        data: '출처 \nyoutube.com/watch?v=nXXVMcyy_Ag',
         desc: ''
       },
     ],
@@ -1452,7 +1452,7 @@ let post = [
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=baj6llvgpWA',
+        data: '출처 \nyoutube.com/watch?v=baj6llvgpWA',
         desc: ''
       },
     ],
@@ -1472,7 +1472,7 @@ let post = [
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=DEzREJbln-o',
+        data: '출처 \nyoutube.com/watch?v=DEzREJbln-o',
         desc: ''
       },
     ],
@@ -1492,7 +1492,7 @@ let post = [
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=S1ZgtVIfjAo',
+        data: '출처 \nyoutube.com/watch?v=S1ZgtVIfjAo',
         desc: ''
       },
     ],
@@ -1512,7 +1512,7 @@ let post = [
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=oG08ukJPtR8',
+        data: '출처 \nyoutube.com/watch?v=oG08ukJPtR8',
         desc: ''
       },
     ],
@@ -1532,7 +1532,7 @@ let post = [
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=W-mbRPhmAhY',
+        data: '출처 \nyoutube.com/watch?v=W-mbRPhmAhY',
         desc: ''
       },
     ],
@@ -1552,7 +1552,7 @@ let post = [
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=G4EVCwT6Z1Q',
+        data: '출처 \nyoutube.com/watch?v=G4EVCwT6Z1Q',
         desc: ''
       },
     ],
@@ -1572,7 +1572,7 @@ let post = [
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=xuNMsMpVaho',
+        data: '출처 \nyoutube.com/watch?v=xuNMsMpVaho',
         desc: ''
       },
     ],
@@ -1592,7 +1592,7 @@ let post = [
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=fxEYOK7Aqyc',
+        data: '출처 \nyoutube.com/watch?v=fxEYOK7Aqyc',
         desc: ''
       },
     ],
@@ -1612,7 +1612,7 @@ let post = [
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=MHjAQB4Memg',
+        data: '출처 \nyoutube.com/watch?v=MHjAQB4Memg',
         desc: ''
       },
     ],
@@ -1632,7 +1632,7 @@ let post = [
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=0r-2JL_vXqo',
+        data: '출처 \nyoutube.com/watch?v=0r-2JL_vXqo',
         desc: ''
       },
     ],
@@ -1652,7 +1652,7 @@ let post = [
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=RX3_fM5v9dA',
+        data: '출처 \nyoutube.com/watch?v=RX3_fM5v9dA',
         desc: ''
       },
     ],
@@ -1672,7 +1672,7 @@ let post = [
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=BFfX0HWDQtY',
+        data: '출처 \nyoutube.com/watch?v=BFfX0HWDQtY',
         desc: ''
       },
     ],
@@ -1692,7 +1692,7 @@ let post = [
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=FHNF4zIJ-Mk',
+        data: '출처 \nyoutube.com/watch?v=FHNF4zIJ-Mk',
         desc: ''
       },
     ],
@@ -1712,7 +1712,7 @@ let post = [
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=J9Bc71SixcQ',
+        data: '출처 \nyoutube.com/watch?v=J9Bc71SixcQ',
         desc: ''
       },
     ],
@@ -1732,7 +1732,7 @@ let post = [
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=IDD5_z3kKCU',
+        data: '출처 \nyoutube.com/watch?v=IDD5_z3kKCU',
         desc: ''
       },
     ],
@@ -1752,7 +1752,7 @@ let post = [
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=_EfRa_ywkEw',
+        data: '출처 \nyoutube.com/watch?v=_EfRa_ywkEw',
         desc: ''
       },
     ],
@@ -1772,7 +1772,7 @@ let post = [
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=NE14c5mEUdU',
+        data: '출처 \nyoutube.com/watch?v=NE14c5mEUdU',
         desc: ''
       },
     ],
@@ -1792,7 +1792,7 @@ let post = [
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=ru0K8uYEZWw',
+        data: '출처 \nyoutube.com/watch?v=ru0K8uYEZWw',
         desc: ''
       },
     ],
@@ -1812,7 +1812,7 @@ let post = [
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=P6smRvfNDL4',
+        data: '출처 \nyoutube.com/watch?v=P6smRvfNDL4',
         desc: ''
       },
     ],
@@ -1832,7 +1832,7 @@ let post = [
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=Pxes1qhbdcE',
+        data: '출처 \nyoutube.com/watch?v=Pxes1qhbdcE',
         desc: ''
       },
     ],
@@ -1852,7 +1852,7 @@ let post = [
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=kJDdaWJWhPQ',
+        data: '출처 \nyoutube.com/watch?v=kJDdaWJWhPQ',
         desc: ''
       },
     ],
@@ -1872,7 +1872,7 @@ let post = [
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=BxSw1vRghh4',
+        data: '출처 \nyoutube.com/watch?v=BxSw1vRghh4',
         desc: ''
       },
     ],
@@ -1892,7 +1892,7 @@ let post = [
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=iGofZpASaqo',
+        data: '출처 \nyoutube.com/watch?v=iGofZpASaqo',
         desc: ''
       },
     ],
@@ -1912,7 +1912,7 @@ let post = [
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=MQ8a7-AYsw4',
+        data: '출처 \nyoutube.com/watch?v=MQ8a7-AYsw4',
         desc: ''
       },
     ],
@@ -1932,7 +1932,7 @@ let post = [
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=yzWIU0FVvg0',
+        data: '출처 \nyoutube.com/watch?v=yzWIU0FVvg0',
         desc: ''
       },
     ],
@@ -1952,7 +1952,7 @@ let post = [
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=1MnzUWjBQog',
+        data: '출처 \nyoutube.com/watch?v=1MnzUWjBQog',
         desc: ''
       },
     ],
