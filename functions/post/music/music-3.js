@@ -1370,6 +1370,26 @@ let post = [
     date: '2017. 12. 13'
   },
   {
+    image: 'https://i.ytimg.com/vi/GNUoKxwhujI/hqdefault.jpg',
+    imageText: "Sean2Slow - Moment of Truth",
+    backBtnType: 'w',
+    genre: 'korea-hiphop',
+    content: [
+      {
+        type: 'youtube',
+        data: "GNUoKxwhujI",
+        desc: ''
+      },
+      {
+        type: 'text',
+        data: '출처 https://www.youtube.com/watch?v=GNUoKxwhujI',
+        desc: ''
+      },
+    ],
+    origin: 'youtube',
+    date: '2008. 6. 18'
+  },
+  {
     image: 'https://i.ytimg.com/vi/tKv1E7ITA3c/maxresdefault.jpg',
     imageText: "빅마마 - break away",
     backBtnType: 'w',
