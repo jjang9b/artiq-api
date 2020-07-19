@@ -1310,6 +1310,26 @@ let post = [
     date: '2020. 3. 15'
   },
   {
+    image: 'https://i.ytimg.com/vi/-B4uA5wYvGU/hqdefault.jpg',
+    imageText: "은지원 - 만취 In Melody",
+    backBtnType: 'w',
+    genre: 'korea-hiphop',
+    content: [
+      {
+        type: 'youtube',
+        data: "wPWRzPjorqM",
+        desc: ''
+      },
+      {
+        type: 'text',
+        data: '출처 https://www.youtube.com/watch?v=wPWRzPjorqM',
+        desc: ''
+      },
+    ],
+    origin: 'youtube',
+    date: '2020. 3. 7'
+  },
+  {
     image: 'https://i.ytimg.com/vi/Gm0ODfzVoQU/maxresdefault.jpg',
     imageText: "[M2 LIVE] 지코(ZICO) - Summer Hate (Feat. 비(RAIN))",
     backBtnType: 'w',
@@ -1328,6 +1348,46 @@ let post = [
     ],
     origin: 'youtube',
     date: '2020. 7. 1'
+  },
+  {
+    image: 'https://i.ytimg.com/vi/mG3XAXlCcD4/hqdefault.jpg',
+    imageText: "드렁큰 타이거 - 고집쟁이",
+    backBtnType: 'w',
+    genre: 'korea-hiphop',
+    content: [
+      {
+        type: 'youtube',
+        data: "mG3XAXlCcD4",
+        desc: ''
+      },
+      {
+        type: 'text',
+        data: '출처 https://www.youtube.com/watch?v=mG3XAXlCcD4',
+        desc: ''
+      },
+    ],
+    origin: 'youtube',
+    date: '2017. 12. 13'
+  },
+  {
+    image: 'https://i.ytimg.com/vi/tKv1E7ITA3c/maxresdefault.jpg',
+    imageText: "빅마마 - break away",
+    backBtnType: 'w',
+    genre: 'korea-rnb',
+    content: [
+      {
+        type: 'youtube',
+        data: "tKv1E7ITA3c",
+        desc: ''
+      },
+      {
+        type: 'text',
+        data: '출처 https://www.youtube.com/watch?v=tKv1E7ITA3c',
+        desc: ''
+      },
+    ],
+    origin: 'youtube',
+    date: '2020. 4. 20'
   },
 ];
 

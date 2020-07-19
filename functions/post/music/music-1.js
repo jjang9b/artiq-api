@@ -1907,12 +1907,12 @@ let post = [
     content: [
       {
         type: 'youtube',
-        data: "A2i5uomBAZQ",
+        data: "MQ8a7-AYsw4",
         desc: ''
       },
       {
         type: 'text',
-        data: '출처 https://www.youtube.com/watch?v=A2i5uomBAZQ',
+        data: '출처 https://www.youtube.com/watch?v=MQ8a7-AYsw4',
         desc: ''
       },
     ],
