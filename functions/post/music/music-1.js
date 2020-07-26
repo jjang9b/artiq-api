@@ -1920,6 +1920,31 @@ let post = [
     date: '2018. 10. 5'
   },
   {
+    image: 'https://i.ytimg.com/vi/A2i5uomBAZQ/maxresdefault.jpg',
+    imageText: "Supreme Team (슈프림팀) - 너 때문이야 (Feat. Soulman)",
+    backBtnType: 'w',
+    genre: 'korea-hiphop',
+    content: [
+      {
+        type: 'youtube',
+        data: "pLDXOebjblk",
+        desc: ''
+      },
+      {
+        type: 'text',
+        data: '',
+        desc: ''
+      },
+      {
+        type: 'text',
+        data: '출처 \nyoutube.com/watch?v=pLDXOebjblk',
+        desc: ''
+      },
+    ],
+    origin: 'youtube',
+    date: '2010. 7. 5'
+  },
+  {
     image: 'https://i.ytimg.com/vi/yzWIU0FVvg0/maxresdefault.jpg',
     imageText: "Chase White - What You Got to Lose",
     backBtnType: 'w',

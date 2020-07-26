@@ -1117,17 +1117,17 @@ let post = [
     content: [
       {
         type: 'youtube',
-        data: "8f80-3u0V58",
+        data: "daGuAfmpows",
         desc: ''
       },
       {
         type: 'text',
-        data: '출처 \nyoutube.com/watch?v=8f80-3u0V58',
+        data: '출처 \nyoutube.com/watch?v=daGuAfmpows',
         desc: ''
       },
     ],
     origin: 'youtube',
-    date: '2007. 7. 27'
+    date: '2020. 2. 2'
   },
   {
     image: 'https://i.ytimg.com/vi/1eZZLm1r6ek/maxresdefault.jpg',
@@ -1428,6 +1428,126 @@ let post = [
     ],
     origin: 'youtube',
     date: '2020. 4. 20'
+  },
+  {
+    image: 'https://i.ytimg.com/vi/4VmLuWDkHYQ/maxresdefault.jpg',
+    imageText: "HYO - DESSERT (Feat. Loopy, SOYEON ((G)I-DLE) MV",
+    backBtnType: 'w',
+    genre: 'korea-rnb',
+    content: [
+      {
+        type: 'youtube',
+        data: "4VmLuWDkHYQ",
+        desc: ''
+      },
+      {
+        type: 'text',
+        data: '출처 \nyoutube.com/watch?v=4VmLuWDkHYQ',
+        desc: ''
+      },
+    ],
+    origin: 'youtube',
+    date: '2020. 7. 22'
+  },
+  {
+    image: 'https://i.ytimg.com/vi/zodq4GrJxKM/maxresdefault.jpg',
+    imageText: "Hwasa - Maria [Color Coded Lyrics/Han/Rom/Eng]",
+    backBtnType: 'w',
+    genre: 'korea-rnb',
+    content: [
+      {
+        type: 'youtube',
+        data: "zodq4GrJxKM",
+        desc: ''
+      },
+      {
+        type: 'text',
+        data: '출처 \nyoutube.com/watch?v=zodq4GrJxKM',
+        desc: ''
+      },
+    ],
+    origin: 'youtube',
+    date: '2020. 6. 29'
+  },
+  {
+    image: 'https://i.ytimg.com/vi/E-HXf-Dih3c/hqdefault.jpg',
+    imageText: "Simon Dominic - Simon Dominic LYRICS",
+    backBtnType: 'w',
+    genre: 'korea-hiphop',
+    content: [
+      {
+        type: 'youtube',
+        data: "E-HXf-Dih3c",
+        desc: ''
+      },
+      {
+        type: 'text',
+        data: '출처 \nyoutube.com/watch?v=E-HXf-Dih3c',
+        desc: ''
+      },
+    ],
+    origin: 'youtube',
+    date: '2015. 8. 19'
+  },
+  {
+    image: 'https://i.ytimg.com/vi/LYYBdGMUYjc/maxresdefault.jpg',
+    imageText: "크러쉬(Crush) x 적재(Jukjae) - 가리워진 길 <비긴어게인 코리아>",
+    backBtnType: 'w',
+    genre: 'korea-ballad',
+    content: [
+      {
+        type: 'youtube',
+        data: "LYYBdGMUYjc",
+        desc: ''
+      },
+      {
+        type: 'text',
+        data: '출처 \nyoutube.com/watch?v=LYYBdGMUYjc',
+        desc: ''
+      },
+    ],
+    origin: 'youtube',
+    date: '2020. 6. 20'
+  },
+  {
+    image: 'https://i.ytimg.com/vi/-xFqFn83AHM/hqdefault.jpg',
+    imageText: "이문세X이소라X윤도현X유희열 - 조조할인",
+    backBtnType: 'w',
+    genre: 'korea-ballad',
+    content: [
+      {
+        type: 'youtube',
+        data: "-xFqFn83AHM",
+        desc: ''
+      },
+      {
+        type: 'text',
+        data: '출처 \nyoutube.com/watch?v=-xFqFn83AHM',
+        desc: ''
+      },
+    ],
+    origin: 'youtube',
+    date: '2020. 7. 18'
+  },
+  {
+    image: 'https://i.ytimg.com/vi/s850trw8JtU/hqdefault.jpg',
+    imageText: "Boa - Only one",
+    backBtnType: 'w',
+    genre: 'korea-ballad',
+    content: [
+      {
+        type: 'youtube',
+        data: "l1L0qcWdR7g",
+        desc: ''
+      },
+      {
+        type: 'text',
+        data: '출처 \nyoutube.com/watch?v=l1L0qcWdR7g',
+        desc: ''
+      },
+    ],
+    origin: 'youtube',
+    date: '2012. 7. 23'
   },
 ];
 
