@@ -1530,24 +1530,44 @@ let post = [
     date: '2020. 7. 18'
   },
   {
-    image: 'https://i.ytimg.com/vi/s850trw8JtU/hqdefault.jpg',
-    imageText: "Boa - Only one",
+    image: 'https://i.ytimg.com/vi/NUKa5Py3owA/maxresdefault.jpg',
+    imageText: "이효리(린다G) - LINDA (Feat.윤미래)",
     backBtnType: 'w',
-    genre: 'korea-ballad',
+    genre: 'korea-rnb',
     content: [
       {
         type: 'youtube',
-        data: "l1L0qcWdR7g",
+        data: "NUKa5Py3owA",
         desc: ''
       },
       {
         type: 'text',
-        data: '출처 \nyoutube.com/watch?v=l1L0qcWdR7g',
+        data: '출처 \nyoutube.com/watch?v=NUKa5Py3owA',
         desc: ''
       },
     ],
     origin: 'youtube',
-    date: '2012. 7. 23'
+    date: '2020. 8. 1'
+  },
+  {
+    image: 'https://i.ytimg.com/vi/W0_ejSvyyT0/maxresdefault.jpg',
+    imageText: "비룡 - 신난다 (Feat. 마마무)",
+    backBtnType: 'w',
+    genre: 'korea-rnb',
+    content: [
+      {
+        type: 'youtube',
+        data: "W0_ejSvyyT0",
+        desc: ''
+      },
+      {
+        type: 'text',
+        data: '출처 \nyoutube.com/watch?v=W0_ejSvyyT0',
+        desc: ''
+      },
+    ],
+    origin: 'youtube',
+    date: '2020. 8. 1'
   },
 ];
 

@@ -86,14 +86,14 @@ let getData = (type, genre) => {
 exports.guide = functions.region('asia-northeast1').https.onRequest((req, res) => {
   res.status(200).send([
     {
-      image: 'https://i.pinimg.com/564x/fd/9f/80/fd9f8045c7525f83623c24d5acc5abd4.jpg',
+      image: 'https://i.pinimg.com/564x/a5/e5/62/a5e562a08cc5a10e569b592ef5eeb73f.jpg',
       title: '감각적 음악 창고 ArtiQ',
       text: 'Music makes us happy ♪'
     },
     {
       image: 'https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fk.kakaocdn.net%2Fdn%2FSdepx%2FbtqEPlZtJkb%2F2SSxFvWEXqke6KzKdGPkPk%2Fimg.png',
       title: 'MUSIC',
-      text: '듣고 싶은 음악을 눌러 주세요\n또 새로운 음악을 감상하고 싶을 땐 갱신 버튼을\n눌러보세요',
+      text: '듣고 싶은 음악을 눌러 주세요\n또 새로운 음악을 감상하고 싶을 땐 갱신 버튼을\n눌러보세요',b
     },
     {
       image: 'https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fk.kakaocdn.net%2Fdn%2Fw0KQ5%2FbtqEOZikNNF%2F7TlunIqU97k5n9gwJNu6c1%2Fimg.png',
