@@ -1490,6 +1490,46 @@ let post = [
     date: '2015. 8. 19'
   },
   {
+    image: 'https://i.ytimg.com/vi/UVRkETfeBKA/maxresdefault.jpg',
+    imageText: "Cosmic Boy - About Time (Feat. 기리보이, THAMA) Official M/V",
+    backBtnType: 'w',
+    genre: 'korea-medium',
+    content: [
+      {
+        type: 'youtube',
+        data: "UVRkETfeBKA",
+        desc: ''
+      },
+      {
+        type: 'text',
+        data: '출처 \nyoutube.com/watch?v=UVRkETfeBKA',
+        desc: ''
+      },
+    ],
+    origin: 'youtube',
+    date: '2019. 3. 22'
+  },
+  {
+    image: 'https://i.ytimg.com/vi/wQ8REHfRUcQ/maxresdefault.jpg',
+    imageText: "THAMA - Do It For Love (Feat. 죠지)",
+    backBtnType: 'w',
+    genre: 'korea-medium',
+    content: [
+      {
+        type: 'youtube',
+        data: "wQ8REHfRUcQ",
+        desc: ''
+      },
+      {
+        type: 'text',
+        data: '출처 \nyoutube.com/watch?v=wQ8REHfRUcQ',
+        desc: ''
+      },
+    ],
+    origin: 'youtube',
+    date: '2020. 6. 24'
+  },
+  {
     image: 'https://i.ytimg.com/vi/LYYBdGMUYjc/maxresdefault.jpg',
     imageText: "크러쉬(Crush) x 적재(Jukjae) - 가리워진 길 <비긴어게인 코리아>",
     backBtnType: 'w',
