@@ -93,7 +93,7 @@ exports.guide = functions.region('asia-northeast1').https.onRequest((req, res) =
     {
       image: 'https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fk.kakaocdn.net%2Fdn%2FSdepx%2FbtqEPlZtJkb%2F2SSxFvWEXqke6KzKdGPkPk%2Fimg.png',
       title: 'MUSIC',
-      text: '듣고 싶은 음악을 눌러 주세요\n또 새로운 음악을 감상하고 싶을 땐 갱신 버튼을\n눌러보세요',b
+      text: '듣고 싶은 음악을 눌러 주세요\n또 새로운 음악을 감상하고 싶을 땐 갱신 버튼을\n눌러보세요',
     },
     {
       image: 'https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fk.kakaocdn.net%2Fdn%2Fw0KQ5%2FbtqEOZikNNF%2F7TlunIqU97k5n9gwJNu6c1%2Fimg.png',
