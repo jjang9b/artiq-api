@@ -86,6 +86,11 @@ let getData = (type, genre) => {
 exports.guide = functions.region('asia-northeast1').https.onRequest((req, res) => {
   res.status(200).send([
     {
+      image: 'https://i.pinimg.com/564x/6d/47/dc/6d47dcfa8c2cfc02903ed02255bb92fe.jpg',
+      title: '공지사항',
+      text: '8월 6일가량부터 시스템에 오류가 있었습니다. 사용에 불편을 드려 죄송합니다. 앞으로 좀 더 신경 써서 서비스를 유지하도록 하겠습니다 ^^\n좋은 음악들 많이 추천해 주시면 포스트로 추가하도록 할게요.',
+    },    
+    {
       image: 'https://i.pinimg.com/564x/a5/e5/62/a5e562a08cc5a10e569b592ef5eeb73f.jpg',
       title: '감각적 음악 창고 ArtiQ',
       text: 'Music makes us happy ♪'
