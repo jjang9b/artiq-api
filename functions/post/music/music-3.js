@@ -1609,6 +1609,66 @@ let post = [
     origin: 'youtube',
     date: '2020. 8. 1'
   },
+  {
+    image: 'https://i.ytimg.com/vi/I49K2N3y9pY/hqdefault.jpg',
+    imageText: "[MV] 2020 월간 윤종신 8월호 - 생각 (Feat. Kingo Hamada)",
+    backBtnType: 'w',
+    genre: 'korea-city',
+    content: [
+      {
+        type: 'youtube',
+        data: "I49K2N3y9pY",
+        desc: ''
+      },
+      {
+        type: 'text',
+        data: '출처 \nyoutube.com/watch?v=I49K2N3y9pY',
+        desc: ''
+      },
+    ],
+    origin: 'youtube',
+    date: '2020. 8. 19'
+  },
+  {
+    image: 'https://i.ytimg.com/vi/D5G5AA2aby0/maxresdefault.jpg',
+    imageText: "Kamal. - blue (LYRICS)",
+    backBtnType: 'w',
+    genre: 'foreign-medium',
+    content: [
+      {
+        type: 'youtube',
+        data: "D5G5AA2aby0",
+        desc: ''
+      },
+      {
+        type: 'text',
+        data: '출처 \nyoutube.com/watch?v=D5G5AA2aby0',
+        desc: ''
+      },
+    ],
+    origin: 'youtube',
+    date: '2020. 5. 27'
+  },
+  {
+    image: 'https://i.ytimg.com/vi/Ja_wQnVgkEc/hqdefault.jpg',
+    imageText: "Stereophonics - Maybe Tomorrow",
+    backBtnType: 'w',
+    genre: 'soul',
+    content: [
+      {
+        type: 'youtube',
+        data: "Ja_wQnVgkEc",
+        desc: ''
+      },
+      {
+        type: 'text',
+        data: '출처 \nyoutube.com/watch?v=Ja_wQnVgkEc',
+        desc: ''
+      },
+    ],
+    origin: 'youtube',
+    date: '2010. 2. 21'
+  },
 ];
 
 exports.post = post;
