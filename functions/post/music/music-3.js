@@ -1110,7 +1110,7 @@ let post = [
     date: '2020. 6. 20'
   },
   {
-    image: 'https://i.ytimg.com/vi/8f80-3u0V58/hqdefault.jpg',
+    image: 'https://i.ytimg.com/vi/bDgSMwK9URU/maxresdefault.jpg',
     imageText: "Musiq - Love",
     backBtnType: 'w',
     genre: 'soul',

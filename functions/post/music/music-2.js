@@ -960,7 +960,7 @@ let post = [
     date: '2014. 8. 8'
   },
   {
-    image: 'https://i.ytimg.com/vi/lA9-TQE3lTM/maxresdefault.jpg',
+    image: 'https://i.ytimg.com/vi/hKTA4NpZIAQ/maxresdefault.jpg',
     imageText: "Coldplay - Cry Cry Cry (Lyric Video)",
     backBtnType: 'w',
     genre: 'foreign-medium',
