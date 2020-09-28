@@ -740,7 +740,7 @@ let post = [
     date: '2017. 4. 6'
   },
   {
-    image: 'https://i.ytimg.com/vi/FN-I9SBdFxs/maxresdefault.jpg',
+    image: 'https://i.ytimg.com/vi/am_A1Ojifks/maxresdefault.jpg',
     imageText: "다이나믹 듀오(Dynamicduo) - 맵고짜고단거 (Feat. 페노메코 Penomeco)",
     backBtnType: 'w',
     genre: 'korea-hiphop',
@@ -1240,24 +1240,24 @@ let post = [
     date: '2019. 11. 1'
   },
   {
-    image: 'https://i.ytimg.com/vi/L7L7aSeAZ4E/maxresdefault.jpg',
+    image: 'https://i.ytimg.com/vi/xE3j_71kkQo/maxresdefault.jpg',
     imageText: "기리보이 (Giriboy) - 이혼서류",
     backBtnType: 'w',
     genre: 'korea-hiphop',
     content: [
       {
         type: 'youtube',
-        data: "0Remc4lR92o",
+        data: "xE3j_71kkQo",
         desc: ''
       },
       {
         type: 'text',
-        data: '출처 \nyoutube.com/watch?v=0Remc4lR92o',
+        data: '출처 \nyoutube.com/watch?v=xE3j_71kkQo',
         desc: ''
       },
     ],
     origin: 'youtube',
-    date: '2019. 11. 11'
+    date: '2019. 11. 9'
   },
   {
     image: 'https://kpopeasy.com/wp-content/uploads/2019/07/camping-everywhere.jpg',
@@ -1660,24 +1660,24 @@ let post = [
     date: '2020. 4. 4'
   },
   {
-    image: 'https://i.ytimg.com/vi/_aRXrKsAPDg/maxresdefault.jpg',
-    imageText: "윤도현 - My Soul (Liverpool Busking Ver.)",
+    image: 'https://i.ytimg.com/vi/N7VnK2AhlYI/hqdefault.jpg',
+    imageText: "[Official Lyric Video] 윤도현 - 당신이 만든 날씨 2020",
     backBtnType: 'w',
     genre: 'korea-ballad',
     content: [
       {
         type: 'youtube',
-        data: "sEYqEElvQ-c",
+        data: "N7VnK2AhlYI",
         desc: ''
       },
       {
         type: 'text',
-        data: '출처 \nyoutube.com/watch?v=sEYqEElvQ-c',
+        data: '출처 \nyoutube.com/watch?v=N7VnK2AhlYI',
         desc: ''
       },
     ],
     origin: 'youtube',
-    date: '2017. 7. 31'
+    date: '2020. 5. 27'
   },
   {
     image: 'https://i.ytimg.com/vi/T_nf_0b_zbw/maxresdefault.jpg',

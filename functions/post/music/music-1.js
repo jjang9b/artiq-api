@@ -360,7 +360,7 @@ let post = [
     date: '2015. 4. 7'
   },
   {
-    image: 'https://www.lukasgraham.com/sites/g/files/g2000005361/f/201604/12918613_1034019863339241_982674834_n.jpg%3Fig_cache_key%3DMTIyMzI5MjE4MTA5NDk1MDc0Nw%253D%253D.2',
+    image: 'https://i.ytimg.com/vi/-yvHqenLpUU/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAPHAbwVg19vbXeVfj4vo74IRssKQ',
     imageText: 'Lukas Graham - Drunk In The Morning [Official Music Video ]',
     backBtnType: 'w',
     genre: 'foreign-rnb',
@@ -900,7 +900,7 @@ let post = [
     date: '2017. 5. 5'
   },
   {
-    image: 'https://i.ytimg.com/vi/JkTx6HdZ6eA/maxresdefault.jpg',
+    image: 'https://i.ytimg.com/vi/uO_j23R18cM/maxresdefault.jpg',
     imageText: 'Yoon Mi Rae (윤미래) - Say',
     backBtnType: 'w',
     genre: 'korea-ballad',

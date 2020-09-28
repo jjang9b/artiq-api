@@ -610,19 +610,19 @@ let post = [
     date: '2019. 1. 27'
   },
   {
-    image: 'https://i.ytimg.com/vi/fjL3Sjm8CDU/maxresdefault.jpg',
+    image: 'https://i.ytimg.com/vi/ln-c5LqL1Qw/maxresdefault.jpg',
     imageText: "기리보이 (Giriboy) - 교통정리 (Feat. 헤이즈)",
     backBtnType: 'w',
     genre: 'korea-hiphop',
     content: [
       {
         type: 'youtube',
-        data: "fjL3Sjm8CDU",
+        data: "ln-c5LqL1Qw",
         desc: ''
       },
       {
         type: 'text',
-        data: '출처 \nyoutube.com/watch?v=fjL3Sjm8CDU',
+        data: '출처 \nyoutube.com/watch?v=ln-c5LqL1Qw',
         desc: ''
       },
     ],
@@ -1450,19 +1450,19 @@ let post = [
     date: '2020. 7. 22'
   },
   {
-    image: 'https://i.ytimg.com/vi/zodq4GrJxKM/maxresdefault.jpg',
-    imageText: "Hwasa - Maria [Color Coded Lyrics/Han/Rom/Eng]",
+    image: 'https://i.ytimg.com/vi/yMXCyRTwumE/maxresdefault.jpg',
+    imageText: "화사(Hwa Sa) - 마리아 (Maria)",
     backBtnType: 'w',
     genre: 'korea-rnb',
     content: [
       {
         type: 'youtube',
-        data: "zodq4GrJxKM",
+        data: "yMXCyRTwumE",
         desc: ''
       },
       {
         type: 'text',
-        data: '출처 \nyoutube.com/watch?v=zodq4GrJxKM',
+        data: '출처 \nyoutube.com/watch?v=yMXCyRTwumE',
         desc: ''
       },
     ],
