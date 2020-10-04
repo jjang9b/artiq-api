@@ -160,7 +160,7 @@ let post = [
     date: '2019. 5. 3'
   },
   {
-    image: 'https://i.ytimg.com/vi/mW8o6InK5Dg/maxresdefault.jpg',
+    image: 'https://i.ytimg.com/vi/U016c4mFebQ/maxresdefault.jpg',
     imageText: "한동근 - Usual (보통 같으면)",
     backBtnType: 'w',
     genre: 'korea-ballad',
@@ -260,7 +260,7 @@ let post = [
     date: '2013. 1. 13'
   },
   {
-    image: 'https://img.discogs.com/Lf84DdWwdU_LOtKMXVbl7fiwfL8=/fit-in/568x574/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1918469-1252398548.jpeg.jpg',
+    image: 'https://i.ytimg.com/vi/qIp9TwSEgFg/maxresdefault.jpg',
     imageText: "Ray Charles - Georgia On My Mind (Live)",
     backBtnType: 'w',
     genre: 'black',
@@ -380,7 +380,7 @@ let post = [
     date: '2017. 7. 13'
   },
   {
-    image: 'https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Fcfile%2Ftistory%2F260B493756F9447016',
+    image: 'https://i.ytimg.com/vi/B4vqDwIuQXA/hqdefault.jpg',
     imageText: "Sam Kim - Mama Don't Worry",
     backBtnType: 'w',
     genre: 'korea-medium',
@@ -420,7 +420,7 @@ let post = [
     date: '2014. 12. 4'
   },
   {
-    image: 'https://s.mxmcdn.net/images-storage/albums4/9/1/2/2/1/5/46512219_800_800.jpg',
+    image: 'https://i.ytimg.com/vi/zSTpeXA4JPU/maxresdefault.jpg',
     imageText: "Bluey Robinson - Showgirl",
     backBtnType: 'w',
     genre: 'foreign-rnb',
@@ -1080,7 +1080,7 @@ let post = [
     date: '2018. 1. 11'
   },
   {
-    image: 'https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/021/191/81021191_1515653924081_1_600x600.JPG',
+    image: 'https://i.ytimg.com/vi/L-smW5aa0vE/mqdefault.jpg',
     imageText: '김동률 - Although We Say I Love You (사랑한다 말해도) (Feat. 이소라)',
     backBtnType: 'w',
     genre: 'korea-ballad',
@@ -1260,7 +1260,7 @@ let post = [
     date: '2019. 11. 9'
   },
   {
-    image: 'https://kpopeasy.com/wp-content/uploads/2019/07/camping-everywhere.jpg',
+    image: 'https://i.ytimg.com/vi/4UF-5DPvBDQ/maxresdefault.jpg',
     imageText: "죠지(george) - camping everywhere",
     backBtnType: 'w',
     genre: 'korea-medium',
@@ -1300,7 +1300,7 @@ let post = [
     date: '2019. 12. 2'
   },
   {
-    image: 'https://images.genius.com/1fd6a2e62ed6ac997f01d5714aed9474.1000x1000x1.jpg',
+    image: 'https://i.ytimg.com/vi/6KlBEHB6lBg/maxresdefault.jpg',
     imageText: "기리보이 - 술자리",
     backBtnType: 'w',
     genre: 'korea-hiphop',
@@ -1458,66 +1458,6 @@ let post = [
     ],
     origin: 'youtube',
     date: '2019. 3. 21'
-  },
-  {
-    image: 'https://i.ytimg.com/vi/6dggc7qqKUo/maxresdefault.jpg',
-    imageText: "Brushy One String | Chicken in The Corn (Lyrics)",
-    backBtnType: 'w',
-    genre: 'black',
-    content: [
-      {
-        type: 'youtube',
-        data: "6dggc7qqKUo",
-        desc: ''
-      },
-      {
-        type: 'text',
-        data: '출처 \nyoutube.com/watch?v=6dggc7qqKUo',
-        desc: ''
-      },
-    ],
-    origin: 'youtube',
-    date: '2015. 3. 31'
-  },
-  {
-    image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ5GwkhKGMsHpN8SCRGzfFYEPRuhdtKlLcFHiQ2zJkxFGyYaFSR&usqp=CAU',
-    imageText: "Brushy One String | DESTINY (Lyrics)",
-    backBtnType: 'w',
-    genre: 'black',
-    content: [
-      {
-        type: 'youtube',
-        data: "KC2r4VnmD2E",
-        desc: ''
-      },
-      {
-        type: 'text',
-        data: '출처 \nyoutube.com/watch?v=KC2r4VnmD2E',
-        desc: ''
-      },
-    ],
-    origin: 'youtube',
-    date: '2014. 8. 27'
-  },
-  {
-    image: 'https://i.ytimg.com/vi/1q0neAHCRak/maxresdefault.jpg',
-    imageText: "박진영 - 살아있네 M/V",
-    backBtnType: 'w',
-    genre: 'korea-rnb',
-    content: [
-      {
-        type: 'youtube',
-        data: "pJc2ypdWvEI",
-        desc: ''
-      },
-      {
-        type: 'text',
-        data: '출처 \nyoutube.com/watch?v=pJc2ypdWvEI',
-        desc: ''
-      },
-    ],
-    origin: 'youtube',
-    date: '2016. 4. 9'
   },
   {
     image: 'https://i.ytimg.com/vi/XOCNdkuwCVM/maxresdefault.jpg',
@@ -1680,29 +1620,9 @@ let post = [
     date: '2020. 5. 27'
   },
   {
-    image: 'https://i.ytimg.com/vi/T_nf_0b_zbw/maxresdefault.jpg',
-    imageText: "박진영 - 날 떠나지마, Lalala",
-    backBtnType: 'w',
-    genre: 'korea-medium',
-    content: [
-      {
-        type: 'youtube',
-        data: "T_nf_0b_zbw",
-        desc: ''
-      },
-      {
-        type: 'text',
-        data: '출처 \nyoutube.com/watch?v=T_nf_0b_zbw',
-        desc: ''
-      },
-    ],
-    origin: 'youtube',
-    date: '2012. 6. 7'
-  },
-  {
-    image: 'https://i1.wp.com/alyricso.com/wp-content/uploads/2020/05/Samuel-Seo-D-I-A-L.jpg?resize=500%2C500&ssl=1',
+    image: 'https://i.ytimg.com/vi/vatds1KJGak/maxresdefault.jpg',
     imageText: "[Lyric Video] 서사무엘 / Samuel Seo - 개나리 (Feat. 백예린)",
-    backBtnType: 'w',
+    backBtnType: 'b',
     genre: 'korea-medium',
     content: [
       {
@@ -1778,46 +1698,6 @@ let post = [
     ],
     origin: 'youtube',
     date: '2019. 4. 7'
-  },
-  {
-    image: 'https://i.ytimg.com/vi/_s5JQkJ6t6I/maxresdefault.jpg',
-    imageText: "RAIN(비) _ The Best Present(최고의 선물) (Prod. By PSY)",
-    backBtnType: 'w',
-    genre: 'korea-medium',
-    content: [
-      {
-        type: 'youtube',
-        data: "_s5JQkJ6t6I",
-        desc: ''
-      },
-      {
-        type: 'text',
-        data: '출처 \nyoutube.com/watch?v=_s5JQkJ6t6I',
-        desc: ''
-      },
-    ],
-    origin: 'youtube',
-    date: '2017. 1. 15'
-  },
-  {
-    image: 'https://i.ytimg.com/vi/DIDYpFGDBDI/maxresdefault.jpg',
-    imageText: "RAIN(비) _ 30SEXY",
-    backBtnType: 'w',
-    genre: 'korea-rnb',
-    content: [
-      {
-        type: 'youtube',
-        data: "DIDYpFGDBDI",
-        desc: ''
-      },
-      {
-        type: 'text',
-        data: '출처 \nyoutube.com/watch?v=DIDYpFGDBDI',
-        desc: ''
-      },
-    ],
-    origin: 'youtube',
-    date: '2014. 1. 2'
   },
   {
     image: 'https://i.ytimg.com/vi/xmwWUYwVJbE/maxresdefault.jpg',
@@ -1920,26 +1800,6 @@ let post = [
     date: '2019. 11. 21'
   },
   {
-    image: 'https://i.ytimg.com/vi/L-nCGCkyj7s/maxresdefault.jpg',
-    imageText: "양철로봇 - 정류장 (복면가왕)",
-    backBtnType: 'w',
-    genre: 'korea-ballad',
-    content: [
-      {
-        type: 'youtube',
-        data: "JBVRJ4e7w2w",
-        desc: ''
-      },
-      {
-        type: 'text',
-        data: '출처 \nyoutube.com/watch?v=JBVRJ4e7w2w',
-        desc: ''
-      },
-    ],
-    origin: 'youtube',
-    date: '2016. 12. 22'
-  },
-  {
     image: 'https://i.ytimg.com/vi/wzivWc8UjuU/maxresdefault.jpg',
     imageText: "마린보이 - replay (복면가왕)",
     backBtnType: 'w',
@@ -2018,86 +1878,6 @@ let post = [
     ],
     origin: 'youtube',
     date: '2018. 2. 9'
-  },
-  {
-    image: 'https://i.ytimg.com/vi/PWK8EuUSMSI/maxresdefault.jpg',
-    imageText: "Mac Ayres - Easy",
-    backBtnType: 'w',
-    genre: 'foreign-medium',
-    content: [
-      {
-        type: 'youtube',
-        data: "PWK8EuUSMSI",
-        desc: ''
-      },
-      {
-        type: 'text',
-        data: '출처 \nyoutube.com/watch?v=PWK8EuUSMSI',
-        desc: ''
-      },
-    ],
-    origin: 'youtube',
-    date: '2017. 8. 10'
-  },
-  {
-    image: 'https://i.ytimg.com/vi/9jAjHucs8Q8/maxresdefault.jpg',
-    imageText: "Mac Ayres - Slow Down",
-    backBtnType: 'w',
-    genre: 'foreign-medium',
-    content: [
-      {
-        type: 'youtube',
-        data: "9jAjHucs8Q8",
-        desc: ''
-      },
-      {
-        type: 'text',
-        data: '출처 \nyoutube.com/watch?v=9jAjHucs8Q8',
-        desc: ''
-      },
-    ],
-    origin: 'youtube',
-    date: '2017. 8. 10'
-  },
-  {
-    image: 'https://i.ytimg.com/vi/eRqv8tV8K88/maxresdefault.jpg',
-    imageText: "수비 (Soovi) - Make the Move",
-    backBtnType: 'w',
-    genre: 'korea-medium',
-    content: [
-      {
-        type: 'youtube',
-        data: "eRqv8tV8K88",
-        desc: ''
-      },
-      {
-        type: 'text',
-        data: '출처 \nyoutube.com/watch?v=eRqv8tV8K88',
-        desc: ''
-      },
-    ],
-    origin: 'youtube',
-    date: '2020. 4. 19'
-  },
-  {
-    image: 'https://i.ytimg.com/vi/fAkkNmfhDF4/maxresdefault.jpg',
-    imageText: "(MV) 산들(SANDEUL) - 게으른 나(Lazy Me)",
-    backBtnType: 'w',
-    genre: 'korea-medium',
-    content: [
-      {
-        type: 'youtube',
-        data: "fAkkNmfhDF4",
-        desc: ''
-      },
-      {
-        type: 'text',
-        data: '출처 \nyoutube.com/watch?v=fAkkNmfhDF4',
-        desc: ''
-      },
-    ],
-    origin: 'youtube',
-    date: '2020. 5. 27'
   },
 ];
 

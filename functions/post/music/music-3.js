@@ -290,7 +290,7 @@ let post = [
     date: '2020. 1. 9'
   },
   {
-    image: 'https://t2.daumcdn.net/thumb/R720x0/?fname=http://t1.daumcdn.net/brunch/service/user/27PV/image/B2SaAFuPl0vT-4UReK5s1TLTupU.jpg',
+    image: 'https://i.ytimg.com/vi/hWOB5QYcmh0/sddefault.jpg',
     imageText: 'HONNE - Day 1',
     backBtnType: 'w',
     genre: 'foreign-rnb',
@@ -330,7 +330,7 @@ let post = [
     date: '2018. 4. 27'
   },
   {
-    image: 'https://t1.daumcdn.net/cfile/tistory/2502D1405833797716',
+    image: 'https://i.ytimg.com/vi/sg34LyfYobo/sddefault.jpg',
     imageText: "Ella Mai - She Don't Ft. TyDolla$ign [Official Video]",
     backBtnType: 'w',
     genre: 'black',
@@ -1270,26 +1270,6 @@ let post = [
     date: '2020. 6. 19'
   },
   {
-    image: 'https://i.ytimg.com/vi/cytXqxHqvLY/hqdefault.jpg',
-    imageText: "John Legend - I Do (Official Audio)",
-    backBtnType: 'w',
-    genre: 'black',
-    content: [
-      {
-        type: 'youtube',
-        data: "cytXqxHqvLY",
-        desc: ''
-      },
-      {
-        type: 'text',
-        data: '출처 \nyoutube.com/watch?v=cytXqxHqvLY',
-        desc: ''
-      },
-    ],
-    origin: 'youtube',
-    date: '2020. 6. 19'
-  },
-  {
     image: 'https://i.ytimg.com/vi/jBAdBd_hd-8/maxresdefault.jpg',
     imageText: "오반(OVAN) - 어떻게 지내",
     backBtnType: 'w',
@@ -1328,26 +1308,6 @@ let post = [
     ],
     origin: 'youtube',
     date: '2020. 3. 7'
-  },
-  {
-    image: 'https://i.ytimg.com/vi/Gm0ODfzVoQU/maxresdefault.jpg',
-    imageText: "[M2 LIVE] 지코(ZICO) - Summer Hate (Feat. 비(RAIN))",
-    backBtnType: 'w',
-    genre: 'korea-medium',
-    content: [
-      {
-        type: 'youtube',
-        data: "Gm0ODfzVoQU",
-        desc: ''
-      },
-      {
-        type: 'text',
-        data: '출처 \nyoutube.com/watch?v=Gm0ODfzVoQU',
-        desc: ''
-      },
-    ],
-    origin: 'youtube',
-    date: '2020. 7. 1'
   },
   {
     image: 'https://i.ytimg.com/vi/mG3XAXlCcD4/hqdefault.jpg',
@@ -1408,26 +1368,6 @@ let post = [
     ],
     origin: 'youtube',
     date: '2008. 6. 18'
-  },
-  {
-    image: 'https://i.ytimg.com/vi/tKv1E7ITA3c/maxresdefault.jpg',
-    imageText: "빅마마 - break away",
-    backBtnType: 'w',
-    genre: 'korea-rnb',
-    content: [
-      {
-        type: 'youtube',
-        data: "tKv1E7ITA3c",
-        desc: ''
-      },
-      {
-        type: 'text',
-        data: '출처 \nyoutube.com/watch?v=tKv1E7ITA3c',
-        desc: ''
-      },
-    ],
-    origin: 'youtube',
-    date: '2020. 4. 20'
   },
   {
     image: 'https://i.ytimg.com/vi/4VmLuWDkHYQ/maxresdefault.jpg',
@@ -1530,46 +1470,6 @@ let post = [
     date: '2020. 6. 24'
   },
   {
-    image: 'https://i.ytimg.com/vi/LYYBdGMUYjc/maxresdefault.jpg',
-    imageText: "크러쉬(Crush) x 적재(Jukjae) - 가리워진 길 <비긴어게인 코리아>",
-    backBtnType: 'w',
-    genre: 'korea-ballad',
-    content: [
-      {
-        type: 'youtube',
-        data: "LYYBdGMUYjc",
-        desc: ''
-      },
-      {
-        type: 'text',
-        data: '출처 \nyoutube.com/watch?v=LYYBdGMUYjc',
-        desc: ''
-      },
-    ],
-    origin: 'youtube',
-    date: '2020. 6. 20'
-  },
-  {
-    image: 'https://i.ytimg.com/vi/-xFqFn83AHM/hqdefault.jpg',
-    imageText: "이문세X이소라X윤도현X유희열 - 조조할인",
-    backBtnType: 'w',
-    genre: 'korea-ballad',
-    content: [
-      {
-        type: 'youtube',
-        data: "-xFqFn83AHM",
-        desc: ''
-      },
-      {
-        type: 'text',
-        data: '출처 \nyoutube.com/watch?v=-xFqFn83AHM',
-        desc: ''
-      },
-    ],
-    origin: 'youtube',
-    date: '2020. 7. 18'
-  },
-  {
     image: 'https://i.ytimg.com/vi/NUKa5Py3owA/maxresdefault.jpg',
     imageText: "이효리(린다G) - LINDA (Feat.윤미래)",
     backBtnType: 'w',
@@ -1628,26 +1528,6 @@ let post = [
     ],
     origin: 'youtube',
     date: '2020. 8. 19'
-  },
-  {
-    image: 'https://i.ytimg.com/vi/D5G5AA2aby0/maxresdefault.jpg',
-    imageText: "Kamal. - blue (LYRICS)",
-    backBtnType: 'w',
-    genre: 'foreign-medium',
-    content: [
-      {
-        type: 'youtube',
-        data: "D5G5AA2aby0",
-        desc: ''
-      },
-      {
-        type: 'text',
-        data: '출처 \nyoutube.com/watch?v=D5G5AA2aby0',
-        desc: ''
-      },
-    ],
-    origin: 'youtube',
-    date: '2020. 5. 27'
   },
   {
     image: 'https://i.ytimg.com/vi/Ja_wQnVgkEc/hqdefault.jpg',

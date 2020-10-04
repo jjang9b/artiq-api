@@ -1,6 +1,6 @@
 let post = [
   {
-    image: 'https://s.mxmcdn.net/images-storage/albums4/9/9/8/2/5/1/35152899_800_800.jpg',
+    image: 'https://i.ytimg.com/vi/vD6-JQtsmas/sddefault.jpg',
     imageText: 'Mullally - Wonderful',
     backBtnType: 'w',
     genre: 'foreign-rnb',
@@ -340,26 +340,6 @@ let post = [
     date: '2014. 5. 10'
   },
   {
-    image: 'https://image.bugsm.co.kr/album/images/500/4946/494629.jpg',
-    imageText: '이문세 - 봄바람 (feat. 나얼)',
-    backBtnType: 'b',
-    genre: 'korea-ballad',
-    content: [
-      {
-        type: 'youtube',
-        data: "smVvQVCtka4",
-        desc: ''
-      },
-      {
-        type: 'text',
-        data: '출처 \nyoutube.com/watch?v=smVvQVCtka4',
-        desc: ''
-      },
-    ],
-    origin: 'youtube',
-    date: '2015. 4. 7'
-  },
-  {
     image: 'https://i.ytimg.com/vi/-yvHqenLpUU/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAPHAbwVg19vbXeVfj4vo74IRssKQ',
     imageText: 'Lukas Graham - Drunk In The Morning [Official Music Video ]',
     backBtnType: 'w',
@@ -561,7 +541,7 @@ let post = [
   },
   {
     image: 'https://i.ytimg.com/vi/3z9sq9e5iu4/maxresdefault.jpg',
-    imageText: 'BIBI(비비) _ BINU(비누)',
+    imageText: 'BIBI(비비) - BINU(비누)',
     backBtnType: 'w',
     genre: 'korea-rnb',
     content: [
@@ -640,46 +620,6 @@ let post = [
     date: '2018. 8. 29'
   },
   {
-    image: 'https://www.maifm.co.nz/home/hip-hop-hollywood/2016/08/lauryn-hill-covers-jammin----master-blaster/_jcr_content/image.dynimg.1280.q75.jpg/v1470720122161/lauryn-hill.jpg',
-    imageText: "Ms. Lauryn Hill 'Jammin/Master Blaster'",
-    backBtnType: 'w',
-    genre: 'black',
-    content: [
-      {
-        type: 'youtube',
-        data: "Yh5usm9WfJw",
-        desc: ''
-      },
-      {
-        type: 'text',
-        data: '출처 \nyoutube.com/watch?v=Yh5usm9WfJw',
-        desc: ''
-      },
-    ],
-    origin: 'youtube',
-    date: '2016. 8. 5'
-  },
-  {
-    image: 'https://www.rap-up.com/app/uploads/2011/06/hill-fallon-1280x720.jpg',
-    imageText: 'Lauryn Hill "Doo Wop (That Thing)"',
-    backBtnType: 'w',
-    genre: 'black',
-    content: [
-      {
-        type: 'youtube',
-        data: "4B4qEjqVM7o",
-        desc: ''
-      },
-      {
-        type: 'text',
-        data: '출처 \nyoutube.com/watch?v=4B4qEjqVM7o',
-        desc: ''
-      },
-    ],
-    origin: 'youtube',
-    date: '2011. 8. 11'
-  },
-  {
     image: 'https://i.ytimg.com/vi/sY1-OPsqJj0/maxresdefault.jpg',
     imageText: '박정현(Lena Park) - 오랜만에(Acoustic Ver)',
     backBtnType: 'w',
@@ -740,7 +680,7 @@ let post = [
     date: '2017. 9. 18'
   },
   {
-    image: 'https://img.discogs.com/FGvbx4VHCdwHIMX1I7Is4p4vWSM=/fit-in/500x500/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8747173-1471189526-1755.jpeg.jpg',
+    image: 'https://i.ytimg.com/vi/TWes186orLA/hqdefault.jpg',
     imageText: 'Michael Jackson - Rock With You (The Reflex Revision)',
     backBtnType: 'b',
     genre: 'foreign-rnb',
@@ -778,46 +718,6 @@ let post = [
     ],
     origin: 'youtube',
     date: '2009. 2. 16'
-  },
-  {
-    image: 'https://i.ytimg.com/vi/PcmfjqzJVQ0/hqdefault.jpg',
-    imageText: "Billy griffin - hold me tighter in the rain",
-    backBtnType: 'w',
-    genre: 'black',
-    content: [
-      {
-        type: 'youtube',
-        data: "nRXV7dHRWIU",
-        desc: ''
-      },
-      {
-        type: 'text',
-        data: '출처 \nyoutube.com/watch?v=nRXV7dHRWIU',
-        desc: ''
-      },
-    ],
-    origin: 'youtube',
-    date: '2017. 1. 26'
-  },
-  {
-    image: 'https://i.ytimg.com/vi/AUnypjWNa7Q/maxresdefault.jpg',
-    imageText: "Justin Bieber - Changes (Nature Visual)",
-    backBtnType: 'w',
-    genre: 'foreign-rnb',
-    content: [
-      {
-        type: 'youtube',
-        data: "AUnypjWNa7Q",
-        desc: ''
-      },
-      {
-        type: 'text',
-        data: '출처 \nyoutube.com/watch?v=AUnypjWNa7Q',
-        desc: ''
-      },
-    ],
-    origin: 'youtube',
-    date: '2020. 4. 3'
   },
   {
     image: 'https://i.pinimg.com/originals/47/42/0e/47420e9b8af16a732ab5ba8a08c9f28b.jpg',
@@ -938,26 +838,6 @@ let post = [
     ],
     origin: 'youtube',
     date: '2018. 7. 9'
-  },
-  {
-    image: 'https://i.ytimg.com/vi/rlU7CMsglvY/maxresdefault.jpg',
-    imageText: '박정현 - 까만 일기장 (비긴어게인3)',
-    backBtnType: 'w',
-    genre: 'korea-ballad',
-    content: [
-      {
-        type: 'youtube',
-        data: "rlU7CMsglvY",
-        desc: ''
-      },
-      {
-        type: 'text',
-        data: '출처 \nyoutube.com/watch?v=rlU7CMsglvY',
-        desc: ''
-      },
-    ],
-    origin: 'youtube',
-    date: '2020. 3. 23'
   },
   {
     image: 'https://i.ytimg.com/vi/XXx6RDzR6eM/maxresdefault.jpg',

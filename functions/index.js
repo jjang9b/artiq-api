@@ -3,7 +3,7 @@ const functions = require('firebase-functions');
 let adsList = [require(`./post/ads/ads-1`)['ads']];
 
 let musicList = [];
-for (let i = 1; i <= 3; i++) {
+for (let i = 1; i <= 4; i++) {
   musicList.push(require(`./post/music/music-${i}`)['post']);
 }
 
@@ -47,9 +47,6 @@ let getData = (type, genre) => {
       let artPost = artList.sort(() => 0.5-Math.random());
       return artPost[0].sort(() => 0.5-Math.random()).slice(0, 10);
       break;
-    case 'music':
-      return getMusic();
-        break;
     case 'music-like':
       if (!genre) {
         return getMusic();
@@ -86,7 +83,7 @@ let getData = (type, genre) => {
 exports.guide = functions.region('asia-northeast1').https.onRequest((req, res) => {
   res.status(200).send([
     {
-      image: 'https://i.pinimg.com/564x/7e/a8/42/7ea8422ea3c247ba17af1b77bff43608.jpg',
+      image: 'https://i.pinimg.com/564x/8b/20/04/8b200477277f61531c4098fff17c5756.jpg',
       title: '감각적 음악 창고 ArtiQ',
       text: 'Music makes us happy ♪'
     },
@@ -108,6 +105,7 @@ exports.guide = functions.region('asia-northeast1').https.onRequest((req, res) =
   ]);
 });
 
+/*
 exports.admusic = functions.region('asia-northeast1').https.onRequest((req, res) => {
   res.status(200).send(getData('ad-music'));
 });
@@ -115,10 +113,7 @@ exports.admusic = functions.region('asia-northeast1').https.onRequest((req, res)
 exports.adart = functions.region('asia-northeast1').https.onRequest((req, res) => {
   res.status(200).send(getData('ad-art'));
 });
-
-exports.music = functions.region('asia-northeast1').https.onRequest((req, res) => {
-  res.status(200).send(getData('music'));
-});
+*/
 
 exports.musiclike = functions.region('asia-northeast1').https.onRequest((req, res) => {
   res.status(200).send(getData('music-like', req.query['genre']));
