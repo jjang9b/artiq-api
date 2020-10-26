@@ -83,7 +83,7 @@ let getData = (type, genre) => {
 exports.guide = functions.region('asia-northeast1').https.onRequest((req, res) => {
   res.status(200).send([
     {
-      image: 'https://i.pinimg.com/564x/8b/20/04/8b200477277f61531c4098fff17c5756.jpg',
+      image: 'https://i.pinimg.com/564x/91/42/01/914201983033ace731310d27ed75c793.jpg',
       title: '감각적 음악 창고 ArtiQ',
       text: 'Music makes us happy ♪'
     },
@@ -104,16 +104,6 @@ exports.guide = functions.region('asia-northeast1').https.onRequest((req, res) =
     },
   ]);
 });
-
-/*
-exports.admusic = functions.region('asia-northeast1').https.onRequest((req, res) => {
-  res.status(200).send(getData('ad-music'));
-});
-
-exports.adart = functions.region('asia-northeast1').https.onRequest((req, res) => {
-  res.status(200).send(getData('ad-art'));
-});
-*/
 
 exports.musiclike = functions.region('asia-northeast1').https.onRequest((req, res) => {
   res.status(200).send(getData('music-like', req.query['genre']));

@@ -930,66 +930,6 @@ let post = [
     date: '2019. 9. 6'
   },
   {
-    image: 'https://i.ytimg.com/vi/a290srGkawg/maxresdefault.jpg',
-    imageText: "김현철 - Drive (feat. George)",
-    backBtnType: 'w',
-    genre: 'korea-city',
-    content: [
-      {
-        type: 'youtube',
-        data: "a290srGkawg",
-        desc: ''
-      },
-      {
-        type: 'text',
-        data: '출처 \nyoutube.com/watch?v=a290srGkawg',
-        desc: ''
-      },
-    ],
-    origin: 'youtube',
-    date: '2019. 5. 23'
-  },
-  {
-    image: 'https://i.ytimg.com/vi/xJ70auyLrUM/maxresdefault.jpg',
-    imageText: "죠지 - 오랜만에 (After a long time) 디깅클럽서울 Version",
-    backBtnType: 'w',
-    genre: 'korea-city',
-    content: [
-      {
-        type: 'youtube',
-        data: "xJ70auyLrUM",
-        desc: ''
-      },
-      {
-        type: 'text',
-        data: '출처 \nyoutube.com/watch?v=xJ70auyLrUM',
-        desc: ''
-      },
-    ],
-    origin: 'youtube',
-    date: '2018. 10. 8'
-  },
-  {
-    image: 'https://i.ytimg.com/vi/Xp78pd0zkCU/maxresdefault.jpg',
-    imageText: "블루(BLOO) - Downtown Baby",
-    backBtnType: 'w',
-    genre: 'korea-rnb',
-    content: [
-      {
-        type: 'youtube',
-        data: "3yST4DBZ8aE",
-        desc: ''
-      },
-      {
-        type: 'text',
-        data: '출처 \nyoutube.com/watch?v=3yST4DBZ8aE',
-        desc: ''
-      },
-    ],
-    origin: 'youtube',
-    date: '2020. 6. 16'
-  },
-  {
     image: 'https://i.ytimg.com/vi/o_El828QJNc/maxresdefault.jpg',
     imageText: "하림 - 난치병",
     backBtnType: 'w',
@@ -1483,26 +1423,6 @@ let post = [
       {
         type: 'text',
         data: '출처 \nyoutube.com/watch?v=NUKa5Py3owA',
-        desc: ''
-      },
-    ],
-    origin: 'youtube',
-    date: '2020. 8. 1'
-  },
-  {
-    image: 'https://i.ytimg.com/vi/W0_ejSvyyT0/maxresdefault.jpg',
-    imageText: "비룡 - 신난다 (Feat. 마마무)",
-    backBtnType: 'w',
-    genre: 'korea-rnb',
-    content: [
-      {
-        type: 'youtube',
-        data: "W0_ejSvyyT0",
-        desc: ''
-      },
-      {
-        type: 'text',
-        data: '출처 \nyoutube.com/watch?v=W0_ejSvyyT0',
         desc: ''
       },
     ],

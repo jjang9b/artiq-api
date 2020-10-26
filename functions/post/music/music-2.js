@@ -680,46 +680,6 @@ let post = [
     date: '2020. 3. 5'
   },
   {
-    image: 'https://i.ytimg.com/vi/pULaX9sXDlE/maxresdefault.jpg',
-    imageText: "베이빌론 (Babylon) - 바보 (Feat. Nafla)",
-    backBtnType: 'w',
-    genre: 'korea-rnb',
-    content: [
-      {
-        type: 'youtube',
-        data: "pULaX9sXDlE",
-        desc: ''
-      },
-      {
-        type: 'text',
-        data: '출처 \nyoutube.com/watch?v=pULaX9sXDlE',
-        desc: ''
-      },
-    ],
-    origin: 'youtube',
-    date: '2017. 4. 7'
-  },
-  {
-    image: 'https://i.ytimg.com/vi/_NQpLH8CiyM/maxresdefault.jpg',
-    imageText: "Babylon(베이빌론) - '비는 내리고 음악은 흐르고'(feat. Wall E) (Lyric Video)",
-    backBtnType: 'w',
-    genre: 'korea-medium',
-    content: [
-      {
-        type: 'youtube',
-        data: "_NQpLH8CiyM",
-        desc: ''
-      },
-      {
-        type: 'text',
-        data: '출처 \nyoutube.com/watch?v=_NQpLH8CiyM',
-        desc: ''
-      },
-    ],
-    origin: 'youtube',
-    date: '2017. 4. 7'
-  },
-  {
     image: 'https://i.ytimg.com/vi/L1ct5adH40Y/maxresdefault.jpg',
     imageText: "베이빌론 (Babylon) - Ocean Drive (Feat. San E) MV",
     backBtnType: 'w',
@@ -1120,26 +1080,6 @@ let post = [
     date: '2020. 2. 11'
   },
   {
-    image: 'https://i.ytimg.com/vi/sB6UGX2YPjQ/hqdefault.jpg',
-    imageText: '아이유 - 이 지금',
-    backBtnType: 'w',
-    genre: 'korea-medium',
-    content: [
-      {
-        type: 'youtube',
-        data: "8ykMyNHAdKk",
-        desc: ''
-      },
-      {
-        type: 'text',
-        data: '출처 \nyoutube.com/watch?v=8ykMyNHAdKk',
-        desc: ''
-      },
-    ],
-    origin: 'youtube',
-    date: '2017. 4. 21'
-  },
-  {
     image: 'https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/089/262/81089262_1532930994428_1_600x600.JPG',
     imageText: 'ZICO - SoulMate (feat. 아이유)',
     backBtnType: 'w',
@@ -1360,46 +1300,6 @@ let post = [
     date: '2019. 9. 20'
   },
   {
-    image: 'https://image.bugsm.co.kr/album/images/500/201152/20115259.jpg',
-    imageText: "Hoody (후디) - 한강 (HANGANG)",
-    backBtnType: 'w',
-    genre: 'korea-city',
-    content: [
-      {
-        type: 'youtube',
-        data: "9upHfoQh1K4",
-        desc: ''
-      },
-      {
-        type: 'text',
-        data: '출처 \nyoutube.com/watch?v=9upHfoQh1K4',
-        desc: ''
-      },
-    ],
-    origin: 'youtube',
-    date: '2017. 8. 31'
-  },
-  {
-    image: 'https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/080/902/435/80902435_1481102515367_1_600x600.JPG',
-    imageText: "Hoody (후디) - By Your Side (Feat. Jinbo)",
-    backBtnType: 'w',
-    genre: 'korea-medium',
-    content: [
-      {
-        type: 'youtube',
-        data: "TrxRuAOpHXQ",
-        desc: ''
-      },
-      {
-        type: 'text',
-        data: '출처 \nyoutube.com/watch?v=TrxRuAOpHXQ',
-        desc: ''
-      },
-    ],
-    origin: 'youtube',
-    date: '2016. 12. 8'
-  },
-  {
     image: 'https://i.ytimg.com/vi/uUt4lwddk8U/hqdefault.jpg',
     imageText: "Zion.T (자이언티) - 눈 (Feat. 이문세)",
     backBtnType: 'w',
@@ -1420,7 +1320,7 @@ let post = [
     date: '2017. 12. 4'
   },
   {
-    image: 'https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAJQU03.img?h=0&w=720&m=6&q=60&u=t&o=f&l=f',
+    image: 'https://i.ytimg.com/vi/Ug-x9fZjESk/maxresdefault.jpg',
     imageText: "Zion.T (자이언티) - 5월의 밤",
     backBtnType: 'w',
     genre: 'korea-ballad',
@@ -1440,7 +1340,7 @@ let post = [
     date: '2019. 11. 6'
   },
   {
-    image: 'https://image.bugsm.co.kr/album/images/500/202394/20239451.jpg',
+    image: 'https://i.ytimg.com/vi/-wwuoWFmgq4/maxresdefault.jpg',
     imageText: "장범준 - 당신과는 천천히",
     backBtnType: 'w',
     genre: 'korea-ballad',
@@ -1500,7 +1400,7 @@ let post = [
     date: '2020. 2. 27'
   },
   {
-    image: 'https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/270/156/81270156_1568962160757_1_600x600.JPG',
+    image: 'https://i.ytimg.com/vi/fjJmSkDhTq0/maxresdefault.jpg',
     imageText: "jeebanoff (지바노프) - 추억속의 그대 (The girl in my memories) Digging Club Seoul Version",
     backBtnType: 'w',
     genre: 'korea-city',

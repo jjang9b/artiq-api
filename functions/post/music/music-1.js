@@ -1,65 +1,5 @@
 let post = [
   {
-    image: 'https://i.ytimg.com/vi/vD6-JQtsmas/sddefault.jpg',
-    imageText: 'Mullally - Wonderful',
-    backBtnType: 'w',
-    genre: 'foreign-rnb',
-    content: [
-      {
-        type: 'youtube',
-        data: "vD6-JQtsmas",
-        desc: ''
-      },
-      {
-        type: 'text',
-        data: '출처 \nyoutube.com/watch?v=vD6-JQtsmas',
-        desc: ''
-      },
-    ],
-    origin: 'youtube',
-    date: '2018. 9. 30'
-  },
-  {
-    image: 'https://i.ytimg.com/vi/fHI8X4OXluQ/maxresdefault.jpg',
-    imageText: 'The Weeknd - Blinding Lights',
-    backBtnType: 'w',
-    genre: 'foreign-medium',
-    content: [
-      {
-        type: 'youtube',
-        data: "4NRXx6U8ABQ",
-        desc: ''
-      },
-      {
-        type: 'text',
-        data: '출처 \nyoutube.com/watch?v=4NRXx6U8ABQ',
-        desc: ''
-      },
-    ],
-    origin: 'youtube',
-    date: '2020. 1. 22'
-  },
-  {
-    image: 'https://i.ytimg.com/vi/ghuXuZAocqE/maxresdefault.jpg',
-    imageText: 'Tom Misch - Sunshine',
-    backBtnType: 'w',
-    genre: 'foreign-medium',
-    content: [
-      {
-        type: 'youtube',
-        data: "ghuXuZAocqE",
-        desc: ''
-      },
-      {
-        type: 'text',
-        data: '출처 \nyoutube.com/watch?v=ghuXuZAocqE',
-        desc: ''
-      },
-    ],
-    origin: 'youtube',
-    date: '2015. 7. 3'
-  },
-  {
     image: 'https://i.ytimg.com/vi/5Z-CKNYzV6g/maxresdefault.jpg',
     imageText: 'Lauv - Paris in the Rain [Official Video]',
     backBtnType: 'b',
@@ -1073,26 +1013,6 @@ let post = [
       {
         type: 'text',
         data: '출처 \nyoutube.com/watch?v=2_zhV_9CGik',
-        desc: ''
-      },
-    ],
-    origin: 'youtube',
-    date: '2019. 9. 11'
-  },
-  {
-    image: 'https://i.ytimg.com/vi/mHc2A6KtV4o/maxresdefault.jpg',
-    imageText: "OuiOui (위위) - 멀어지지 않게 (not too far)",
-    backBtnType: 'w',
-    genre: 'korea-city',
-    content: [
-      {
-        type: 'youtube',
-        data: "lyF7-GHQIsM",
-        desc: ''
-      },
-      {
-        type: 'text',
-        data: '출처 \nyoutube.com/watch?v=lyF7-GHQIsM',
         desc: ''
       },
     ],
