@@ -619,6 +619,46 @@ let post = [
     origin: 'youtube',
     date: '2020. 5. 24'
   },
+  {
+    image: 'https://i.ytimg.com/vi/lgJOYdYBTnM/maxresdefault.jpg',
+    imageText: "2013 월간 윤종신 Repair 2월호 - 내일 할 일 with 성시경 MV",
+    backBtnType: 'w',
+    genre: 'korea-ballad',
+    content: [
+      {
+        type: 'youtube',
+        data: "lgJOYdYBTnM",
+        desc: ''
+      },
+      {
+        type: 'text',
+        data: '출처 \nyoutube.com/watch?v=lgJOYdYBTnM',
+        desc: ''
+      },
+    ],
+    origin: 'youtube',
+    date: '2013. 2. 4'
+  },
+  {
+    image: 'https://i.ytimg.com/vi/BY8pslQ7x44/maxresdefault.jpg',
+    imageText: "버벌진트 (Verbal Jint) - 1219 Epiphany",
+    backBtnType: 'w',
+    genre: 'korea-hiphop',
+    content: [
+      {
+        type: 'youtube',
+        data: "BY8pslQ7x44",
+        desc: ''
+      },
+      {
+        type: 'text',
+        data: '출처 \nyoutube.com/watch?v=BY8pslQ7x44',
+        desc: ''
+      },
+    ],
+    origin: 'youtube',
+    date: '2020. 5. 8'
+  },
 ];
 
 exports.post = post;
