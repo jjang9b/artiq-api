@@ -20,6 +20,86 @@ let post = [
     date: '2016. 7. 17'
   },
   {
+    image: 'https://i.ytimg.com/vi/9J0Qx2Vn8i8/hqdefault.jpg',
+    imageText: "Pink Sweat$ - At My Worst",
+    backBtnType: 'w',
+    genre: 'foreign-medium',
+    content: [
+      {
+        type: 'youtube',
+        data: "9J0Qx2Vn8i8",
+        desc: ''
+      },
+      {
+        type: 'text',
+        data: '출처 \nyoutube.com/watch?v=9J0Qx2Vn8i8',
+        desc: ''
+      },
+    ],
+    origin: 'youtube',
+    date: '2020. 7. 17'
+  },
+  {
+    image: 'https://i.ytimg.com/vi/67i2zCI4G14/maxresdefault.jpg',
+    imageText: "적재 - 반짝 빛나던, 나의 2006년",
+    backBtnType: 'w',
+    genre: 'korea-ballad',
+    content: [
+      {
+        type: 'youtube',
+        data: "2P68SKn0aSQ",
+        desc: ''
+      },
+      {
+        type: 'text',
+        data: '출처 \nyoutube.com/watch?v=2P68SKn0aSQ',
+        desc: ''
+      },
+    ],
+    origin: 'youtube',
+    date: '2020. 11. 12'
+  },
+  {
+    image: 'https://i.ytimg.com/vi/c1gPf16NjsY/maxresdefault.jpg',
+    imageText: "일기예보 - 인형의 꿈 (1996年)",
+    backBtnType: 'w',
+    genre: 'korea-ballad',
+    content: [
+      {
+        type: 'youtube',
+        data: "c1gPf16NjsY",
+        desc: ''
+      },
+      {
+        type: 'text',
+        data: '출처 \nyoutube.com/watch?v=c1gPf16NjsY',
+        desc: ''
+      },
+    ],
+    origin: 'youtube',
+    date: '2012. 5. 8'
+  },  
+  {
+    image: 'https://i.ytimg.com/vi/c1gPf16NjsY/maxresdefault.jpg',
+    imageText: "일기예보 - 인형의 꿈 (1996年)",
+    backBtnType: 'w',
+    genre: 'korea-ballad',
+    content: [
+      {
+        type: 'youtube',
+        data: "c1gPf16NjsY",
+        desc: ''
+      },
+      {
+        type: 'text',
+        data: '출처 \nyoutube.com/watch?v=c1gPf16NjsY',
+        desc: ''
+      },
+    ],
+    origin: 'youtube',
+    date: '2012. 5. 8'
+  },
+  {
     image: 'https://i.ytimg.com/vi/nG6249LQEkU/hqdefault.jpg',
     imageText: "[DF Killing Voice] george 죠지",
     backBtnType: 'w',
@@ -1240,24 +1320,24 @@ let post = [
     date: '2019. 12. 2'
   },
   {
-    image: 'https://i.ytimg.com/vi/6KlBEHB6lBg/maxresdefault.jpg',
-    imageText: "기리보이 - 술자리",
+    image: 'https://i.ytimg.com/vi/MfjUCIMu9Ng/maxresdefault.jpg',
+    imageText: "기리보이 - 술자리 (Jiwoo Cover)",
     backBtnType: 'w',
     genre: 'korea-hiphop',
     content: [
       {
         type: 'youtube',
-        data: "6KlBEHB6lBg",
+        data: "sbGSV3C0sjM",
         desc: ''
       },
       {
         type: 'text',
-        data: '출처 \nyoutube.com/watch?v=6KlBEHB6lBg',
+        data: '출처 \nyoutube.com/watch?v=sbGSV3C0sjM',
         desc: ''
       },
     ],
     origin: 'youtube',
-    date: '2018. 11. 25'
+    date: '2019. 1. 2'
   },
   {
     image: 'https://image.bugsm.co.kr/album/images/500/202762/20276214.jpg',

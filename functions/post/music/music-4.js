@@ -20,6 +20,26 @@ let post = [
     date: '2019. 10. 18'
   },
   {
+    image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-bdeMEB4eduet5CdtUOAGeRaYZthddj955w&usqp=CAU',
+    imageText: "기리보이 - 거지 (Feat. YUNHWAY & Jhnovr & JUSTHIS)",
+    backBtnType: 'w',
+    genre: 'korea-hiphop',
+    content: [
+      {
+        type: 'youtube',
+        data: "Yip2BcqOEYY",
+        desc: ''
+      },
+      {
+        type: 'text',
+        data: '출처 \nyoutube.com/watch?v=Yip2BcqOEYY',
+        desc: ''
+      },
+    ],
+    origin: 'youtube',
+    date: '2019. 12. 2'
+  },
+  {
     image: 'https://image.bugsm.co.kr/album/images/500/201152/20115259.jpg',
     imageText: "Hoody (후디) - 한강 (HANGANG)",
     backBtnType: 'w',
@@ -658,6 +678,106 @@ let post = [
     ],
     origin: 'youtube',
     date: '2020. 5. 8'
+  },
+  {
+    image: 'https://i.ytimg.com/vi/_LoXkir3T7I/maxresdefault.jpg',
+    imageText: "기리보이 (Giriboy) - 하루종일 (Band Ver)",
+    backBtnType: 'w',
+    genre: 'korea-medium',
+    content: [
+      {
+        type: 'youtube',
+        data: "_LoXkir3T7I",
+        desc: ''
+      },
+      {
+        type: 'text',
+        data: '출처 \nyoutube.com/watch?v=_LoXkir3T7I',
+        desc: ''
+      },
+    ],
+    origin: 'youtube',
+    date: '2020. 4. 26'
+  },
+  {
+    image: 'https://i.ytimg.com/vi/louoxiUMBc0/maxresdefault.jpg',
+    imageText: "Post Malone - Rockstar ft. 21 Savage",
+    backBtnType: 'w',
+    genre: 'foreign-hiphop',
+    content: [
+      {
+        type: 'youtube',
+        data: "louoxiUMBc0",
+        desc: ''
+      },
+      {
+        type: 'text',
+        data: '출처 \nyoutube.com/watch?v=louoxiUMBc0',
+        desc: ''
+      },
+    ],
+    origin: 'youtube',
+    date: '2017. 11. 9'
+  },
+  {
+    image: 'https://i.ytimg.com/vi/cRiwofFL6o4/maxresdefault.jpg',
+    imageText: "Ty Dolla $ign – Temptations (Lyrics) Ft. Kid Cud",
+    backBtnType: 'w',
+    genre: 'foreign-hiphop',
+    content: [
+      {
+        type: 'youtube',
+        data: "cRiwofFL6o4",
+        desc: ''
+      },
+      {
+        type: 'text',
+        data: '출처 \nyoutube.com/watch?v=cRiwofFL6o4',
+        desc: ''
+      },
+    ],
+    origin: 'youtube',
+    date: '2020. 10. 24'
+  },
+  {
+    image: 'https://i.ytimg.com/vi/M7owXejaWSc/maxresdefault.jpg',
+    imageText: "Seoul Romance- JUSTHIS & Paloalto 저스디스 & 팔로알토 (Prod. By GroovyRoom)",
+    backBtnType: 'w',
+    genre: 'korea-hiphop',
+    content: [
+      {
+        type: 'youtube',
+        data: "M7owXejaWSc",
+        desc: ''
+      },
+      {
+        type: 'text',
+        data: '출처 \nyoutube.com/watch?v=M7owXejaWSc',
+        desc: ''
+      },
+    ],
+    origin: 'youtube',
+    date: '2019. 3. 26'
+  },
+  {
+    image: 'https://i.ytimg.com/vi/dbCgebXQtBU/hqdefault.jpg',
+    imageText: "PEOPLE (Feat. Paloalto, The Quiett) (PEOPLE (Feat. Paloalto, The Quiett))",
+    backBtnType: 'w',
+    genre: 'korea-hiphop',
+    content: [
+      {
+        type: 'youtube',
+        data: "dbCgebXQtBU",
+        desc: ''
+      },
+      {
+        type: 'text',
+        data: '출처 \nyoutube.com/watch?v=dbCgebXQtBU',
+        desc: ''
+      },
+    ],
+    origin: 'youtube',
+    date: '2020. 4. 2'
   },
 ];
 

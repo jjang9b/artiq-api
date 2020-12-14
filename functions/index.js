@@ -2,9 +2,9 @@ const functions = require('firebase-functions');
 
 let adsList = [require(`./post/ads/ads-1`)['ads']];
 
-let musicList = [];
+let musicPostList = [];
 for (let i = 1; i <= 4; i++) {
-  musicList.push(require(`./post/music/music-${i}`)['post']);
+  musicPostList.push(require(`./post/music/music-${i}`)['post']);
 }
 
 let artList = [];
@@ -12,27 +12,37 @@ for (let i = 1; i <= 1; i++) {
   artList.push(require(`./post/art/art-${i}`)['post']);
 }
 
-function getMusic () {
-  let count = 25;
-  let musicPostList = getMusicCount(count);
+function getGenreList ({genre}) {
+  let genreAllList = [];
 
-  while (musicPostList.length < 25) {
-    count = 25 - musicPostList.length;
-
-    musicPostList = musicPostList.concat(getMusicCount(count));
+  for (let i = 0; i < musicPostList.length; i++) {
+      genreAllList = genreAllList.concat(musicPostList[i].filter((m) => m['genre'] == genre));
   }
 
-  return musicPostList;
+  return genreAllList.sort(() => 0.5 - Math.random()).slice(0, 10);
 }
 
-function getMusicCount (count) {
-  let musicPost = musicList.sort(() => 0.5-Math.random());
-  return musicPost[0].sort(() => 0.5-Math.random()).slice(0, count);
-}
+function getMusicList ({totalCount, getCount, genre}) {
+  let musicList = [];
+  let loofIndex = 0;
 
-function getRandomMusic (ranCount, genre) {
-  let musicRandomPost = musicList.sort(() => 0.5-Math.random());
-  return musicRandomPost[0].filter((m) => m['genre'] != genre).sort(() => 0.5-Math.random()).slice(0, ranCount);
+  while (musicList.length < totalCount) {
+    if (loofIndex > musicPostList.length -1) {
+      loofIndex = 0;
+    }
+
+    let getMusic = musicPostList[loofIndex]
+        .filter((m) => m['genre'] != genre)
+        .sort(() => 0.5 - Math.random()).slice(0, getCount);
+
+    if (getMusic.length > 0) {
+      musicList = musicList.concat(getMusic);
+    }
+
+    loofIndex += 1;
+  }
+
+  return musicList;
 }
 
 let getData = (type, genre) => {
@@ -49,32 +59,19 @@ let getData = (type, genre) => {
       break;
     case 'music-like':
       if (!genre) {
-        return getMusic();
+        return getMusicList({totalCount: 25, getCount: 3, genre: null});
       }
 
-      let likeList = [];
-      for (let i in musicList) {
-        let genreFilter = musicList[i].filter((m) => m['genre'] == genre);
+      let ranCount = 4;
+      let ranListCount = 15;
+      let musicList = [];
 
-        if (genreFilter.length > 0) {
-          likeList = likeList.concat(genreFilter);
-        }
-      }
-      likeList = likeList.sort(() => 0.5-Math.random()).slice(0, 10);
+      let genreList = getGenreList({genre});
+      let randomList = getMusicList({totalCount: ranListCount, getCount: ranCount, genre});
+      musicList = musicList.concat(genreList);
+      musicList = musicList.concat(randomList);
 
-      let ranCount = 15;
-      if (likeList.length < 10) {
-        ranCount += (10 - likeList.length);
-      }
-
-      let musicRandomList = getRandomMusic(ranCount, genre);
-      while ((likeList.length + musicRandomList.length) < 25) {
-        ranCount -= musicRandomList.length;
-
-        musicRandomList = musicRandomList.concat(getRandomMusic(ranCount, genre));
-      }
-
-      return likeList.concat(musicRandomList);
+      return musicList;
         break;
     default:
   }
@@ -83,7 +80,7 @@ let getData = (type, genre) => {
 exports.guide = functions.region('asia-northeast1').https.onRequest((req, res) => {
   res.status(200).send([
     {
-      image: 'https://i.pinimg.com/564x/91/42/01/914201983033ace731310d27ed75c793.jpg',
+      image: 'https://i.pinimg.com/originals/d2/07/73/d20773d100002ce7593a70f313aa0a15.gif',
       title: '감각적 음악 창고 ArtiQ',
       text: 'Music makes us happy ♪'
     },

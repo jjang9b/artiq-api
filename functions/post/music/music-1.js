@@ -500,19 +500,19 @@ let post = [
     date: '2019. 5. 15'
   },
   {
-    image: 'https://i.ytimg.com/vi/WSg9TPYIuxU/hqdefault.jpg',
+    image: 'https://i.ytimg.com/vi/RmBLQx-a0uo/maxresdefault.jpg',
     imageText: '40(포티) - 이불',
     backBtnType: 'w',
     genre: 'korea-rnb',
     content: [
       {
         type: 'youtube',
-        data: "4YTKUZHJEhI",
+        data: "RmBLQx-a0uo",
         desc: ''
       },
       {
         type: 'text',
-        data: '출처 \nyoutube.com/watch?v=4YTKUZHJEhI',
+        data: '출처 \nyoutube.com/watch?v=RmBLQx-a0uo',
         desc: ''
       },
     ],
@@ -1720,7 +1720,7 @@ let post = [
     date: '2018. 10. 5'
   },
   {
-    image: 'https://i.ytimg.com/vi/A2i5uomBAZQ/maxresdefault.jpg',
+    image: 'https://i.ytimg.com/vi/pLDXOebjblk/hqdefault.jpg',
     imageText: "Supreme Team (슈프림팀) - 너 때문이야 (Feat. Soulman)",
     backBtnType: 'w',
     genre: 'korea-hiphop',

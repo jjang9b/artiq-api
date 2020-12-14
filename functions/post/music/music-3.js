@@ -20,6 +20,46 @@ let post = [
     date: '2018. 11. 14'
   },
   {
+    image: 'https://image.genie.co.kr/Y/IMAGE/IMG_ALBUM/081/743/752/81743752_1605852404684_1_600x600.JPG',
+    imageText: "미란이, 먼치맨, Khundi Panda, 머쉬베놈 - VVS (Feat. JUSTHIS) (Prod. GroovyRoom)",
+    backBtnType: 'w',
+    genre: 'korea-hiphop',
+    content: [
+      {
+        type: 'youtube',
+        data: "pggk8kZ8VNk",
+        desc: ''
+      },
+      {
+        type: 'text',
+        data: '출처 \nyoutube.com/watch?v=pggk8kZ8VNk',
+        desc: ''
+      },
+    ],
+    origin: 'youtube',
+    date: '2020. 11. 21'
+  },
+  {
+    image: 'https://i.ytimg.com/vi/fsUTzUVJ74I/maxresdefault.jpg',
+    imageText: "릴보이 X 원슈타인 X 칠린호미 - Freak (Prod. Slom)",
+    backBtnType: 'w',
+    genre: 'korea-hiphop',
+    content: [
+      {
+        type: 'youtube',
+        data: "xYMxzPqBU-s",
+        desc: ''
+      },
+      {
+        type: 'text',
+        data: '출처 \nyoutube.com/watch?v=xYMxzPqBU-s',
+        desc: ''
+      },
+    ],
+    origin: 'youtube',
+    date: '2020. 11. 21'
+  },
+  {
     image: 'https://i.ytimg.com/vi/KCpawXf4HD8/maxresdefault.jpg',
     imageText: "드렁큰 타이거 - 끄덕이는 노래 (Mantra) MV",
     backBtnType: 'w',
@@ -1468,6 +1508,46 @@ let post = [
     ],
     origin: 'youtube',
     date: '2010. 2. 21'
+  },
+  {
+    image: 'https://i.ytimg.com/vi/UCvUPy3lyiY/hqdefault.jpg',
+    imageText: "Frankie Bleu - Just For You",
+    backBtnType: 'w',
+    genre: 'soul',
+    content: [
+      {
+        type: 'youtube',
+        data: "UCvUPy3lyiY",
+        desc: ''
+      },
+      {
+        type: 'text',
+        data: '출처 \nyoutube.com/watch?v=UCvUPy3lyiY',
+        desc: ''
+      },
+    ],
+    origin: 'youtube',
+    date: '2009. 11. 2'
+  },
+  {
+    image: 'https://i.ytimg.com/vi/J_q_wNaDk4w/maxresdefault.jpg',
+    imageText: "Niteflyte - If You Want It",
+    backBtnType: 'w',
+    genre: 'soul',
+    content: [
+      {
+        type: 'youtube',
+        data: "J_q_wNaDk4w",
+        desc: ''
+      },
+      {
+        type: 'text',
+        data: '출처 \nyoutube.com/watch?v=J_q_wNaDk4w',
+        desc: ''
+      },
+    ],
+    origin: 'youtube',
+    date: '2013. 12. 23'
   },
 ];
 
